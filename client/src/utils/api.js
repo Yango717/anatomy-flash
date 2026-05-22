@@ -120,7 +120,9 @@ async function detectMode() {
 
 // ---- unified request ----
 async function request(path, options = {}) {
+  diag('RQ: '+path, '#888');
   const mode = await detectMode();
+  diag('RQ mode='+mode, '#888');
   if (mode === 'local') return localRequest(path, options);
   return fetchRequest(path, options);
 }
