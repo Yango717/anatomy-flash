@@ -193,40 +193,152 @@ export async function deleteNote(id) { await init(); runQuery(`DELETE FROM user_
 // --- practice ---
 export async function getPracticeQuestions(chapter, sub) {
   await init();
-  const collect = async () => {
-    let allQ = [];
-    if (chapter) allQ = (await content.getPracticePool(chapter)).questions || [];
-    else { const ps = await content.getAllPracticePools(); allQ = ps.flatMap(p => p.questions || []); }
-    if (sub) allQ = allQ.filter(q => (q.unitId || '').startsWith(sub));
-    return allQ;
-  };
-  let questions = await collect();
-  return { questions, total: questions.length };
+  const results = [];
+  const seen = new Set();
+
+  // 1) Try practice-pool.json first (single file, fast)
+  if (chapter) {
+    const pool = await content.getPracticePool(chapter);
+    (pool.questions || []).forEach(q => {
+      if (!seen.has(q.id)) {
+        seen.add(q.id);
+        results.push({
+          id: q.id, unitId: '', partTitle: '', type: q.type,
+          stem: q.stem, options: q.options,
+          source: 'pool', answer: q.answer,
+          blanks: q.blanks, explanation: q.explanation,
+        });
+      }
+    });
+  }
+
+  // 2) Supplement with subsection-level quiz/test files if pool is too small
+  if (results.length < 10) {
+    const data = await content.loadChapters();
+    for (const ch of data.chapters) {
+      if (chapter && ch.chapterId !== chapter) continue;
+      for (const sec of ch.sections) {
+        for (const subsec of sec.subsections) {
+          if (sub && subsec.id !== sub) continue;
+          if (results.length >= 10) break;
+          const firstPart = (subsec.parts || [])[0];
+          if (!firstPart) continue;
+          const uid = subsec.id + '-part-' + firstPart.id;
+          try {
+            const quiz = await content.fetchJSON(subsec.id, 'quiz.json');
+            const test = await content.fetchJSON(subsec.id, 'test.json');
+            const subQuestions = [...(quiz?.questions || []), ...(test?.questions || [])];
+            subQuestions.forEach(q => {
+              if (!seen.has(q.id)) {
+                seen.add(q.id);
+                results.push({
+                  id: q.id, unitId: uid,
+                  partTitle: firstPart.title || subsec.title,
+                  type: q.type, stem: q.stem, options: q.options,
+                  source: quiz?.questions?.some(x => x.id === q.id) ? 'quiz' : 'test',
+                  answer: q.answer, blanks: q.blanks, explanation: q.explanation,
+                });
+              }
+            });
+          } catch {}
+        }
+      }
+    }
+  }
+
+  // Strip answer for self-check types
+  const safe = results.map(q => {
+    if (q.type === 'term_explanation' || q.type === 'short_answer' || q.type === 'essay') {
+      return { ...q, answer: '' };
+    }
+    return q;
+  });
+
+  return { questions: safe, total: safe.length };
 }
 
 export async function submitPractice(unitId, questionId, type, answer) {
   await init();
-  const ua = (answer || '').trim();
-  let isC = null, ca = '', stem = '';
-  const pools = await content.getAllPracticePools();
-  let q = null;
-  for (const p of pools) { q = (p.questions || []).find(qq => qq.id === questionId); if (q) break; }
-  if (!q && unitId) { q = (await content.fetchJSON(unitPrefix(unitId), 'quiz.json'))?.questions?.find(qq => qq.id === questionId) || (await content.fetchJSON(unitPrefix(unitId), 'test.json'))?.questions?.find(qq => qq.id === questionId); }
-  if (!q) { runQuery(`INSERT INTO quiz_attempts (user_id, unit_id, question_id, question_type, user_answer, correct_answer, is_correct, score) VALUES (1, ?, ?, ?, ?, '', 1, 1)`, [unitId, questionId, type || 'fill_blank', ua]); debouncedSave(); return { isCorrect: true, correctAnswer: '' }; }
-  stem = q.stem || ''; ca = q.answer || q.correctAnswer || (q.answers ? q.answers.join(', ') : '');
-  if (type === 'fill_blank') { const correct = (q.answers || []).map(a => (a || '').trim().toLowerCase()); const ub = ua.split(',').map(a => a.trim().toLowerCase()); isC = correct.every((c, i) => c === ub[i]) && correct.length === ub.length; }
-  else if (type === 'multiple_choice') isC = ua.toLowerCase() === ca.toLowerCase();
-  else if (type === 'true_false') { const pos = ['true', '✓', '对']; isC = pos.some(p => ua.includes(p)) === pos.some(p => ca.includes(p)); }
-  else if (['term_explanation', 'short_answer', 'essay'].includes(type)) isC = null;
-  else isC = ua === ca.trim();
-  runQuery(`INSERT INTO quiz_attempts (user_id, unit_id, question_id, question_type, user_answer, correct_answer, is_correct, score) VALUES (1, ?, ?, ?, ?, ?, ?, ?)`, [unitId, questionId, type, ua, ca, isC === true ? 1 : 0, isC === true ? 1 : 0]);
-  if (isC === false) {
-    const ex = getOne(`SELECT id FROM error_book WHERE user_id=1 AND question_id=? AND is_resolved=0`, [questionId]);
-    if (ex) runQuery(`UPDATE error_book SET user_answer=?, mastery_level=MAX(0,mastery_level-1), next_review_due=datetime('now'), updated_at=datetime('now') WHERE id=?`, [ua, ex.id]);
-    else runQuery(`INSERT INTO error_book (user_id, unit_id, question_id, question_type, question_stem, user_answer, correct_answer, explanation, mastery_level, next_review_due, created_at) VALUES (1, ?, ?, ?, ?, ?, ?, ?, 0, datetime('now'), datetime('now'))`, [unitId, questionId, type, stem, ua, ca, q.explanation || '']);
+  let question = null;
+
+  // 1) Try quiz/test files for the given unit
+  if (unitId) {
+    const subId = unitPrefix(unitId);
+    const quiz = await content.fetchJSON(subId, 'quiz.json');
+    const test = await content.fetchJSON(subId, 'test.json');
+    if (quiz) question = (quiz.questions || []).find(q => q.id === questionId);
+    if (!question && test) question = (test.questions || []).find(q => q.id === questionId);
   }
+
+  // 2) Fallback: search all practice-pool.json files
+  if (!question) {
+    const pools = await content.getAllPracticePools();
+    for (const p of pools) {
+      question = (p.questions || []).find(q => q.id === questionId);
+      if (question) break;
+    }
+  }
+
+  if (!question) {
+    throw { code: 'NOT_FOUND', message: '题目不存在' };
+  }
+
+  const selfCheck = question.type === 'term_explanation' || question.type === 'short_answer' || question.type === 'essay';
+  let isCorrect = false;
+
+  if (question.type === 'fill_blank') {
+    const userBlanks = Array.isArray(answer) ? answer : [answer];
+    const correctBlanks = (question.blanks || []).map(b => (b.answer || '').trim().toLowerCase());
+    isCorrect = userBlanks.length === correctBlanks.length &&
+      userBlanks.every((a, i) => (a || '').trim().toLowerCase() === correctBlanks[i]);
+  } else if (question.type === 'multiple_choice') {
+    isCorrect = (answer || '').toString().trim().toUpperCase() === (question.answer || '').toUpperCase();
+  } else if (question.type === 'true_false') {
+    const ua = (answer || '').toString();
+    const pos = ['true', '✓', '对'];
+    isCorrect = pos.some(p => ua.includes(p)) === pos.some(p => (question.answer || '').includes(p));
+  }
+
+  const correctAns = question.type === 'fill_blank'
+    ? JSON.stringify((question.blanks || []).map(b => b.answer))
+    : JSON.stringify(question.answer || '');
+  const userAns = Array.isArray(answer) ? JSON.stringify(answer) : JSON.stringify(answer || '');
+
+  runQuery(
+    'INSERT INTO quiz_attempts (user_id, unit_id, question_id, question_type, user_answer, correct_answer, is_correct, score) VALUES (1, ?, ?, ?, ?, ?, ?, ?)',
+    [unitId, questionId, question.type, userAns, correctAns, isCorrect && !selfCheck ? 1 : 0, isCorrect && !selfCheck ? 1 : 0]
+  );
+
+  // Write wrong answers to error_book
+  if (!isCorrect && !selfCheck) {
+    const existing = getOne(
+      `SELECT id FROM error_book WHERE user_id = 1 AND question_id = ? AND is_resolved = 0`,
+      [questionId]
+    );
+    if (existing) {
+      runQuery(
+        `UPDATE error_book SET user_answer = ?, mastery_level = MAX(0, mastery_level - 1), next_review_due = datetime('now'), updated_at = datetime('now') WHERE id = ?`,
+        [userAns, existing.id]
+      );
+    } else {
+      runQuery(
+        `INSERT INTO error_book (user_id, unit_id, question_id, question_type, question_stem, user_answer, correct_answer, explanation, mastery_level, next_review_due, created_at) VALUES (1, ?, ?, ?, ?, ?, ?, ?, 0, datetime('now'), datetime('now'))`,
+        [unitId || 'practice', questionId, question.type, question.stem || '', userAns, correctAns, question.explanation || '']
+      );
+    }
+  }
+
   debouncedSave();
-  return { isCorrect: isC, correctAnswer: ca };
+  const correctAnsStr = question.type === 'fill_blank'
+    ? (question.blanks || []).map(b => b.answer).join('、')
+    : question.answer || '';
+
+  return {
+    isCorrect: selfCheck ? null : isCorrect,
+    correctAnswer: correctAnsStr,
+    selfCheck,
+    explanation: question.explanation || '',
+  };
 }
 
 // --- errorbook ---
