@@ -262,29 +262,23 @@ export async function getPracticeQuestions(chapter, sub) {
 }
 
 export async function submitPractice(unitId, questionId, type, answer) {
-  const L = (m,c) => { try { window._L('P:'+m,c); } catch{} };
-  try {
-    await init();
-    L('sub qid='+questionId+' ans='+JSON.stringify(answer), '#888');
+  await init();
 
-    // Look up from cache first
-    let question = questionCache.get(questionId);
+  // Look up from cache first
+  let question = questionCache.get(questionId);
 
-    // Fallback: search practice pools directly
-    if (!question) {
-      L('cache miss, searching...', '#888');
-      const pools = await content.getAllPracticePools();
-      for (const p of pools) {
-        question = (p.questions || []).find(q => q.id === questionId);
-        if (question) { questionCache.set(questionId, question); break; }
-      }
+  // Fallback: search practice pools directly
+  if (!question) {
+    const pools = await content.getAllPracticePools();
+    for (const p of pools) {
+      question = (p.questions || []).find(q => q.id === questionId);
+      if (question) { questionCache.set(questionId, question); break; }
     }
+  }
 
-    if (!question) {
-      L('NOT FOUND: '+questionId, '#e74c3c');
-      throw { code: 'NOT_FOUND', message: '题目不存在' };
-    }
-    L('Q type='+question.type+' ans='+question.answer, '#2ecc71');
+  if (!question) {
+    throw { code: 'NOT_FOUND', message: '题目不存在' };
+  }
 
   const selfCheck = question.type === 'term_explanation' || question.type === 'short_answer' || question.type === 'essay';
   let isCorrect = false;
@@ -335,7 +329,6 @@ export async function submitPractice(unitId, questionId, type, answer) {
   const correctAnsStr = question.type === 'fill_blank'
     ? (question.blanks || []).map(b => b.answer).join('、')
     : question.answer || '';
-  L('judge: isCorrect='+isCorrect+' selfCheck='+selfCheck+' corAns='+correctAnsStr, isCorrect?'#2ecc71':'#e74c3c');
 
   return {
     isCorrect: selfCheck ? null : isCorrect,
@@ -343,10 +336,6 @@ export async function submitPractice(unitId, questionId, type, answer) {
     selfCheck,
     explanation: question.explanation || '',
   };
-  } catch(e) {
-    L('CRASH: '+e.message, '#e74c3c');
-    throw e;
-  }
 }
 
 // --- errorbook ---
