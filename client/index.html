@@ -14,15 +14,7 @@
     <link rel="apple-touch-icon" href="/icon.svg" />
   </head>
   <body>
-    <div id="diag" style="position:fixed;top:0;left:0;right:0;z-index:99999;background:#111;color:#eee;font:12px/1.4 monospace;padding:8px 12px;max-height:180px;overflow-y:auto;border-bottom:2px solid #e74c3c;"></div>
-    <div id="root" style="margin-top:40px;"></div>
-    <script>
-      var d=document.getElementById('diag');
-      window._L=function(m,c){d.innerHTML+='<div style="color:'+(c||'#eee')+'">'+m+'</div>';d.scrollTop=d.scrollHeight;};
-      window._L('1 HTML loaded','#2ecc71');
-      window.onerror=function(m,s,l,c,e){window._L('JS_ERR: '+m+' @'+s+':'+l,'#e74c3c');};
-      window.addEventListener('unhandledrejection',function(e){window._L('PROMISE_ERR: '+e.reason?.message||e.reason,'#e74c3c');});
-    </script>
+    <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
     <script>
       if ('serviceWorker' in navigator) {

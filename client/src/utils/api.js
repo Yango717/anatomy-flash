@@ -79,11 +79,8 @@ async function localRequest(path, options = {}) {
   const segs = parseLocalPath(path);
   const body = options.body ? JSON.parse(options.body) : {};
   try {
-    const data = await localDispatch(method, segs, body, path);
-    diag('API OK: '+method+' /'+segs.join('/'), '#2ecc71');
-    return data;
+    return await localDispatch(method, segs, body, path);
   } catch (err) {
-    diag('API FAIL: '+method+' /'+segs.join('/')+' — '+(err.message||err.code||'unknown'), '#e74c3c');
     if (err.code) throw err;
     throw { code: 'UNKNOWN_ERROR', message: err.message || '请求失败' };
   }
@@ -91,38 +88,27 @@ async function localRequest(path, options = {}) {
 
 // ---- mode detection ----
 let _mode = null;
-// During build, we can set __STATIC__ to force local mode
-const FORCE_LOCAL = typeof __STATIC__ !== 'undefined' && __STATIC__;
-
-function diag(m, c) { try { window._L(m, c); } catch {} }
 
 async function detectMode() {
   if (_mode) return _mode;
-  if (FORCE_LOCAL) { _mode = 'local'; diag('Mode: forced local', '#f39c12'); return 'local'; }
-  diag('2 Detecting mode...', '#f39c12');
   try {
     const res = await fetch('/api/v1/health');
     const json = await res.json();
-    if (json?.success) { _mode = 'fetch'; diag('2 Mode: fetch (Express live)', '#2ecc71'); return 'fetch'; }
-  } catch (e) { diag('2 Health check: '+e.message, '#888'); }
-  diag('2 No server, loading local backend...', '#f39c12');
+    if (json?.success) { _mode = 'fetch'; return 'fetch'; }
+  } catch {}
   try {
     await getBackend();
     _mode = 'local';
-    diag('2 Mode: local OK', '#2ecc71');
     return 'local';
-  } catch (e) {
-    diag('2 FAIL: '+e.message, '#e74c3c');
-    _mode = 'fetch'; // fallback to fetch
+  } catch {
+    _mode = 'fetch';
     return 'fetch';
   }
 }
 
 // ---- unified request ----
 async function request(path, options = {}) {
-  diag('RQ: '+path, '#888');
   const mode = await detectMode();
-  diag('RQ mode='+mode, '#888');
   if (mode === 'local') return localRequest(path, options);
   return fetchRequest(path, options);
 }
