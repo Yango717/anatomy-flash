@@ -12,8 +12,12 @@ export async function init() {
   if (initialized) return;
   if (initError) throw initError;
 
+  console.log('[AnatomyFlash] Starting init...');
+
   try {
+    console.log('[AnatomyFlash] Loading chapters.json...');
     await content.loadChapters();
+    console.log('[AnatomyFlash] Chapters loaded OK');
   } catch (e) {
     initError = e;
     console.error('[AnatomyFlash] Content load failed:', e);
@@ -21,13 +25,15 @@ export async function init() {
   }
 
   try {
+    console.log('[AnatomyFlash] Initializing SQLite...');
     await getDB();
+    console.log('[AnatomyFlash] SQLite initialized OK');
   } catch (e) {
-    console.warn('[AnatomyFlash] DB init failed, running without persistence:', e);
-    // Continue without DB — content-only mode
+    console.warn('[AnatomyFlash] DB init failed:', e.message);
   }
 
   initialized = true;
+  console.log('[AnatomyFlash] Init complete');
 }
 
 // ---------- helpers ----------
