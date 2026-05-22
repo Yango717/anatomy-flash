@@ -91,19 +91,25 @@ let _mode = null;
 // During build, we can set __STATIC__ to force local mode
 const FORCE_LOCAL = typeof __STATIC__ !== 'undefined' && __STATIC__;
 
+function diag(m, c) { try { window._L(m, c); } catch {} }
+
 async function detectMode() {
   if (_mode) return _mode;
-  if (FORCE_LOCAL) { _mode = 'local'; return 'local'; }
+  if (FORCE_LOCAL) { _mode = 'local'; diag('Mode: forced local', '#f39c12'); return 'local'; }
+  diag('2 Detecting mode...', '#f39c12');
   try {
     const res = await fetch('/api/v1/health');
     const json = await res.json();
-    if (json?.success) { _mode = 'fetch'; return 'fetch'; }
-  } catch {}
+    if (json?.success) { _mode = 'fetch'; diag('2 Mode: fetch (Express live)', '#2ecc71'); return 'fetch'; }
+  } catch (e) { diag('2 Health check: '+e.message, '#888'); }
+  diag('2 No server, loading local backend...', '#f39c12');
   try {
     await getBackend();
     _mode = 'local';
+    diag('2 Mode: local OK', '#2ecc71');
     return 'local';
-  } catch {
+  } catch (e) {
+    diag('2 FAIL: '+e.message, '#e74c3c');
     _mode = 'fetch'; // fallback to fetch
     return 'fetch';
   }
