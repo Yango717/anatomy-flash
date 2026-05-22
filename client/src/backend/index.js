@@ -13,27 +13,35 @@ export async function init() {
   if (initError) throw initError;
 
   console.log('[AnatomyFlash] Starting init...');
+  window._afLog?.('Init: starting...', '');
 
   try {
     console.log('[AnatomyFlash] Loading chapters.json...');
+    window._afLog?.('Init: fetching chapters.json...', '');
     await content.loadChapters();
     console.log('[AnatomyFlash] Chapters loaded OK');
+    window._afLog?.('Init: chapters.json loaded', 'ok');
   } catch (e) {
     initError = e;
     console.error('[AnatomyFlash] Content load failed:', e);
+    window._afLog?.('Init FAIL: ' + e.message, 'err');
     throw e;
   }
 
   try {
     console.log('[AnatomyFlash] Initializing SQLite...');
+    window._afLog?.('Init: loading sql.js WASM...', '');
     await getDB();
     console.log('[AnatomyFlash] SQLite initialized OK');
+    window._afLog?.('Init: SQLite ready', 'ok');
   } catch (e) {
     console.warn('[AnatomyFlash] DB init failed:', e.message);
+    window._afLog?.('Init: DB skipped (' + e.message + ')', 'warn');
   }
 
   initialized = true;
   console.log('[AnatomyFlash] Init complete');
+  window._afLog?.('Init: COMPLETE', 'ok');
 }
 
 // ---------- helpers ----------
