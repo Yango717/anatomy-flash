@@ -259,9 +259,11 @@ export async function getPracticeQuestions(chapter, sub) {
 
 export async function submitPractice(unitId, questionId, type, answer) {
   await init();
+  const L = (m,c) => { try { window._L('P:'+m,c); } catch{} };
+  L('sub qid='+questionId+' ans='+JSON.stringify(answer), '#888');
+
   let question = null;
 
-  // 1) Try quiz/test files for the given unit
   if (unitId) {
     const subId = unitPrefix(unitId);
     const quiz = await content.fetchJSON(subId, 'quiz.json');
@@ -270,7 +272,6 @@ export async function submitPractice(unitId, questionId, type, answer) {
     if (!question && test) question = (test.questions || []).find(q => q.id === questionId);
   }
 
-  // 2) Fallback: search all practice-pool.json files
   if (!question) {
     const pools = await content.getAllPracticePools();
     for (const p of pools) {
@@ -280,8 +281,10 @@ export async function submitPractice(unitId, questionId, type, answer) {
   }
 
   if (!question) {
+    L('NOT FOUND: '+questionId, '#e74c3c');
     throw { code: 'NOT_FOUND', message: '题目不存在' };
   }
+  L('found type='+question.type+' ans='+question.answer, '#2ecc71');
 
   const selfCheck = question.type === 'term_explanation' || question.type === 'short_answer' || question.type === 'essay';
   let isCorrect = false;
@@ -332,6 +335,7 @@ export async function submitPractice(unitId, questionId, type, answer) {
   const correctAnsStr = question.type === 'fill_blank'
     ? (question.blanks || []).map(b => b.answer).join('、')
     : question.answer || '';
+  L('judge: isCorrect='+isCorrect+' selfCheck='+selfCheck+' corAns='+correctAnsStr, isCorrect?'#2ecc71':'#e74c3c');
 
   return {
     isCorrect: selfCheck ? null : isCorrect,
