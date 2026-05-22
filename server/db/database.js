@@ -1,5 +1,6 @@
 const initSqlJs = require('sql.js');
 const fs = require('fs');
+const path = require('path');
 const config = require('../config');
 const { getSQL } = require('./migrations');
 
@@ -13,7 +14,9 @@ async function getDB() {
     fs.mkdirSync(dataDir, { recursive: true });
   }
 
-  const SQL = await initSqlJs();
+  const SQL = await initSqlJs({
+    locateFile: file => path.join(__dirname, '..', '..', 'node_modules', 'sql.js', 'dist', file)
+  });
   const dbPath = config.dbPath;
   let dbBuffer = null;
   if (fs.existsSync(dbPath)) {
