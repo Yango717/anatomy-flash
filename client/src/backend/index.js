@@ -6,11 +6,27 @@ import * as content from '../services/contentService';
 import { nextReview } from '../services/spacedRepetition';
 
 let initialized = false;
+let initError = null;
 
 export async function init() {
   if (initialized) return;
-  await content.loadChapters();
-  await getDB();
+  if (initError) throw initError;
+
+  try {
+    await content.loadChapters();
+  } catch (e) {
+    initError = e;
+    console.error('[AnatomyFlash] Content load failed:', e);
+    throw e;
+  }
+
+  try {
+    await getDB();
+  } catch (e) {
+    console.warn('[AnatomyFlash] DB init failed, running without persistence:', e);
+    // Continue without DB — content-only mode
+  }
+
   initialized = true;
 }
 

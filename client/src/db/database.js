@@ -6,6 +6,7 @@ const DB_VERSION = 1;
 const DB_KEY = 'anatomy.db';
 
 let dbInstance = null;
+let dbPromise = null;
 let savePending = false;
 
 function openIDB() {
@@ -59,45 +60,54 @@ function debouncedSave() {
 
 async function getDB() {
   if (dbInstance) return dbInstance;
+  if (dbPromise) return dbPromise;
 
-  const SQL = await initSqlJs({
-    locateFile: file => `/${file}`
-  });
+  dbPromise = (async () => {
+    try {
+      const SQL = await initSqlJs({
+        locateFile: file => `/${file}`
+      });
 
-  const saved = await loadFromIDB();
-  dbInstance = saved ? new SQL.Database(saved) : new SQL.Database();
+      const saved = await loadFromIDB();
+      dbInstance = saved ? new SQL.Database(saved) : new SQL.Database();
 
-  const sql = getSQL();
-  const statements = sql.split(';').map(s => s.trim()).filter(s => s.length > 0);
-  for (const stmt of statements) {
-    try { dbInstance.run(stmt + ';'); } catch {}
-  }
+      const sql = getSQL();
+      const statements = sql.split(';').map(s => s.trim()).filter(s => s.length > 0);
+      for (const stmt of statements) {
+        try { dbInstance.run(stmt + ';'); } catch {}
+      }
 
-  if (dbInstance.exec("SELECT id FROM users WHERE username = 'default_user'").length === 0) {
-    dbInstance.run("INSERT INTO users (username, display_name) VALUES ('default_user', '医学生')");
-  }
+      if (dbInstance.exec("SELECT id FROM users WHERE username = 'default_user'").length === 0) {
+        dbInstance.run("INSERT INTO users (username, display_name) VALUES ('default_user', '医学生')");
+      }
 
-  if (dbInstance.exec("SELECT key FROM settings WHERE key = 'countdown_target'").length === 0) {
-    dbInstance.run("INSERT OR IGNORE INTO settings (key, value) VALUES ('countdown_name', '距离解剖学期末考试')");
-    const d = new Date();
-    d.setDate(d.getDate() + 60);
-    dbInstance.run(`INSERT OR IGNORE INTO settings (key, value) VALUES ('countdown_target', '${d.toISOString()}')`);
-  }
+      if (dbInstance.exec("SELECT key FROM settings WHERE key = 'countdown_target'").length === 0) {
+        dbInstance.run("INSERT OR IGNORE INTO settings (key, value) VALUES ('countdown_name', '距离解剖学期末考试')");
+        const d = new Date();
+        d.setDate(d.getDate() + 60);
+        dbInstance.run(`INSERT OR IGNORE INTO settings (key, value) VALUES ('countdown_target', '${d.toISOString()}')`);
+      }
 
-  window.addEventListener('beforeunload', () => {
-    if (dbInstance) {
-      const data = dbInstance.export();
-      try {
-        const req = indexedDB.open(DB_STORE, DB_VERSION);
-        req.onsuccess = () => {
-          const tx = req.result.transaction('files', 'readwrite');
-          tx.objectStore('files').put(data.buffer, DB_KEY);
-        };
-      } catch {}
+      window.addEventListener('beforeunload', () => {
+        if (dbInstance) {
+          const data = dbInstance.export();
+          try {
+            const req = indexedDB.open(DB_STORE, DB_VERSION);
+            req.onsuccess = () => {
+              const tx = req.result.transaction('files', 'readwrite');
+              tx.objectStore('files').put(data.buffer, DB_KEY);
+            };
+          } catch {}
+        }
+      });
+
+      return dbInstance;
+    } finally {
+      dbPromise = null;
     }
-  });
+  })();
 
-  return dbInstance;
+  return dbPromise;
 }
 
 function all(sqlStr, params = []) {

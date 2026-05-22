@@ -1,25 +1,32 @@
 // Browser-side content service — replaces fs.readFileSync with fetch
 let chaptersCache = null;
+let chaptersPromise = null;
 let pathIndex = null;  // subId -> { chapterDir, sectionDir, subDir, parts }
 
 async function loadChapters() {
   if (chaptersCache) return chaptersCache;
-  const resp = await fetch('/content/chapters.json');
-  if (!resp.ok) throw new Error('Failed to load chapters.json');
-  const data = await resp.json();
-  chaptersCache = data;
-  pathIndex = new Map();
-  for (const ch of data.chapters) {
-    const chapterDir = `${ch.chapterId}-${ch.title}`;
-    for (const sec of ch.sections) {
-      const sectionDir = `${sec.id}-${sec.title}`;
-      for (const sub of sec.subsections) {
-        const subDir = `${sub.id}-${sub.title}`;
-        pathIndex.set(sub.id, { chapterDir, sectionDir, subDir, parts: sub.parts, chapterId: ch.chapterId, sectionId: sec.id });
+  if (chaptersPromise) return chaptersPromise;
+
+  chaptersPromise = (async () => {
+    const resp = await fetch('/content/chapters.json');
+    if (!resp.ok) throw new Error('Failed to load chapters.json');
+    const data = await resp.json();
+    chaptersCache = data;
+    pathIndex = new Map();
+    for (const ch of data.chapters) {
+      const chapterDir = `${ch.chapterId}-${ch.title}`;
+      for (const sec of ch.sections) {
+        const sectionDir = `${sec.id}-${sec.title}`;
+        for (const sub of sec.subsections) {
+          const subDir = `${sub.id}-${sub.title}`;
+          pathIndex.set(sub.id, { chapterDir, sectionDir, subDir, parts: sub.parts, chapterId: ch.chapterId, sectionId: sec.id });
+        }
       }
     }
-  }
-  return data;
+    return data;
+  })();
+
+  return chaptersPromise;
 }
 
 function unitPrefix(unitId) {
