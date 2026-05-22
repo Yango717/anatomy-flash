@@ -7,7 +7,7 @@ export default defineConfig({
     react(),
     viteStaticCopy({
       targets: [
-        { src: '../content/**/*', dest: 'content' },
+        { src: '../content/**/*', dest: '' },
         { src: 'node_modules/sql.js/dist/sql-wasm-browser.wasm', dest: '' }
       ]
     })
