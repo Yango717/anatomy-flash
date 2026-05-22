@@ -79,8 +79,11 @@ async function localRequest(path, options = {}) {
   const segs = parseLocalPath(path);
   const body = options.body ? JSON.parse(options.body) : {};
   try {
-    return await localDispatch(method, segs, body, path);
+    const data = await localDispatch(method, segs, body, path);
+    diag('API OK: '+method+' /'+segs.join('/'), '#2ecc71');
+    return data;
   } catch (err) {
+    diag('API FAIL: '+method+' /'+segs.join('/')+' — '+(err.message||err.code||'unknown'), '#e74c3c');
     if (err.code) throw err;
     throw { code: 'UNKNOWN_ERROR', message: err.message || '请求失败' };
   }

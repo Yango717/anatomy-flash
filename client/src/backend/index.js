@@ -7,11 +7,27 @@ import { nextReview } from '../services/spacedRepetition';
 
 let initialized = false;
 
+function diag(m, c) { try { window._L(m, c); } catch {} }
+
 export async function init() {
   if (initialized) return;
-  await content.loadChapters();
-  try { await getDB(); } catch {}
+  diag('3 Loading chapters.json...', '#f39c12');
+  try {
+    await content.loadChapters();
+    diag('3 Chapters loaded OK', '#2ecc71');
+  } catch(e) {
+    diag('3 Chapters FAIL: '+e.message, '#e74c3c');
+    throw e;
+  }
+  diag('4 Initializing DB...', '#f39c12');
+  try {
+    await getDB();
+    diag('4 DB ready', '#2ecc71');
+  } catch(e) {
+    diag('4 DB skip: '+e.message, '#f39c12');
+  }
   initialized = true;
+  diag('Init complete', '#2ecc71');
 }
 
 function unitPrefix(unitId) { return (unitId || '').replace(/-part-.*$/, ''); }
