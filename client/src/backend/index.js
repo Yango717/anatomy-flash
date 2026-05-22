@@ -191,6 +191,9 @@ export async function createNote(uid, text) { await init(); runQuery(`INSERT INT
 export async function deleteNote(id) { await init(); runQuery(`DELETE FROM user_notes WHERE id=? AND user_id=1`, [id]); debouncedSave(); return { success: true }; }
 
 // --- practice ---
+// Cache practice questions by ID for fast submit lookup
+const questionCache = new Map();
+
 export async function getPracticeQuestions(chapter, sub) {
   await init();
   const results = [];
@@ -246,8 +249,9 @@ export async function getPracticeQuestions(chapter, sub) {
     }
   }
 
-  // Strip answer for self-check types
+  // Strip answer for self-check types and cache
   const safe = results.map(q => {
+    questionCache.set(q.id, q);
     if (q.type === 'term_explanation' || q.type === 'short_answer' || q.type === 'essay') {
       return { ...q, answer: '' };
     }
@@ -263,23 +267,16 @@ export async function submitPractice(unitId, questionId, type, answer) {
     await init();
     L('sub qid='+questionId+' ans='+JSON.stringify(answer), '#888');
 
-    let question = null;
+    // Look up from cache first
+    let question = questionCache.get(questionId);
 
-    if (unitId) {
-      const subId = unitPrefix(unitId);
-      const quiz = await content.fetchJSON(subId, 'quiz.json');
-      const test = await content.fetchJSON(subId, 'test.json');
-      if (quiz) question = (quiz.questions || []).find(q => q.id === questionId);
-      if (!question && test) question = (test.questions || []).find(q => q.id === questionId);
-    }
-
+    // Fallback: search practice pools directly
     if (!question) {
-      L('searching pools...', '#888');
+      L('cache miss, searching...', '#888');
       const pools = await content.getAllPracticePools();
-      L('got '+pools.length+' pools', '#888');
       for (const p of pools) {
         question = (p.questions || []).find(q => q.id === questionId);
-        if (question) break;
+        if (question) { questionCache.set(questionId, question); break; }
       }
     }
 
@@ -287,7 +284,7 @@ export async function submitPractice(unitId, questionId, type, answer) {
       L('NOT FOUND: '+questionId, '#e74c3c');
       throw { code: 'NOT_FOUND', message: '题目不存在' };
     }
-    L('found type='+question.type+' ans='+question.answer, '#2ecc71');
+    L('Q type='+question.type+' ans='+question.answer, '#2ecc71');
 
   const selfCheck = question.type === 'term_explanation' || question.type === 'short_answer' || question.type === 'essay';
   let isCorrect = false;
