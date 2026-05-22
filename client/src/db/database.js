@@ -61,7 +61,7 @@ async function getDB() {
   if (dbInstance) return dbInstance;
 
   const SQL = await initSqlJs({
-    locateFile: file => `/node_modules/sql.js/dist/${file}`
+    locateFile: file => `/${file}`
   });
 
   const saved = await loadFromIDB();

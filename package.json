@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "cd client && npm run dev",
-    "build": "cd client && npm run build",
+    "build": "cd client && npm install && npm run build",
     "dev:full": "cd server && npm install && node index.js & cd client && npm run dev",
     "install:all": "cd client && npm install"
   }
