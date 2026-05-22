@@ -1,0 +1,126 @@
+{
+  "chapterId": "chapter-00",
+  "title": "绪论",
+  "icon": "📚",
+  "sections": [
+    {
+      "id": "section-11",
+      "title": "绪论",
+      "order": 11,
+      "subsections": [
+        {
+          "id": "sub-11-01",
+          "title": "人体解剖学定义",
+          "order": 1,
+          "parts": [
+            {
+              "id": "人体解剖学定义",
+              "title": "人体解剖学定义",
+              "knowledgeId": "ANAT-INT-GEN-001",
+              "importance": 60,
+              "difficulty": 1,
+              "canTest": "中",
+              "freqLevel": "B"
+            }
+          ]
+        },
+        {
+          "id": "sub-11-02",
+          "title": "系统解剖学概念",
+          "order": 2,
+          "parts": [
+            {
+              "id": "系统解剖学概念",
+              "title": "系统解剖学概念",
+              "knowledgeId": "ANAT-INT-GEN-002",
+              "importance": 75,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-11-03",
+          "title": "人体9大系统组成",
+          "order": 3,
+          "parts": [
+            {
+              "id": "人体9大系统组成",
+              "title": "人体9大系统组成",
+              "knowledgeId": "ANAT-INT-GEN-003",
+              "importance": 90,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-11-04",
+          "title": "解剖学姿势",
+          "order": 4,
+          "parts": [
+            {
+              "id": "解剖学姿势",
+              "title": "解剖学姿势",
+              "knowledgeId": "ANAT-INT-GEN-004",
+              "importance": 92,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-11-05",
+          "title": "方位术语",
+          "order": 5,
+          "parts": [
+            {
+              "id": "方位术语",
+              "title": "方位术语",
+              "knowledgeId": "ANAT-INT-GEN-005",
+              "importance": 95,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-11-06",
+          "title": "人体的轴和面",
+          "order": 6,
+          "parts": [
+            {
+              "id": "人体的轴和面",
+              "title": "人体的轴和面",
+              "knowledgeId": "ANAT-INT-GEN-006",
+              "importance": 92,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-11-07",
+          "title": "器官变异与畸形",
+          "order": 7,
+          "parts": [
+            {
+              "id": "器官变异与畸形",
+              "title": "器官变异与畸形",
+              "knowledgeId": "ANAT-INT-GEN-007",
+              "importance": 60,
+              "difficulty": 2,
+              "canTest": "中",
+              "freqLevel": "B"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

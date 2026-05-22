@@ -1,0 +1,220 @@
+{
+  "chapterId": "chapter-02",
+  "title": "消化系统",
+  "icon": "🍽",
+  "sections": [
+    {
+      "id": "section-03",
+      "title": "消化系统",
+      "order": 3,
+      "subsections": [
+        {
+          "id": "sub-03-01",
+          "title": "口腔的境界与分部",
+          "order": 1,
+          "parts": [
+            {
+              "id": "口腔的境界与分部",
+              "title": "口腔的境界与分部",
+              "knowledgeId": "ANAT-DIG-ORA-001",
+              "importance": 65,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "B"
+            }
+          ]
+        },
+        {
+          "id": "sub-03-02",
+          "title": "牙的萌出与脱落",
+          "order": 2,
+          "parts": [
+            {
+              "id": "牙的萌出与脱落",
+              "title": "牙的萌出与脱落",
+              "knowledgeId": "ANAT-DIG-ORA-002",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-03-03",
+          "title": "牙的形态与结构",
+          "order": 3,
+          "parts": [
+            {
+              "id": "牙的形态与结构",
+              "title": "牙的形态与结构",
+              "knowledgeId": "ANAT-DIG-ORA-003",
+              "importance": 70,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "B"
+            }
+          ]
+        },
+        {
+          "id": "sub-03-04",
+          "title": "舌的形态与分部",
+          "order": 4,
+          "parts": [
+            {
+              "id": "舌的形态与分部",
+              "title": "舌的形态与分部",
+              "knowledgeId": "ANAT-DIG-ORA-004",
+              "importance": 80,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-03-05",
+          "title": "要点详解",
+          "order": 5,
+          "parts": [
+            {
+              "id": "要点",
+              "title": "要点",
+              "knowledgeId": "ANAT-DIG-ORA-005",
+              "importance": 95,
+              "difficulty": 2
+            }
+          ]
+        },
+        {
+          "id": "sub-03-06",
+          "title": "大唾液腺",
+          "order": 6,
+          "parts": [
+            {
+              "id": "大唾液腺",
+              "title": "大唾液腺",
+              "knowledgeId": "ANAT-DIG-ORA-006",
+              "importance": 85,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-03-07",
+          "title": "咽的位置与分部",
+          "order": 7,
+          "parts": [
+            {
+              "id": "咽的位置与分部",
+              "title": "咽的位置与分部",
+              "knowledgeId": "ANAT-DIG-PHA-007",
+              "importance": 82,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-03-08",
+          "title": "食管的位置与分部",
+          "order": 8,
+          "parts": [
+            {
+              "id": "食管的位置与分部",
+              "title": "食管的位置与分部",
+              "knowledgeId": "ANAT-DIG-ESO-009",
+              "importance": 80,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-03-09",
+          "title": "胃的形态与分部",
+          "order": 9,
+          "parts": [
+            {
+              "id": "胃的形态与分部",
+              "title": "胃的形态与分部",
+              "knowledgeId": "ANAT-DIG-STO-011",
+              "importance": 85,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-03-10",
+          "title": "十二指肠的形态与分部",
+          "order": 10,
+          "parts": [
+            {
+              "id": "十二指肠的形态与分部",
+              "title": "十二指肠的形态与分部",
+              "knowledgeId": "ANAT-DIG-SMI-013",
+              "importance": 85,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-03-11",
+          "title": "空肠与回肠的比较",
+          "order": 11,
+          "parts": [
+            {
+              "id": "空肠与回肠的比较",
+              "title": "空肠与回肠的比较",
+              "knowledgeId": "ANAT-DIG-SMI-015",
+              "importance": 88,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-03-12",
+          "title": "阑尾的位置与McBurney点",
+          "order": 12,
+          "parts": [
+            {
+              "id": "阑尾的位置与McBurney点",
+              "title": "阑尾的位置与McBurney点",
+              "knowledgeId": "ANAT-DIG-LMI-018",
+              "importance": 95,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-03-13",
+          "title": "肛管的结构",
+          "order": 13,
+          "parts": [
+            {
+              "id": "肛管的结构",
+              "title": "肛管的结构",
+              "knowledgeId": "ANAT-DIG-LMI-021",
+              "importance": 72,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "B"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

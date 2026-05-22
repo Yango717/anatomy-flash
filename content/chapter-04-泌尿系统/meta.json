@@ -1,0 +1,188 @@
+{
+  "chapterId": "chapter-04",
+  "title": "泌尿系统",
+  "icon": "🫘",
+  "sections": [
+    {
+      "id": "section-05",
+      "title": "泌尿系统",
+      "order": 5,
+      "subsections": [
+        {
+          "id": "sub-05-01",
+          "title": "肾的形态",
+          "order": 1,
+          "parts": [
+            {
+              "id": "肾的形态",
+              "title": "肾的形态",
+              "knowledgeId": "ANAT-URI-KID-001",
+              "importance": 80,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-05-02",
+          "title": "肾的位置",
+          "order": 2,
+          "parts": [
+            {
+              "id": "肾的位置",
+              "title": "肾的位置",
+              "knowledgeId": "ANAT-URI-KID-002",
+              "importance": 90,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-05-03",
+          "title": "肾的毗邻",
+          "order": 3,
+          "parts": [
+            {
+              "id": "肾的毗邻",
+              "title": "肾的毗邻",
+              "knowledgeId": "ANAT-URI-KID-003",
+              "importance": 78,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-05-04",
+          "title": "肾的结构",
+          "order": 4,
+          "parts": [
+            {
+              "id": "肾的结构",
+              "title": "肾的结构",
+              "knowledgeId": "ANAT-URI-KID-004",
+              "importance": 82,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-05-05",
+          "title": "肾的被膜",
+          "order": 5,
+          "parts": [
+            {
+              "id": "肾的被膜",
+              "title": "肾的被膜",
+              "knowledgeId": "ANAT-URI-KID-005",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-05-06",
+          "title": "要点详解",
+          "order": 6,
+          "parts": [
+            {
+              "id": "要点",
+              "title": "要点",
+              "knowledgeId": "ANAT-URI-KID-006",
+              "importance": 92,
+              "difficulty": 2
+            }
+          ]
+        },
+        {
+          "id": "sub-05-07",
+          "title": "输尿管的位置与分部",
+          "order": 7,
+          "parts": [
+            {
+              "id": "输尿管的位置与分部",
+              "title": "输尿管的位置与分部",
+              "knowledgeId": "ANAT-URI-URE-001",
+              "importance": 80,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-05-08",
+          "title": "膀胱的形态与分部",
+          "order": 8,
+          "parts": [
+            {
+              "id": "膀胱的形态与分部",
+              "title": "膀胱的形态与分部",
+              "knowledgeId": "ANAT-URI-BLA-001",
+              "importance": 75,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-05-09",
+          "title": "膀胱三角",
+          "order": 9,
+          "parts": [
+            {
+              "id": "膀胱三角",
+              "title": "膀胱三角",
+              "knowledgeId": "ANAT-URI-BLA-002",
+              "importance": 95,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-05-10",
+          "title": "膀胱的位置与毗邻",
+          "order": 10,
+          "parts": [
+            {
+              "id": "膀胱的位置与毗邻",
+              "title": "膀胱的位置与毗邻",
+              "knowledgeId": "ANAT-URI-BLA-003",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-05-11",
+          "title": "女性尿道特点",
+          "order": 11,
+          "parts": [
+            {
+              "id": "女性尿道特点",
+              "title": "女性尿道特点",
+              "knowledgeId": "ANAT-URI-URT-001",
+              "importance": 78,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

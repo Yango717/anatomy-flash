@@ -1,0 +1,47 @@
+/* Mobile-first: everything below 480px is default */
+
+/* Tablets (768px+) */
+@media (min-width: 768px) {
+  .page {
+    max-width: 640px;
+  }
+
+  .module-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .test-tf__btn {
+    max-width: 320px;
+  }
+}
+
+/* Desktop (1024px+) */
+@media (min-width: 1024px) {
+  .page {
+    max-width: 800px;
+  }
+
+  .module-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .topbar__nav {
+    margin-left: 0;
+  }
+}
+
+/* Small phones (360px and below) */
+@media (max-width: 360px) {
+  :root {
+    --font-size-base: 15px;
+    --spacing-lg: 12px;
+  }
+
+  .module-grid {
+    gap: 8px;
+  }
+
+  .countdown-card {
+    padding: var(--spacing-lg) var(--spacing-md);
+  }
+}

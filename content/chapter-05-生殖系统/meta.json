@@ -1,0 +1,236 @@
+{
+  "chapterId": "chapter-05",
+  "title": "生殖系统",
+  "icon": "💙",
+  "sections": [
+    {
+      "id": "section-06",
+      "title": "生殖系统",
+      "order": 6,
+      "subsections": [
+        {
+          "id": "sub-06-01",
+          "title": "睾丸的形态与结构",
+          "order": 1,
+          "parts": [
+            {
+              "id": "睾丸的形态与结构",
+              "title": "睾丸的形态与结构",
+              "knowledgeId": "ANAT-REP-MAL-001",
+              "importance": 80,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-06-02",
+          "title": "附睾",
+          "order": 2,
+          "parts": [
+            {
+              "id": "附睾",
+              "title": "附睾",
+              "knowledgeId": "ANAT-REP-MAL-002",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-06-03",
+          "title": "输精管的分部",
+          "order": 3,
+          "parts": [
+            {
+              "id": "输精管的分部",
+              "title": "输精管的分部",
+              "knowledgeId": "ANAT-REP-MAL-003",
+              "importance": 82,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-06-04",
+          "title": "要点详解",
+          "order": 4,
+          "parts": [
+            {
+              "id": "要点",
+              "title": "要点",
+              "knowledgeId": "ANAT-REP-MAL-004",
+              "importance": 80,
+              "difficulty": 2
+            }
+          ]
+        },
+        {
+          "id": "sub-06-05",
+          "title": "前列腺",
+          "order": 5,
+          "parts": [
+            {
+              "id": "前列腺",
+              "title": "前列腺",
+              "knowledgeId": "ANAT-REP-MAL-005",
+              "importance": 90,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-06-06",
+          "title": "男性尿道",
+          "order": 6,
+          "parts": [
+            {
+              "id": "男性尿道",
+              "title": "男性尿道",
+              "knowledgeId": "ANAT-REP-MAL-006",
+              "importance": 92,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-06-07",
+          "title": "阴茎的结构",
+          "order": 7,
+          "parts": [
+            {
+              "id": "阴茎的结构",
+              "title": "阴茎的结构",
+              "knowledgeId": "ANAT-REP-MAL-008",
+              "importance": 68,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "B"
+            }
+          ]
+        },
+        {
+          "id": "sub-06-08",
+          "title": "卵巢的位置与固定",
+          "order": 8,
+          "parts": [
+            {
+              "id": "卵巢的位置与固定",
+              "title": "卵巢的位置与固定",
+              "knowledgeId": "ANAT-REP-FEM-009",
+              "importance": 82,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-06-09",
+          "title": "输卵管的分部",
+          "order": 9,
+          "parts": [
+            {
+              "id": "输卵管的分部",
+              "title": "输卵管的分部",
+              "knowledgeId": "ANAT-REP-FEM-010",
+              "importance": 92,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-06-10",
+          "title": "子宫的形态与分部",
+          "order": 10,
+          "parts": [
+            {
+              "id": "子宫的形态与分部",
+              "title": "子宫的形态与分部",
+              "knowledgeId": "ANAT-REP-FEM-011",
+              "importance": 85,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-06-11",
+          "title": "子宫的位置与固定",
+          "order": 11,
+          "parts": [
+            {
+              "id": "子宫的位置与固定",
+              "title": "子宫的位置与固定",
+              "knowledgeId": "ANAT-REP-FEM-012",
+              "importance": 88,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-06-12",
+          "title": "阴道",
+          "order": 12,
+          "parts": [
+            {
+              "id": "阴道",
+              "title": "阴道",
+              "knowledgeId": "ANAT-REP-FEM-014",
+              "importance": 82,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-06-13",
+          "title": "乳房的结构",
+          "order": 13,
+          "parts": [
+            {
+              "id": "乳房的结构",
+              "title": "乳房的结构",
+              "knowledgeId": "ANAT-REP-FEM-016",
+              "importance": 80,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-06-14",
+          "title": "会阴的定义与分区",
+          "order": 14,
+          "parts": [
+            {
+              "id": "会阴的定义与分区",
+              "title": "会阴的定义与分区",
+              "knowledgeId": "ANAT-REP-PER-018",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

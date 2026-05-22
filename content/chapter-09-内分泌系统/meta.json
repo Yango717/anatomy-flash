@@ -1,0 +1,252 @@
+{
+  "chapterId": "chapter-09",
+  "title": "内分泌系统",
+  "icon": "🥺",
+  "sections": [
+    {
+      "id": "section-10",
+      "title": "内分泌系统",
+      "order": 10,
+      "subsections": [
+        {
+          "id": "sub-10-01",
+          "title": "内分泌系统概述",
+          "order": 1,
+          "parts": [
+            {
+              "id": "内分泌系统概述",
+              "title": "内分泌系统概述",
+              "knowledgeId": "ANAT-END-GEN-001",
+              "importance": 80,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-10-02",
+          "title": "垂体的位置与分部",
+          "order": 2,
+          "parts": [
+            {
+              "id": "垂体的位置与分部",
+              "title": "垂体的位置与分部",
+              "knowledgeId": "ANAT-END-HYP-001",
+              "importance": 82,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-10-03",
+          "title": "垂体前叶与后叶功能",
+          "order": 3,
+          "parts": [
+            {
+              "id": "垂体前叶与后叶功能",
+              "title": "垂体前叶与后叶功能",
+              "knowledgeId": "ANAT-END-HYP-002",
+              "importance": 92,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-10-04",
+          "title": "松果体",
+          "order": 4,
+          "parts": [
+            {
+              "id": "松果体",
+              "title": "松果体",
+              "knowledgeId": "ANAT-END-PIN-001",
+              "importance": 65,
+              "difficulty": 2,
+              "canTest": "中",
+              "freqLevel": "B"
+            }
+          ]
+        },
+        {
+          "id": "sub-10-05",
+          "title": "甲状腺的形态与位置",
+          "order": 5,
+          "parts": [
+            {
+              "id": "甲状腺的形态与位置",
+              "title": "甲状腺的形态与位置",
+              "knowledgeId": "ANAT-END-THY-001",
+              "importance": 82,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-10-06",
+          "title": "要点详解",
+          "order": 6,
+          "parts": [
+            {
+              "id": "要点",
+              "title": "要点",
+              "knowledgeId": "ANAT-END-THY-002",
+              "importance": 75,
+              "difficulty": 2
+            }
+          ]
+        },
+        {
+          "id": "sub-10-07",
+          "title": "甲状腺功能与甲状腺素",
+          "order": 7,
+          "parts": [
+            {
+              "id": "甲状腺功能与甲状腺素",
+              "title": "甲状腺功能与甲状腺素",
+              "knowledgeId": "ANAT-END-THY-003",
+              "importance": 85,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-10-08",
+          "title": "甲状旁腺的位置",
+          "order": 8,
+          "parts": [
+            {
+              "id": "甲状旁腺的位置",
+              "title": "甲状旁腺的位置",
+              "knowledgeId": "ANAT-END-PAR-001",
+              "importance": 80,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-10-09",
+          "title": "甲状旁腺激素功能",
+          "order": 9,
+          "parts": [
+            {
+              "id": "甲状旁腺激素功能",
+              "title": "甲状旁腺激素功能",
+              "knowledgeId": "ANAT-END-PAR-002",
+              "importance": 82,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-10-10",
+          "title": "肾上腺的位置与形态",
+          "order": 10,
+          "parts": [
+            {
+              "id": "肾上腺的位置与形态",
+              "title": "肾上腺的位置与形态",
+              "knowledgeId": "ANAT-END-ADR-001",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-10-11",
+          "title": "肾上腺皮质与髓质功能",
+          "order": 11,
+          "parts": [
+            {
+              "id": "肾上腺皮质与髓质功能",
+              "title": "肾上腺皮质与髓质功能",
+              "knowledgeId": "ANAT-END-ADR-002",
+              "importance": 85,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-10-12",
+          "title": "胸腺",
+          "order": 12,
+          "parts": [
+            {
+              "id": "胸腺",
+              "title": "胸腺",
+              "knowledgeId": "ANAT-END-THY2-001",
+              "importance": 62,
+              "difficulty": 2,
+              "canTest": "中",
+              "freqLevel": "B"
+            }
+          ]
+        },
+        {
+          "id": "sub-10-13",
+          "title": "睾丸功能",
+          "order": 13,
+          "parts": [
+            {
+              "id": "睾丸功能",
+              "title": "睾丸功能",
+              "knowledgeId": "ANAT-END-GON-001",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-10-14",
+          "title": "卵巢功能",
+          "order": 14,
+          "parts": [
+            {
+              "id": "卵巢功能",
+              "title": "卵巢功能",
+              "knowledgeId": "ANAT-END-GON-002",
+              "importance": 80,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-10-15",
+          "title": "胰岛",
+          "order": 15,
+          "parts": [
+            {
+              "id": "胰岛",
+              "title": "胰岛",
+              "knowledgeId": "ANAT-END-ISL-001",
+              "importance": 85,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6709 @@
+{
+  "chapterId": "chapter-01",
+  "questions": [
+    {
+      "id": "YD-MC-001",
+      "type": "fill_blank",
+      "stem": "长骨骨端由___形成的部分称___,成年后在骨剖面上此部与骨干的分界是___,其为___完全骨化遗留下来的痕迹。",
+      "options": null,
+      "answer": "次级骨化中心、骺、骺线、骺软骨板",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "次级骨化中心"
+        },
+        {
+          "index": 1,
+          "answer": "骺"
+        },
+        {
+          "index": 2,
+          "answer": "骺线"
+        },
+        {
+          "index": 3,
+          "answer": "骺软骨板"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-002",
+      "type": "fill_blank",
+      "stem": "尺骨上端向上的较大的突起称___，向前的突起称___。腓骨上端稍膨大称___，下端膨大称___。",
+      "options": null,
+      "answer": "鹰嘴、冠突、腓骨头、外踝",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "鹰嘴"
+        },
+        {
+          "index": 1,
+          "answer": "冠突"
+        },
+        {
+          "index": 2,
+          "answer": "腓骨头"
+        },
+        {
+          "index": 3,
+          "answer": "外踝"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-003",
+      "type": "fill_blank",
+      "stem": "蝶骨大翼的根部由前向后外侧依次有___、___和___三孔，分别有___、___和___通行。",
+      "options": null,
+      "answer": "圆孔、卵圆孔、棘孔、上颌神经、下颌神经、脑膜中动脉",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "圆孔"
+        },
+        {
+          "index": 1,
+          "answer": "卵圆孔"
+        },
+        {
+          "index": 2,
+          "answer": "棘孔"
+        },
+        {
+          "index": 3,
+          "answer": "上颌神经"
+        },
+        {
+          "index": 4,
+          "answer": "下颌神经"
+        },
+        {
+          "index": 5,
+          "answer": "脑膜中动脉"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-004",
+      "type": "fill_blank",
+      "stem": "蝶筛隐窝是___和___之间的凹窝，___开口于此。",
+      "options": null,
+      "answer": "上鼻甲、蝶骨体、蝶窦",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "上鼻甲"
+        },
+        {
+          "index": 1,
+          "answer": "蝶骨体"
+        },
+        {
+          "index": 2,
+          "answer": "蝶窦"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-005",
+      "type": "fill_blank",
+      "stem": "额窦开口于___，筛窦前、中两群开口于___，后群开口于___，蝶窦开口于___，上颌窦开口于___，鼻泪管开口于___。",
+      "options": null,
+      "answer": "中鼻道、中鼻道、上鼻道、蝶筛隐窝、中鼻道、下鼻道",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "中鼻道"
+        },
+        {
+          "index": 1,
+          "answer": "中鼻道"
+        },
+        {
+          "index": 2,
+          "answer": "上鼻道"
+        },
+        {
+          "index": 3,
+          "answer": "蝶筛隐窝"
+        },
+        {
+          "index": 4,
+          "answer": "中鼻道"
+        },
+        {
+          "index": 5,
+          "answer": "下鼻道"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-006",
+      "type": "fill_blank",
+      "stem": "肱骨上端的膨大称___，其周缘的浅沟称___;肱骨下端有两个关节面,内侧的是___，外侧的是___。肱骨内上髁后面有___沟。",
+      "options": null,
+      "answer": "肱骨头、解剖颈、肱骨滑车、肱骨小头、尺神经",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "肱骨头"
+        },
+        {
+          "index": 1,
+          "answer": "解剖颈"
+        },
+        {
+          "index": 2,
+          "answer": "肱骨滑车"
+        },
+        {
+          "index": 3,
+          "answer": "肱骨小头"
+        },
+        {
+          "index": 4,
+          "answer": "尺神经"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-007",
+      "type": "fill_blank",
+      "stem": "股骨上端内上方的球形膨大为___，向外下方续于较细的___；股骨上端外上方的隆起是___；股骨下端形成两个膨大，分别称为___和___，其侧面最突出的部分，分别称为___和___，两膨大之间后方深陷的是___。",
+      "options": null,
+      "answer": "股骨头、股骨颈、大转子、内侧髁、外侧髁、内上髁、外上髁、髁间窝",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "股骨头"
+        },
+        {
+          "index": 1,
+          "answer": "股骨颈"
+        },
+        {
+          "index": 2,
+          "answer": "大转子"
+        },
+        {
+          "index": 3,
+          "answer": "内侧髁"
+        },
+        {
+          "index": 4,
+          "answer": "外侧髁"
+        },
+        {
+          "index": 5,
+          "answer": "内上髁"
+        },
+        {
+          "index": 6,
+          "answer": "外上髁"
+        },
+        {
+          "index": 7,
+          "answer": "髁间窝"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-008",
+      "type": "fill_blank",
+      "stem": "骨的基本形态大致可分为___、___、___和___等4种。",
+      "options": null,
+      "answer": "长骨、短骨、扁骨、不规则骨",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "长骨"
+        },
+        {
+          "index": 1,
+          "answer": "短骨"
+        },
+        {
+          "index": 2,
+          "answer": "扁骨"
+        },
+        {
+          "index": 3,
+          "answer": "不规则骨"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-009",
+      "type": "fill_blank",
+      "stem": "骨的主要组成部分是___，可分为___和___两种。骨内部的___交织成海绵状构成。",
+      "options": null,
+      "answer": "骨质、骨密质、骨松质、骨小梁",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "骨质"
+        },
+        {
+          "index": 1,
+          "answer": "骨密质"
+        },
+        {
+          "index": 2,
+          "answer": "骨松质"
+        },
+        {
+          "index": 3,
+          "answer": "骨小梁"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-010",
+      "type": "fill_blank",
+      "stem": "骨腭由___、___、和___构成，是骨性口腔的___壁。",
+      "options": null,
+      "answer": "上颌骨腭突、腭骨水平板、顶",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "上颌骨腭突"
+        },
+        {
+          "index": 1,
+          "answer": "腭骨水平板"
+        },
+        {
+          "index": 2,
+          "answer": "顶"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-011",
+      "type": "fill_blank",
+      "stem": "骨髓位于___和___内，可分为___和___两种。___骨髓具有造血功能，___骨髓是脂肪组织。",
+      "options": null,
+      "answer": "骨髓腔、骨松质间隙、红骨髓、黄骨髓、红、黄",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "骨髓腔"
+        },
+        {
+          "index": 1,
+          "answer": "骨松质间隙"
+        },
+        {
+          "index": 2,
+          "answer": "红骨髓"
+        },
+        {
+          "index": 3,
+          "answer": "黄骨髓"
+        },
+        {
+          "index": 4,
+          "answer": "红"
+        },
+        {
+          "index": 5,
+          "answer": "黄"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-012",
+      "type": "fill_blank",
+      "stem": "骨性鼻腔被___和___所构成的___分为左、右两腔。",
+      "options": null,
+      "answer": "犁骨、筛骨垂直板、骨性鼻中隔",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "犁骨"
+        },
+        {
+          "index": 1,
+          "answer": "筛骨垂直板"
+        },
+        {
+          "index": 2,
+          "answer": "骨性鼻中隔"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-013",
+      "type": "fill_blank",
+      "stem": "骨主要由___、___和___等构成，并有___和___分布。",
+      "options": null,
+      "answer": "骨质、骨膜、骨髓、神经、血管",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "骨质"
+        },
+        {
+          "index": 1,
+          "answer": "骨膜"
+        },
+        {
+          "index": 2,
+          "answer": "骨髓"
+        },
+        {
+          "index": 3,
+          "answer": "神经"
+        },
+        {
+          "index": 4,
+          "answer": "血管"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-014",
+      "type": "fill_blank",
+      "stem": "关节的基本构造包括___、___和___三部分。",
+      "options": null,
+      "answer": "关节面、关节囊、关节腔",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "关节面"
+        },
+        {
+          "index": 1,
+          "answer": "关节囊"
+        },
+        {
+          "index": 2,
+          "answer": "关节腔"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-015",
+      "type": "fill_blank",
+      "stem": "关节囊附着于___及___，结构上分为___和___两层。关节腔是由___和___共同围成的。",
+      "options": null,
+      "answer": "关节面周缘、附近骨面上、滑膜层、纤维层、滑膜层、关节软骨",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "关节面周缘"
+        },
+        {
+          "index": 1,
+          "answer": "附近骨面上"
+        },
+        {
+          "index": 2,
+          "answer": "滑膜层"
+        },
+        {
+          "index": 3,
+          "answer": "纤维层"
+        },
+        {
+          "index": 4,
+          "answer": "滑膜层"
+        },
+        {
+          "index": 5,
+          "answer": "关节软骨"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-016",
+      "type": "fill_blank",
+      "stem": "夹在颅盖骨内板和外板之间的骨松质特称___。",
+      "options": null,
+      "answer": "板障",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "板障"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-017",
+      "type": "fill_blank",
+      "stem": "胫骨位于小腿___侧，上端形成___和___，分别承托股骨内外侧髁，胫骨上端前下方的粗糙隆起称___，胫骨下端内侧的突起称___。",
+      "options": null,
+      "answer": "内、内侧髁、外侧髁、胫骨粗隆、内踝",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "内"
+        },
+        {
+          "index": 1,
+          "answer": "内侧髁"
+        },
+        {
+          "index": 2,
+          "answer": "外侧髁"
+        },
+        {
+          "index": 3,
+          "answer": "胫骨粗隆"
+        },
+        {
+          "index": 4,
+          "answer": "内踝"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-018",
+      "type": "fill_blank",
+      "stem": "髋臼位于___，由___、___和___的体合成，中央深陷为___。髋臼边缘下部的缺口称___。",
+      "options": null,
+      "answer": "髋骨中部、髂骨、耻骨、坐骨、髋臼窝、髋臼切迹",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "髋骨中部"
+        },
+        {
+          "index": 1,
+          "answer": "髂骨"
+        },
+        {
+          "index": 2,
+          "answer": "耻骨"
+        },
+        {
+          "index": 3,
+          "answer": "坐骨"
+        },
+        {
+          "index": 4,
+          "answer": "髋臼窝"
+        },
+        {
+          "index": 5,
+          "answer": "髋臼切迹"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-019",
+      "type": "fill_blank",
+      "stem": "眶的上壁与外侧壁之间有___，向后通___；下壁与外侧壁之间有___，向后通___和___。",
+      "options": null,
+      "answer": "眶上裂、颅中窝、眶下裂、颞下窝、翼腭窝",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "眶上裂"
+        },
+        {
+          "index": 1,
+          "answer": "颅中窝"
+        },
+        {
+          "index": 2,
+          "answer": "眶下裂"
+        },
+        {
+          "index": 3,
+          "answer": "颞下窝"
+        },
+        {
+          "index": 4,
+          "answer": "翼腭窝"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-020",
+      "type": "fill_blank",
+      "stem": "颅前窝骨折伤及___时，常伴有___和___的撕裂或___神经受损。",
+      "options": null,
+      "answer": "筛板、脑膜、鼻腔顶部黏膜、嗅",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "筛板"
+        },
+        {
+          "index": 1,
+          "answer": "脑膜"
+        },
+        {
+          "index": 2,
+          "answer": "鼻腔顶部黏膜"
+        },
+        {
+          "index": 3,
+          "answer": "嗅"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-021",
+      "type": "fill_blank",
+      "stem": "颅前窝和颅中窝以___为界。颅中窝主要由蝶骨的___以及颞骨的___和___组成，颅中窝的蝶骨中部前后高而中间低陷称___。",
+      "options": null,
+      "answer": "蝶骨小翼后缘、大翼、岩部、鳞部、垂体窝",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "蝶骨小翼后缘"
+        },
+        {
+          "index": 1,
+          "answer": "大翼"
+        },
+        {
+          "index": 2,
+          "answer": "岩部"
+        },
+        {
+          "index": 3,
+          "answer": "鳞部"
+        },
+        {
+          "index": 4,
+          "answer": "垂体窝"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-022",
+      "type": "fill_blank",
+      "stem": "前庭蜗神经经过___离开内耳道，椎动脉经过___进入颅腔，副神经经过___离开颅腔，动眼神经经过___离开颅腔。",
+      "options": null,
+      "answer": "内耳门、枕骨大孔、颈静脉孔、眶上裂",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "内耳门"
+        },
+        {
+          "index": 1,
+          "answer": "枕骨大孔"
+        },
+        {
+          "index": 2,
+          "answer": "颈静脉孔"
+        },
+        {
+          "index": 3,
+          "answer": "眶上裂"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-023",
+      "type": "fill_blank",
+      "stem": "躯干骨包括___、___和___。",
+      "options": null,
+      "answer": "椎骨、肋、胸骨",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "椎骨"
+        },
+        {
+          "index": 1,
+          "answer": "肋"
+        },
+        {
+          "index": 2,
+          "answer": "胸骨"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-024",
+      "type": "fill_blank",
+      "stem": "桡骨上端称___，其下稍细称___，再下方的前内侧有___。",
+      "options": null,
+      "answer": "桡骨头、桡骨颈、桡骨粗隆",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "桡骨头"
+        },
+        {
+          "index": 1,
+          "answer": "桡骨颈"
+        },
+        {
+          "index": 2,
+          "answer": "桡骨粗隆"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-025",
+      "type": "fill_blank",
+      "stem": "桡骨头上面微凹的关节面与___相关节，头周围有___与尺骨的___相关节。",
+      "options": null,
+      "answer": "肱骨小头、环状关节面、桡切迹",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "肱骨小头"
+        },
+        {
+          "index": 1,
+          "answer": "环状关节面"
+        },
+        {
+          "index": 2,
+          "answer": "桡切迹"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-026",
+      "type": "fill_blank",
+      "stem": "上、下相邻椎骨的椎弓根围成___，有___通行。",
+      "options": null,
+      "answer": "椎间孔、脊神经等",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "椎间孔"
+        },
+        {
+          "index": 1,
+          "answer": "脊神经等"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-027",
+      "type": "fill_blank",
+      "stem": "上颌骨从上颌体向前内上伸出___突，向下伸出___突，向外侧伸出___突，上颌体内的空腔称___。",
+      "options": null,
+      "answer": "额、牙槽、颧、上颌窦",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "额"
+        },
+        {
+          "index": 1,
+          "answer": "牙槽"
+        },
+        {
+          "index": 2,
+          "answer": "颧"
+        },
+        {
+          "index": 3,
+          "answer": "上颌窦"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-028",
+      "type": "fill_blank",
+      "stem": "腕骨的近侧列由桡侧向尺侧依次为___、___、___和___，远侧列依次为___、___、___和___。",
+      "options": null,
+      "answer": "手舟骨、月骨、三角骨、豌豆骨、大多角骨、小多角骨、头状骨、钩骨",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "手舟骨"
+        },
+        {
+          "index": 1,
+          "answer": "月骨"
+        },
+        {
+          "index": 2,
+          "answer": "三角骨"
+        },
+        {
+          "index": 3,
+          "answer": "豌豆骨"
+        },
+        {
+          "index": 4,
+          "answer": "大多角骨"
+        },
+        {
+          "index": 5,
+          "answer": "小多角骨"
+        },
+        {
+          "index": 6,
+          "answer": "头状骨"
+        },
+        {
+          "index": 7,
+          "answer": "钩骨"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-029",
+      "type": "fill_blank",
+      "stem": "下颌支后缘与下颌底相交处为___，下颌支内面中央有___，向前下经___通___。",
+      "options": null,
+      "answer": "下颌角、下颌孔、下颌管、颏孔",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "下颌角"
+        },
+        {
+          "index": 1,
+          "answer": "下颌孔"
+        },
+        {
+          "index": 2,
+          "answer": "下颌管"
+        },
+        {
+          "index": 3,
+          "answer": "颏孔"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-030",
+      "type": "fill_blank",
+      "stem": "胸骨角是___和___连结处，其两侧切迹与___形成关节，是计数___的标志。",
+      "options": null,
+      "answer": "胸骨柄、胸骨体、第2肋软骨、肋",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "胸骨柄"
+        },
+        {
+          "index": 1,
+          "answer": "胸骨体"
+        },
+        {
+          "index": 2,
+          "answer": "第2肋软骨"
+        },
+        {
+          "index": 3,
+          "answer": "肋"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-031",
+      "type": "fill_blank",
+      "stem": "胸椎的特征是在椎体侧面有___，在横突末端有___。",
+      "options": null,
+      "answer": "上、下肋凹、横突肋凹",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "上、下肋凹"
+        },
+        {
+          "index": 1,
+          "answer": "横突肋凹"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-032",
+      "type": "fill_blank",
+      "stem": "腰椎的特点是棘突___，呈___，棘突间距离___，临床常在此进行腰椎穿刺。",
+      "options": null,
+      "answer": "宽而短、呈板状水平伸向后方、较宽",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "宽而短"
+        },
+        {
+          "index": 1,
+          "answer": "呈板状水平伸向后方"
+        },
+        {
+          "index": 2,
+          "answer": "较宽"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-033",
+      "type": "fill_blank",
+      "stem": "翼点是___、___、___和___四骨连接处形成的___形骨缝，其内面有___经过。",
+      "options": null,
+      "answer": "额骨、顶骨、颞骨、蝶骨、H、脑膜中动脉前支",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "额骨"
+        },
+        {
+          "index": 1,
+          "answer": "顶骨"
+        },
+        {
+          "index": 2,
+          "answer": "颞骨"
+        },
+        {
+          "index": 3,
+          "answer": "蝶骨"
+        },
+        {
+          "index": 4,
+          "answer": "H"
+        },
+        {
+          "index": 5,
+          "answer": "脑膜中动脉前支"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-034",
+      "type": "fill_blank",
+      "stem": "在鼻腔外侧壁上有三个卷曲的骨片，分别称为___、___和___，前两个骨片属于___，三骨片外下方的腔隙分别称为___、___和___。",
+      "options": null,
+      "answer": "上鼻甲、中鼻甲、下鼻甲、筛骨、上鼻道、中鼻道、下鼻道",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "上鼻甲"
+        },
+        {
+          "index": 1,
+          "answer": "中鼻甲"
+        },
+        {
+          "index": 2,
+          "answer": "下鼻甲"
+        },
+        {
+          "index": 3,
+          "answer": "筛骨"
+        },
+        {
+          "index": 4,
+          "answer": "上鼻道"
+        },
+        {
+          "index": 5,
+          "answer": "中鼻道"
+        },
+        {
+          "index": 6,
+          "answer": "下鼻道"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-035",
+      "type": "fill_blank",
+      "stem": "在成人，红骨髓存在于___、___、___和___内。",
+      "options": null,
+      "answer": "长骨的骺、短骨、扁骨、不规则骨",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "长骨的骺"
+        },
+        {
+          "index": 1,
+          "answer": "短骨"
+        },
+        {
+          "index": 2,
+          "answer": "扁骨"
+        },
+        {
+          "index": 3,
+          "answer": "不规则骨"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-036",
+      "type": "fill_blank",
+      "stem": "中鼻道内有___、___和___的开口。",
+      "options": null,
+      "answer": "上颌窦、额窦、筛窦前、中群",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "上颌窦"
+        },
+        {
+          "index": 1,
+          "answer": "额窦"
+        },
+        {
+          "index": 2,
+          "answer": "筛窦前、中群"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-037",
+      "type": "fill_blank",
+      "stem": "椎骨的突起包括成对的___、___、___和不成对的___。",
+      "options": null,
+      "answer": "横突、上关节突、下关节突、棘突",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "横突"
+        },
+        {
+          "index": 1,
+          "answer": "上关节突"
+        },
+        {
+          "index": 2,
+          "answer": "下关节突"
+        },
+        {
+          "index": 3,
+          "answer": "棘突"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-038",
+      "type": "fill_blank",
+      "stem": "椎骨由位于前方的___、后方的___和由___伸出的___三部分构成。",
+      "options": null,
+      "answer": "椎体、椎弓、椎弓、7个突起",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "椎体"
+        },
+        {
+          "index": 1,
+          "answer": "椎弓"
+        },
+        {
+          "index": 2,
+          "answer": "椎弓"
+        },
+        {
+          "index": 3,
+          "answer": "7个突起"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-039",
+      "type": "fill_blank",
+      "stem": "椎体和椎弓围成___，其上、下纵贯连成___。",
+      "options": null,
+      "answer": "椎孔、椎管",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "椎孔"
+        },
+        {
+          "index": 1,
+          "answer": "椎管"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-040",
+      "type": "fill_blank",
+      "stem": "关节的辅助结构有___、___和___。",
+      "options": null,
+      "answer": "关节盘、关节唇、韧带",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "关节盘"
+        },
+        {
+          "index": 1,
+          "answer": "关节唇"
+        },
+        {
+          "index": 2,
+          "answer": "韧带"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-041",
+      "type": "fill_blank",
+      "stem": "具有关节盘的关节有___、___、___和___。在附肢连结中，___关节和___关节有关节唇, ___关节内有肌腱通过。",
+      "options": null,
+      "answer": "颞下颌关节、胸锁关节、膝关节、腕关节、肩、髋、肩",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "颞下颌关节"
+        },
+        {
+          "index": 1,
+          "answer": "胸锁关节"
+        },
+        {
+          "index": 2,
+          "answer": "膝关节"
+        },
+        {
+          "index": 3,
+          "answer": "腕关节"
+        },
+        {
+          "index": 4,
+          "answer": "肩"
+        },
+        {
+          "index": 5,
+          "answer": "髋"
+        },
+        {
+          "index": 6,
+          "answer": "肩"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-042",
+      "type": "fill_blank",
+      "stem": "相邻椎体借___、___和___相连结，相邻椎弓借___相连结。",
+      "options": null,
+      "answer": "前纵韧带、后纵韧带、椎间盘、黄韧带",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "前纵韧带"
+        },
+        {
+          "index": 1,
+          "answer": "后纵韧带"
+        },
+        {
+          "index": 2,
+          "answer": "椎间盘"
+        },
+        {
+          "index": 3,
+          "answer": "黄韧带"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-043",
+      "type": "fill_blank",
+      "stem": "相邻棘突借___和___相连结。",
+      "options": null,
+      "answer": "棘间韧带、棘上韧带",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "棘间韧带"
+        },
+        {
+          "index": 1,
+          "answer": "棘上韧带"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-044",
+      "type": "fill_blank",
+      "stem": "椎间盘的中央部分称___，盘的周围部分称___。",
+      "options": null,
+      "answer": "髓核、纤维环",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "髓核"
+        },
+        {
+          "index": 1,
+          "answer": "纤维环"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-045",
+      "type": "fill_blank",
+      "stem": "两侧肋弓在中线相交，构成向下开放的___角，角内夹有___。",
+      "options": null,
+      "answer": "胸骨下、剑突",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "胸骨下"
+        },
+        {
+          "index": 1,
+          "answer": "剑突"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-046",
+      "type": "fill_blank",
+      "stem": "胸廓上口由___、___和___围成，胸廓下口由___、___、___、___和___围成。",
+      "options": null,
+      "answer": "胸骨柄上缘、第1肋、第1胸椎、第12胸椎、第12对肋、第11对肋软骨、肋弓、剑突",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "胸骨柄上缘"
+        },
+        {
+          "index": 1,
+          "answer": "第1肋"
+        },
+        {
+          "index": 2,
+          "answer": "第1胸椎"
+        },
+        {
+          "index": 3,
+          "answer": "第12胸椎"
+        },
+        {
+          "index": 4,
+          "answer": "第12对肋"
+        },
+        {
+          "index": 5,
+          "answer": "第11对肋软骨"
+        },
+        {
+          "index": 6,
+          "answer": "肋弓"
+        },
+        {
+          "index": 7,
+          "answer": "剑突"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-047",
+      "type": "fill_blank",
+      "stem": "___、___和___构成喙肩弓，可防止___脱位。",
+      "options": null,
+      "answer": "喙突、肩峰、喙肩韧带、肱骨头向上",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "喙突"
+        },
+        {
+          "index": 1,
+          "answer": "肩峰"
+        },
+        {
+          "index": 2,
+          "answer": "喙肩韧带"
+        },
+        {
+          "index": 3,
+          "answer": "肱骨头向上"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-048",
+      "type": "fill_blank",
+      "stem": "肩关节是典型的___，由___和___构成，其特点是有___加深关节窝，关节囊的___壁较薄弱。关节能作___、___、___和___运动。",
+      "options": null,
+      "answer": "球窝关节、肱骨头、肩胛骨关节盂、盂唇、下、屈伸、收展、旋内旋外、环转",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "球窝关节"
+        },
+        {
+          "index": 1,
+          "answer": "肱骨头"
+        },
+        {
+          "index": 2,
+          "answer": "肩胛骨关节盂"
+        },
+        {
+          "index": 3,
+          "answer": "盂唇"
+        },
+        {
+          "index": 4,
+          "answer": "下"
+        },
+        {
+          "index": 5,
+          "answer": "屈伸"
+        },
+        {
+          "index": 6,
+          "answer": "收展"
+        },
+        {
+          "index": 7,
+          "answer": "旋内旋外"
+        },
+        {
+          "index": 8,
+          "answer": "环转"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-049",
+      "type": "fill_blank",
+      "stem": "肘关节中，肱尺关节由___和___构成；肱桡关节由___和___构成，属___关节；桡尺近侧关节由___和___构成，三部分组成肘关节，以___关节为主体。",
+      "options": null,
+      "answer": "肱骨滑车、尺骨滑车切迹、肱骨小头、桡骨关节凹、球窝、桡骨头环状关节面、尺骨桡切迹、肱尺关节",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "肱骨滑车"
+        },
+        {
+          "index": 1,
+          "answer": "尺骨滑车切迹"
+        },
+        {
+          "index": 2,
+          "answer": "肱骨小头"
+        },
+        {
+          "index": 3,
+          "answer": "桡骨关节凹"
+        },
+        {
+          "index": 4,
+          "answer": "球窝"
+        },
+        {
+          "index": 5,
+          "answer": "桡骨头环状关节面"
+        },
+        {
+          "index": 6,
+          "answer": "尺骨桡切迹"
+        },
+        {
+          "index": 7,
+          "answer": "肱尺关节"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-050",
+      "type": "fill_blank",
+      "stem": "背肌浅群主要有___、___、___和___。",
+      "options": null,
+      "answer": "斜方肌、背阔肌、肩胛提肌、菱形肌",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "斜方肌"
+        },
+        {
+          "index": 1,
+          "answer": "背阔肌"
+        },
+        {
+          "index": 2,
+          "answer": "肩胛提肌"
+        },
+        {
+          "index": 3,
+          "answer": "菱形肌"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-051",
+      "type": "fill_blank",
+      "stem": "臂肌前群包括浅层的___和深层的___及___。",
+      "options": null,
+      "answer": "肱二头肌、肱肌、喙肱肌",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "肱二头肌"
+        },
+        {
+          "index": 1,
+          "answer": "肱肌"
+        },
+        {
+          "index": 2,
+          "answer": "喙肱肌"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-052",
+      "type": "fill_blank",
+      "stem": "骶骨底前缘突出称___，是___的重要标志。骶骨的前面有4对___，通行___，贯穿骶骨背面正中间的是___，骶管裂孔位于___，临床上进行骶管麻醉常以___作为其寻找的标志。",
+      "options": null,
+      "answer": "骶岬、产科骨盆测量、骶前孔、骶神经前支、骶正中嵴、骶骨下端、骶角",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "骶岬"
+        },
+        {
+          "index": 1,
+          "answer": "产科骨盆测量"
+        },
+        {
+          "index": 2,
+          "answer": "骶前孔"
+        },
+        {
+          "index": 3,
+          "answer": "骶神经前支"
+        },
+        {
+          "index": 4,
+          "answer": "骶正中嵴"
+        },
+        {
+          "index": 5,
+          "answer": "骶骨下端"
+        },
+        {
+          "index": 6,
+          "answer": "骶角"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-053",
+      "type": "fill_blank",
+      "stem": "骶结节韧带、骶棘韧带与坐骨大、小切迹共同围成___和___。",
+      "options": null,
+      "answer": "坐骨大孔、坐骨小孔",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "坐骨大孔"
+        },
+        {
+          "index": 1,
+          "answer": "坐骨小孔"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-054",
+      "type": "fill_blank",
+      "stem": "第___颈椎又名___，其棘突特长，是___和___的标志。",
+      "options": null,
+      "answer": "7、隆椎、计数椎骨数目、针炙取穴",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "7"
+        },
+        {
+          "index": 1,
+          "answer": "隆椎"
+        },
+        {
+          "index": 2,
+          "answer": "计数椎骨数目"
+        },
+        {
+          "index": 3,
+          "answer": "针炙取穴"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-055",
+      "type": "fill_blank",
+      "stem": "第1颈椎又名___，呈环形，由前弓、___和2个___组成, 前弓后面有___,与第2颈椎的___相关节。",
+      "options": null,
+      "answer": "寰椎、后弓、侧块、齿突凹、齿突",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "寰椎"
+        },
+        {
+          "index": 1,
+          "answer": "后弓"
+        },
+        {
+          "index": 2,
+          "answer": "侧块"
+        },
+        {
+          "index": 3,
+          "answer": "齿突凹"
+        },
+        {
+          "index": 4,
+          "answer": "齿突"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-056",
+      "type": "fill_blank",
+      "stem": "腹股沟管前壁主要为___，后壁为___和___，下壁为___，上壁为___和___，腹股沟管的两口为___和___。管内男性有___，女性有___。",
+      "options": null,
+      "answer": "腹外斜肌腱膜和腹内斜肌、腹横筋膜、腹股沟镰、腹股沟韧带、腹内斜肌的弓状下缘、腹横肌的弓状下缘、管的外口即腹股沟管浅(皮下)环、管的内口称腹股沟管深(腹)环、精索、子宫圆韧带",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "腹外斜肌腱膜和腹内斜肌"
+        },
+        {
+          "index": 1,
+          "answer": "腹横筋膜"
+        },
+        {
+          "index": 2,
+          "answer": "腹股沟镰"
+        },
+        {
+          "index": 3,
+          "answer": "腹股沟韧带"
+        },
+        {
+          "index": 4,
+          "answer": "腹内斜肌的弓状下缘"
+        },
+        {
+          "index": 5,
+          "answer": "腹横肌的弓状下缘"
+        },
+        {
+          "index": 6,
+          "answer": "管的外口即腹股沟管浅(皮下)环"
+        },
+        {
+          "index": 7,
+          "answer": "管的内口称腹股沟管深(腹)环"
+        },
+        {
+          "index": 8,
+          "answer": "精索"
+        },
+        {
+          "index": 9,
+          "answer": "子宫圆韧带"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-057",
+      "type": "fill_blank",
+      "stem": "腹直肌鞘由___、___和___构成。鞘分___和___层，在脐下___以下，缺少鞘的___层。",
+      "options": null,
+      "answer": "腹外斜肌腱膜、腹内斜肌腱膜、腹横肌腱膜、前层、后、4~6cm、后",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "腹外斜肌腱膜"
+        },
+        {
+          "index": 1,
+          "answer": "腹内斜肌腱膜"
+        },
+        {
+          "index": 2,
+          "answer": "腹横肌腱膜"
+        },
+        {
+          "index": 3,
+          "answer": "前层"
+        },
+        {
+          "index": 4,
+          "answer": "后"
+        },
+        {
+          "index": 5,
+          "answer": "4~6cm"
+        },
+        {
+          "index": 6,
+          "answer": "后"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-058",
+      "type": "fill_blank",
+      "stem": "肘关节的韧带主要有___、___和___。",
+      "options": null,
+      "answer": "桡骨环状韧带、桡侧副韧带、尺侧副韧带",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "桡骨环状韧带"
+        },
+        {
+          "index": 1,
+          "answer": "桡侧副韧带"
+        },
+        {
+          "index": 2,
+          "answer": "尺侧副韧带"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-059",
+      "type": "fill_blank",
+      "stem": "膈有三个孔，即___(有___通过)、___(有___通过)、___(有___通过)。",
+      "options": null,
+      "answer": "主动脉裂孔、主动脉和胸导管、食管裂孔、食管和迷走神经、腔静脉孔、下腔静脉",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "主动脉裂孔"
+        },
+        {
+          "index": 1,
+          "answer": "主动脉和胸导管"
+        },
+        {
+          "index": 2,
+          "answer": "食管裂孔"
+        },
+        {
+          "index": 3,
+          "answer": "食管和迷走神经"
+        },
+        {
+          "index": 4,
+          "answer": "腔静脉孔"
+        },
+        {
+          "index": 5,
+          "answer": "下腔静脉"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-060",
+      "type": "fill_blank",
+      "stem": "股骨头韧带连结于___和___之间，内含___。",
+      "options": null,
+      "answer": "股骨头凹、髋臼横韧带、营养股骨头的血管",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "股骨头凹"
+        },
+        {
+          "index": 1,
+          "answer": "髋臼横韧带"
+        },
+        {
+          "index": 2,
+          "answer": "营养股骨头的血管"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-061",
+      "type": "fill_blank",
+      "stem": "肌的辅助装置有___、___、___和___。",
+      "options": null,
+      "answer": "筋膜、腱鞘、滑液囊、籽骨",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "筋膜"
+        },
+        {
+          "index": 1,
+          "answer": "腱鞘"
+        },
+        {
+          "index": 2,
+          "answer": "滑液囊"
+        },
+        {
+          "index": 3,
+          "answer": "籽骨"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-062",
+      "type": "fill_blank",
+      "stem": "肩胛骨外侧角有梨形关节面称___，是___关节的关节窝。肩胛骨后面被一斜向横行骨嵴隆起的___分为___和___，其外侧端扁平突出，称___。肩胛骨上缘靠外侧有一凹陷，为___，内有___通过。肩胛骨下角位于第___肋的后面。",
+      "options": null,
+      "answer": "关节盂、肩、肩胛冈、冈上窝、冈下窝、肩峰、肩胛切迹、肩胛上神经、7",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "关节盂"
+        },
+        {
+          "index": 1,
+          "answer": "肩"
+        },
+        {
+          "index": 2,
+          "answer": "肩胛冈"
+        },
+        {
+          "index": 3,
+          "answer": "冈上窝"
+        },
+        {
+          "index": 4,
+          "answer": "冈下窝"
+        },
+        {
+          "index": 5,
+          "answer": "肩峰"
+        },
+        {
+          "index": 6,
+          "answer": "肩胛切迹"
+        },
+        {
+          "index": 7,
+          "answer": "肩胛上神经"
+        },
+        {
+          "index": 8,
+          "answer": "7"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-063",
+      "type": "fill_blank",
+      "stem": "腱鞘由内层的___和外层的___构成。",
+      "options": null,
+      "answer": "滑膜层、纤维层",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "滑膜层"
+        },
+        {
+          "index": 1,
+          "answer": "纤维层"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-064",
+      "type": "fill_blank",
+      "stem": "咀嚼肌包括___、___、___和___。",
+      "options": null,
+      "answer": "咬肌、颞肌、翼外肌、翼内肌",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "咬肌"
+        },
+        {
+          "index": 1,
+          "answer": "颞肌"
+        },
+        {
+          "index": 2,
+          "answer": "翼外肌"
+        },
+        {
+          "index": 3,
+          "answer": "翼内肌"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-065",
+      "type": "fill_blank",
+      "stem": "距小腿关节又称___，由___、___和___构成，属___关节。",
+      "options": null,
+      "answer": "踝关节、胫骨的下端、腓骨的下端、距骨滑车、屈戍",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "踝关节"
+        },
+        {
+          "index": 1,
+          "answer": "胫骨的下端"
+        },
+        {
+          "index": 2,
+          "answer": "腓骨的下端"
+        },
+        {
+          "index": 3,
+          "answer": "距骨滑车"
+        },
+        {
+          "index": 4,
+          "answer": "屈戍"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-066",
+      "type": "fill_blank",
+      "stem": "髋关节髋臼周缘借___加深，股骨颈大部分位于关节囊___，髋关节属___关节。",
+      "options": null,
+      "answer": "髋臼唇、内、典型的杵臼",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "髋臼唇"
+        },
+        {
+          "index": 1,
+          "answer": "内"
+        },
+        {
+          "index": 2,
+          "answer": "典型的杵臼"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-067",
+      "type": "fill_blank",
+      "stem": "肋由___和___构成，肋沟位于___，有___和___通行。",
+      "options": null,
+      "answer": "肋骨、肋软骨、肋体内面近下缘、肋间血管、神经",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "肋骨"
+        },
+        {
+          "index": 1,
+          "answer": "肋软骨"
+        },
+        {
+          "index": 2,
+          "answer": "肋体内面近下缘"
+        },
+        {
+          "index": 3,
+          "answer": "肋间血管"
+        },
+        {
+          "index": 4,
+          "answer": "神经"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-068",
+      "type": "fill_blank",
+      "stem": "拇指腕掌关节由___和___构成，属___关节，能作拇指远节的掌面与其它四指远节的掌面接触，即___运动。",
+      "options": null,
+      "answer": "大多角骨、第一掌骨底、鞍状、对掌",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "大多角骨"
+        },
+        {
+          "index": 1,
+          "answer": "第一掌骨底"
+        },
+        {
+          "index": 2,
+          "answer": "鞍状"
+        },
+        {
+          "index": 3,
+          "answer": "对掌"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-069",
+      "type": "fill_blank",
+      "stem": "颞下颌关节属___关节，由___、___和___构成，关节腔内因有___而分为上、下两部。若张口过大，可使___和___滑向___的___而脱位。",
+      "options": null,
+      "answer": "联合、下颌骨的下颌头、颞骨的下颌窝和关节结节、关节盘、下颌头、关节盘、关节结节、前方",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "联合"
+        },
+        {
+          "index": 1,
+          "answer": "下颌骨的下颌头"
+        },
+        {
+          "index": 2,
+          "answer": "颞骨的下颌窝和关节结节"
+        },
+        {
+          "index": 3,
+          "answer": "关节盘"
+        },
+        {
+          "index": 4,
+          "answer": "下颌头"
+        },
+        {
+          "index": 5,
+          "answer": "关节盘"
+        },
+        {
+          "index": 6,
+          "answer": "关节结节"
+        },
+        {
+          "index": 7,
+          "answer": "前方"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-070",
+      "type": "fill_blank",
+      "stem": "前臂肌前群第一层自桡侧向尺侧依次为___、___、___、___和___。",
+      "options": null,
+      "answer": "肱桡肌、旋前圆肌、桡侧腕屈肌、掌长肌、尺侧腕屈肌",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "肱桡肌"
+        },
+        {
+          "index": 1,
+          "answer": "旋前圆肌"
+        },
+        {
+          "index": 2,
+          "answer": "桡侧腕屈肌"
+        },
+        {
+          "index": 3,
+          "answer": "掌长肌"
+        },
+        {
+          "index": 4,
+          "answer": "尺侧腕屈肌"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-071",
+      "type": "fill_blank",
+      "stem": "前囟呈___形，位于___和___交角处，生后___闭合;后囟呈___形，位于___和___的交角处，生后___闭合。",
+      "options": null,
+      "answer": "菱形、矢状缝、冠状缝、1~2岁、三角、矢状缝、人字缝、不久",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "菱形"
+        },
+        {
+          "index": 1,
+          "answer": "矢状缝"
+        },
+        {
+          "index": 2,
+          "answer": "冠状缝"
+        },
+        {
+          "index": 3,
+          "answer": "1~2岁"
+        },
+        {
+          "index": 4,
+          "answer": "三角"
+        },
+        {
+          "index": 5,
+          "answer": "矢状缝"
+        },
+        {
+          "index": 6,
+          "answer": "人字缝"
+        },
+        {
+          "index": 7,
+          "answer": "不久"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-072",
+      "type": "fill_blank",
+      "stem": "桡腕关节由___和___构成关节窝，由___、___、___的近侧关节面构成关节头，属___关节。",
+      "options": null,
+      "answer": "桡骨的腕关节面、尺骨头下方的关节盘、手舟骨、月骨、三角骨、典型的椭圆",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "桡骨的腕关节面"
+        },
+        {
+          "index": 1,
+          "answer": "尺骨头下方的关节盘"
+        },
+        {
+          "index": 2,
+          "answer": "手舟骨"
+        },
+        {
+          "index": 3,
+          "answer": "月骨"
+        },
+        {
+          "index": 4,
+          "answer": "三角骨"
+        },
+        {
+          "index": 5,
+          "answer": "典型的椭圆"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-073",
+      "type": "fill_blank",
+      "stem": "上肢带肌包括___、___、___、___、___和___；三角肌的主要作用是___。",
+      "options": null,
+      "answer": "三角肌、肩胛下肌、冈上肌、冈下肌、小圆肌、大圆肌、肩关节外展",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "三角肌"
+        },
+        {
+          "index": 1,
+          "answer": "肩胛下肌"
+        },
+        {
+          "index": 2,
+          "answer": "冈上肌"
+        },
+        {
+          "index": 3,
+          "answer": "冈下肌"
+        },
+        {
+          "index": 4,
+          "answer": "小圆肌"
+        },
+        {
+          "index": 5,
+          "answer": "大圆肌"
+        },
+        {
+          "index": 6,
+          "answer": "肩关节外展"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-074",
+      "type": "fill_blank",
+      "stem": "舌骨下肌群包括___、___、___和___。",
+      "options": null,
+      "answer": "胸骨舌骨肌、肩胛舌骨肌、胸骨甲状肌、甲状舌骨肌",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "胸骨舌骨肌"
+        },
+        {
+          "index": 1,
+          "answer": "肩胛舌骨肌"
+        },
+        {
+          "index": 2,
+          "answer": "胸骨甲状肌"
+        },
+        {
+          "index": 3,
+          "answer": "甲状舌骨肌"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-075",
+      "type": "fill_blank",
+      "stem": "使前臂旋前的肌有___和___，使前臂旋后的肌有___和___。",
+      "options": null,
+      "answer": "旋前圆肌、旋前方肌、旋后肌、肱二头肌",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "旋前圆肌"
+        },
+        {
+          "index": 1,
+          "answer": "旋前方肌"
+        },
+        {
+          "index": 2,
+          "answer": "旋后肌"
+        },
+        {
+          "index": 3,
+          "answer": "肱二头肌"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-076",
+      "type": "fill_blank",
+      "stem": "使足内翻的肌主要是___和___，使足外翻的肌主要是___和___。",
+      "options": null,
+      "answer": "趾长屈肌、胫骨后肌、腓骨长肌、腓骨短肌",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "趾长屈肌"
+        },
+        {
+          "index": 1,
+          "answer": "胫骨后肌"
+        },
+        {
+          "index": 2,
+          "answer": "腓骨长肌"
+        },
+        {
+          "index": 3,
+          "answer": "腓骨短肌"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-077",
+      "type": "fill_blank",
+      "stem": "膝关节由___、___和___构成。其内侧有___，与关节囊连结其外侧有一韧带，为___韧带。膝关节腔内还有两片纤维软骨，即呈___形的___和呈___形的___。",
+      "options": null,
+      "answer": "股骨下端、胫骨上端、髌骨、胫侧副韧带、腓侧副韧带、内侧半月板、\"C\"、外侧半月板、\"O\"",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "股骨下端"
+        },
+        {
+          "index": 1,
+          "answer": "胫骨上端"
+        },
+        {
+          "index": 2,
+          "answer": "髌骨"
+        },
+        {
+          "index": 3,
+          "answer": "胫侧副韧带"
+        },
+        {
+          "index": 4,
+          "answer": "腓侧副韧带"
+        },
+        {
+          "index": 5,
+          "answer": "内侧半月板"
+        },
+        {
+          "index": 6,
+          "answer": "\"C\""
+        },
+        {
+          "index": 7,
+          "answer": "外侧半月板"
+        },
+        {
+          "index": 8,
+          "answer": "\"O\""
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-078",
+      "type": "fill_blank",
+      "stem": "小骨盆的入口也即___，其由___及其两侧的___、___、___和___连成。",
+      "options": null,
+      "answer": "界线、骶骨的岬、弓状线、耻骨梳、耻骨结节、耻骨联合上缘",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "界线"
+        },
+        {
+          "index": 1,
+          "answer": "骶骨的岬"
+        },
+        {
+          "index": 2,
+          "answer": "弓状线"
+        },
+        {
+          "index": 3,
+          "answer": "耻骨梳"
+        },
+        {
+          "index": 4,
+          "answer": "耻骨结节"
+        },
+        {
+          "index": 5,
+          "answer": "耻骨联合上缘"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-079",
+      "type": "fill_blank",
+      "stem": "胸锁乳突肌以两个头起自___和___，止于___。一侧肌收缩使头___，面___；两侧肌收缩使头___。",
+      "options": null,
+      "answer": "胸骨柄前面、锁骨胸骨端、颞骨的乳突、向同侧倾斜、转向对侧、后仰",
+      "blanks": [
+        {
+          "index": 0,
+          "answer": "胸骨柄前面"
+        },
+        {
+          "index": 1,
+          "answer": "锁骨胸骨端"
+        },
+        {
+          "index": 2,
+          "answer": "颞骨的乳突"
+        },
+        {
+          "index": 3,
+          "answer": "向同侧倾斜"
+        },
+        {
+          "index": 4,
+          "answer": "转向对侧"
+        },
+        {
+          "index": 5,
+          "answer": "后仰"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-001",
+      "type": "multiple_choice",
+      "stem": "一位56岁女性患者行路时滑倒，倒地时以左上肢支撑身体，当即觉左肩部疼痛，运动障碍。入院检查见左肩呈\"方形肩\"，X线片示左肩关节前脱位伴喙突撕脱性骨折。造成左肩关节前脱位最主要的原因是",
+      "options": [
+        {
+          "key": "A",
+          "text": "肱骨头大"
+        },
+        {
+          "key": "B",
+          "text": "关节囊前下部薄弱"
+        },
+        {
+          "key": "C",
+          "text": "肩关节盂小"
+        },
+        {
+          "key": "D",
+          "text": "喙肱韧带保护作用减弱"
+        },
+        {
+          "key": "E",
+          "text": "关节囊松弛"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-002",
+      "type": "multiple_choice",
+      "stem": "板障存在于",
+      "options": [
+        {
+          "key": "A",
+          "text": "是存在于扁骨内的松质骨"
+        },
+        {
+          "key": "B",
+          "text": "长、短骨内"
+        },
+        {
+          "key": "C",
+          "text": "胸骨内"
+        },
+        {
+          "key": "D",
+          "text": "肋骨内"
+        },
+        {
+          "key": "E",
+          "text": "仅存在于颅盖骨内"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-003",
+      "type": "multiple_choice",
+      "stem": "下列不能用于计数肋骨和椎骨的结构是",
+      "options": [
+        {
+          "key": "A",
+          "text": "隆椎棘突"
+        },
+        {
+          "key": "B",
+          "text": "肋弓"
+        },
+        {
+          "key": "C",
+          "text": "胸骨角"
+        },
+        {
+          "key": "D",
+          "text": "肩胛骨下角"
+        },
+        {
+          "key": "E",
+          "text": "上述结构都不可以"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-004",
+      "type": "multiple_choice",
+      "stem": "膝关节的特点除了",
+      "options": [
+        {
+          "key": "A",
+          "text": "关节囊宽大松弛"
+        },
+        {
+          "key": "B",
+          "text": "关节面由股骨下端、胫骨上端和膑骨构成"
+        },
+        {
+          "key": "C",
+          "text": "半月板完全分隔关节腔"
+        },
+        {
+          "key": "D",
+          "text": "前交叉韧带伸膝时紧张"
+        },
+        {
+          "key": "E",
+          "text": "是人体最大、最复杂的关节"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-005",
+      "type": "multiple_choice",
+      "stem": "不属于面肌的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "颊肌"
+        },
+        {
+          "key": "B",
+          "text": "枕额肌"
+        },
+        {
+          "key": "C",
+          "text": "颞肌"
+        },
+        {
+          "key": "D",
+          "text": "眼轮匝肌"
+        },
+        {
+          "key": "E",
+          "text": "口轮匝肌"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-006",
+      "type": "multiple_choice",
+      "stem": "不属于上肢带肌的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "三角肌"
+        },
+        {
+          "key": "B",
+          "text": "冈上肌"
+        },
+        {
+          "key": "C",
+          "text": "胸小肌"
+        },
+        {
+          "key": "D",
+          "text": "大圆肌"
+        },
+        {
+          "key": "E",
+          "text": "肩胛下肌"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-007",
+      "type": "multiple_choice",
+      "stem": "不属于肘关节的结构是",
+      "options": [
+        {
+          "key": "A",
+          "text": "桡骨环状韧带"
+        },
+        {
+          "key": "B",
+          "text": "肱尺关节"
+        },
+        {
+          "key": "C",
+          "text": "肱桡关节"
+        },
+        {
+          "key": "D",
+          "text": "桡尺近侧关节"
+        },
+        {
+          "key": "E",
+          "text": "桡尺远侧关节"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-008",
+      "type": "multiple_choice",
+      "stem": "关于胸骨角, 不正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "为胸骨柄与胸骨体的连接处"
+        },
+        {
+          "key": "B",
+          "text": "其两侧接第2肋"
+        },
+        {
+          "key": "C",
+          "text": "其后平对第4胸椎"
+        },
+        {
+          "key": "D",
+          "text": "以此横断平面有主动脉弓的起、止点"
+        },
+        {
+          "key": "E",
+          "text": "以此横断平面有食管的第3个狭窄"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-009",
+      "type": "multiple_choice",
+      "stem": "不是膝关节的特点是",
+      "options": [
+        {
+          "key": "A",
+          "text": "关节囊宽大松弛"
+        },
+        {
+          "key": "B",
+          "text": "关节面由股骨下端、胫骨上端和膑骨构成"
+        },
+        {
+          "key": "C",
+          "text": "半月板完全分隔关节腔"
+        },
+        {
+          "key": "D",
+          "text": "前交叉韧带伸膝时紧张"
+        },
+        {
+          "key": "E",
+          "text": "是人体最大、最复杂的关节"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-010",
+      "type": "multiple_choice",
+      "stem": "垂体窝位于下列哪块骨的上面",
+      "options": [
+        {
+          "key": "A",
+          "text": "筛骨"
+        },
+        {
+          "key": "B",
+          "text": "额骨"
+        },
+        {
+          "key": "C",
+          "text": "上颌骨"
+        },
+        {
+          "key": "D",
+          "text": "颞骨岩部"
+        },
+        {
+          "key": "E",
+          "text": "蝶骨"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-011",
+      "type": "multiple_choice",
+      "stem": "关于垂体窝的描述, 正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "后方是鞍结节"
+        },
+        {
+          "key": "B",
+          "text": "两侧是岩上窦"
+        },
+        {
+          "key": "C",
+          "text": "底与筛窦相邻"
+        },
+        {
+          "key": "D",
+          "text": "前方为颈动脉沟"
+        },
+        {
+          "key": "E",
+          "text": "以上都不正确"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-012",
+      "type": "multiple_choice",
+      "stem": "关于骶骨描述, 正确的",
+      "options": [
+        {
+          "key": "A",
+          "text": "由5块骶椎融合而成"
+        },
+        {
+          "key": "B",
+          "text": "耳状面是粗糙的关节面,体表可以摸到骶角"
+        },
+        {
+          "key": "C",
+          "text": "骶管由椎孔连接而成"
+        },
+        {
+          "key": "D",
+          "text": "骶管裂孔是椎管向后的开口"
+        },
+        {
+          "key": "E",
+          "text": "以上均正确"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-013",
+      "type": "multiple_choice",
+      "stem": "关于蝶骨描述, 正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "分体、大翼、小翼和翼突等 4部"
+        },
+        {
+          "key": "B",
+          "text": "大翼上从前向后有圆孔、卵圆孔和棘孔"
+        },
+        {
+          "key": "C",
+          "text": "视神经管在小翼与体的交界处"
+        },
+        {
+          "key": "D",
+          "text": "大翼与小翼之间是眶上裂"
+        },
+        {
+          "key": "E",
+          "text": "以上均正确"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-014",
+      "type": "multiple_choice",
+      "stem": "非长骨者是",
+      "options": [
+        {
+          "key": "A",
+          "text": "腓骨"
+        },
+        {
+          "key": "B",
+          "text": "肋骨"
+        },
+        {
+          "key": "C",
+          "text": "跖骨"
+        },
+        {
+          "key": "D",
+          "text": "掌骨"
+        },
+        {
+          "key": "E",
+          "text": "指骨"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-015",
+      "type": "multiple_choice",
+      "stem": "关于跗骨描述, 正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "由6块骨组成"
+        },
+        {
+          "key": "B",
+          "text": "距骨位于后上方，跟骨位于后下方"
+        },
+        {
+          "key": "C",
+          "text": "大部分属于扁骨"
+        },
+        {
+          "key": "D",
+          "text": "> 跟骨前端朝向前内方与骰骨相关节"
+        },
+        {
+          "key": "E",
+          "text": "以上都不是"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-016",
+      "type": "multiple_choice",
+      "stem": "有关腹内斜肌描述, 正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "起于胸腰筋膜和下位8个肋骨外面"
+        },
+        {
+          "key": "B",
+          "text": "腱膜形成腹股沟韧带"
+        },
+        {
+          "key": "C",
+          "text": "参与构成腹直肌鞘前、后层"
+        },
+        {
+          "key": "D",
+          "text": "肌纤维斜向前下"
+        },
+        {
+          "key": "E",
+          "text": "腱膜独立构成联合腱"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-017",
+      "type": "multiple_choice",
+      "stem": "描述腹外斜肌, 正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "肌束斜向前下"
+        },
+        {
+          "key": "B",
+          "text": "对肋骨运动无作用"
+        },
+        {
+          "key": "C",
+          "text": "其腱膜参与联合腱"
+        },
+        {
+          "key": "D",
+          "text": "不参与腹白线的组成"
+        },
+        {
+          "key": "E",
+          "text": "腱膜走在腹直肌前、后"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-018",
+      "type": "multiple_choice",
+      "stem": "关于腹直肌描述, 正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "只终止在第5～7肋软骨内面"
+        },
+        {
+          "key": "B",
+          "text": "全长前后均有腹直肌鞘包裹"
+        },
+        {
+          "key": "C",
+          "text": "全肌有3～4条腱划"
+        },
+        {
+          "key": "D",
+          "text": "腱划与腹直肌鞘后层结合紧密"
+        },
+        {
+          "key": "E",
+          "text": "上、下宽度均一"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-019",
+      "type": "multiple_choice",
+      "stem": "有关腹直肌鞘的描述, 正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "前层与腹直肌之间有血管通行"
+        },
+        {
+          "key": "B",
+          "text": "后层与腹直肌连接疏松"
+        },
+        {
+          "key": "C",
+          "text": "由腹直肌、腹内斜肌、腹外斜肌、腹横肌腱膜共同形成"
+        },
+        {
+          "key": "D",
+          "text": "前、后层包裹腹直肌全部"
+        },
+        {
+          "key": "E",
+          "text": "以上都不是"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-020",
+      "type": "multiple_choice",
+      "stem": "膈肌的腔静脉孔位置高度平",
+      "options": [
+        {
+          "key": "A",
+          "text": "第6胸椎"
+        },
+        {
+          "key": "B",
+          "text": "第7胸椎"
+        },
+        {
+          "key": "C",
+          "text": "第8胸椎"
+        },
+        {
+          "key": "D",
+          "text": "第11胸椎"
+        },
+        {
+          "key": "E",
+          "text": "第12胸椎"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-021",
+      "type": "multiple_choice",
+      "stem": "膈的食管裂孔位置高度平",
+      "options": [
+        {
+          "key": "A",
+          "text": "第6胸椎"
+        },
+        {
+          "key": "B",
+          "text": "第7胸椎"
+        },
+        {
+          "key": "C",
+          "text": "第8胸椎"
+        },
+        {
+          "key": "D",
+          "text": "第10胸椎"
+        },
+        {
+          "key": "E",
+          "text": "第12胸椎"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-022",
+      "type": "multiple_choice",
+      "stem": "膈的主动脉裂孔位置平",
+      "options": [
+        {
+          "key": "A",
+          "text": "第8胸椎"
+        },
+        {
+          "key": "B",
+          "text": "第9胸椎"
+        },
+        {
+          "key": "C",
+          "text": "第10胸椎"
+        },
+        {
+          "key": "D",
+          "text": "第11胸椎"
+        },
+        {
+          "key": "E",
+          "text": "第12胸椎"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-023",
+      "type": "multiple_choice",
+      "stem": "关于肱二头肌的描述, 正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "起于肩胛骨的喙突和盂下结节"
+        },
+        {
+          "key": "B",
+          "text": "受桡神经支配"
+        },
+        {
+          "key": "C",
+          "text": "止于尺骨鹰嘴"
+        },
+        {
+          "key": "D",
+          "text": "能屈肩关节伸肘关节"
+        },
+        {
+          "key": "E",
+          "text": "以上都不是"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-024",
+      "type": "multiple_choice",
+      "stem": "关于肱骨的描述, 正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "下端肥大，上端扁平"
+        },
+        {
+          "key": "B",
+          "text": "三角肌粗隆在肱骨体中部外侧"
+        },
+        {
+          "key": "C",
+          "text": "> 体后面有尺神经沟"
+        },
+        {
+          "key": "D",
+          "text": "内上髁后下有桡神经沟"
+        },
+        {
+          "key": "E",
+          "text": "以上都不是"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-025",
+      "type": "multiple_choice",
+      "stem": "构成眶内侧壁的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "筛骨、泪骨、上颌骨额突"
+        },
+        {
+          "key": "B",
+          "text": "额骨、筛骨、泪骨"
+        },
+        {
+          "key": "C",
+          "text": "颧骨、蝶骨大翼"
+        },
+        {
+          "key": "D",
+          "text": "上颌骨体上面和颧骨"
+        },
+        {
+          "key": "E",
+          "text": "额骨眶板与蝶骨小翼"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-026",
+      "type": "multiple_choice",
+      "stem": "股骨颈骨折可分囊内、囊外骨折的原因是",
+      "options": [
+        {
+          "key": "A",
+          "text": "髋关节囊前面仅包裹股骨颈内侧1/3"
+        },
+        {
+          "key": "B",
+          "text": "关节囊只包裹股骨颈的内侧1/2"
+        },
+        {
+          "key": "C",
+          "text": "关节囊前面达转子间线，后面包裹股骨颈的内侧2/3"
+        },
+        {
+          "key": "D",
+          "text": "关节囊未包裹股骨颈"
+        },
+        {
+          "key": "E",
+          "text": "关节囊前面包裹股骨颈的内侧2/3"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-027",
+      "type": "multiple_choice",
+      "stem": "关节的辅助结构包括以下结构, 除了",
+      "options": [
+        {
+          "key": "A",
+          "text": "囊内韧带"
+        },
+        {
+          "key": "B",
+          "text": "半月板"
+        },
+        {
+          "key": "C",
+          "text": "关节盘"
+        },
+        {
+          "key": "D",
+          "text": "关节唇"
+        },
+        {
+          "key": "E",
+          "text": "关节面"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-028",
+      "type": "multiple_choice",
+      "stem": "关于骨髓的叙述, 不正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "可分为黄骨髓和红骨髓"
+        },
+        {
+          "key": "B",
+          "text": "红、黄骨髓皆有造血功能,是人体最大的造血器官"
+        },
+        {
+          "key": "C",
+          "text": "胎儿及婴幼儿时期都是红骨髓"
+        },
+        {
+          "key": "D",
+          "text": "存于骨髓腔和骨松质中"
+        },
+        {
+          "key": "E",
+          "text": "短骨、扁骨、不规则骨和长骨骺的红骨髓终生存在"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-029",
+      "type": "multiple_choice",
+      "stem": "关于椎骨的叙述,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "分颈、胸、腰、骶、尾椎，5块腰椎融合成一块腰骨"
+        },
+        {
+          "key": "B",
+          "text": "椎骨由前面的锥体、后部的椎弓组成，两者围成椎孔"
+        },
+        {
+          "key": "C",
+          "text": "相邻椎骨的椎弓板之间围成椎间孔 D .椎间孔上下贯连形成椎管"
+        },
+        {
+          "key": "E",
+          "text": "从椎弓上发出棘突、横突、上关节突、下关节突各1对"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-030",
+      "type": "multiple_choice",
+      "stem": "关于椎骨的叙述, 正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "颈椎棘突都分叉"
+        },
+        {
+          "key": "B",
+          "text": "颈椎均有椎体"
+        },
+        {
+          "key": "C",
+          "text": "第12胸椎无肋凹"
+        },
+        {
+          "key": "D",
+          "text": "腰椎关节突关节面呈矢状位"
+        },
+        {
+          "key": "E",
+          "text": "第6颈椎棘突又称隆椎"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-031",
+      "type": "multiple_choice",
+      "stem": "横突孔中通行的结构有",
+      "options": [
+        {
+          "key": "A",
+          "text": "椎动脉"
+        },
+        {
+          "key": "B",
+          "text": "眼动脉"
+        },
+        {
+          "key": "C",
+          "text": "颈外动脉"
+        },
+        {
+          "key": "D",
+          "text": "颈内动脉"
+        },
+        {
+          "key": "E",
+          "text": "以上都不是"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-032",
+      "type": "multiple_choice",
+      "stem": "黄骨髓位于",
+      "options": [
+        {
+          "key": "A",
+          "text": "幼儿长骨骨干的内部"
+        },
+        {
+          "key": "B",
+          "text": "幼儿长骨骨骺内部"
+        },
+        {
+          "key": "C",
+          "text": "成人长骨骨干的内部"
+        },
+        {
+          "key": "D",
+          "text": "成人扁骨内部"
+        },
+        {
+          "key": "E",
+          "text": "所有骨的内部"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-033",
+      "type": "multiple_choice",
+      "stem": "正确叙述黄韧带的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "连接相邻的椎弓根之间"
+        },
+        {
+          "key": "B",
+          "text": "连接相邻的椎弓板之间"
+        },
+        {
+          "key": "C",
+          "text": "连接相邻的横突之间"
+        },
+        {
+          "key": "D",
+          "text": "参与椎管前壁的构成"
+        },
+        {
+          "key": "E",
+          "text": "可限制记住过度后伸"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-034",
+      "type": "multiple_choice",
+      "stem": "肌的辅助装置不包括",
+      "options": [
+        {
+          "key": "A",
+          "text": "筋膜"
+        },
+        {
+          "key": "B",
+          "text": "籽骨"
+        },
+        {
+          "key": "C",
+          "text": "滑膜囊"
+        },
+        {
+          "key": "D",
+          "text": "腱划"
+        },
+        {
+          "key": "E",
+          "text": "腱鞘"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-035",
+      "type": "multiple_choice",
+      "stem": "假肋是指",
+      "options": [
+        {
+          "key": "A",
+          "text": "第1～7肋"
+        },
+        {
+          "key": "B",
+          "text": "第8～11肋"
+        },
+        {
+          "key": "C",
+          "text": "第8～12肋"
+        },
+        {
+          "key": "D",
+          "text": "第1～10肋"
+        },
+        {
+          "key": "E",
+          "text": "第11～12肋"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-036",
+      "type": "multiple_choice",
+      "stem": "肩关节脱位常见的方位为",
+      "options": [
+        {
+          "key": "A",
+          "text": "上方"
+        },
+        {
+          "key": "B",
+          "text": "前方"
+        },
+        {
+          "key": "C",
+          "text": "后方"
+        },
+        {
+          "key": "D",
+          "text": "前下方"
+        },
+        {
+          "key": "E",
+          "text": "后下方"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-037",
+      "type": "multiple_choice",
+      "stem": "肩胛骨的特征是",
+      "options": [
+        {
+          "key": "A",
+          "text": "喙突与肩胛冈相连"
+        },
+        {
+          "key": "B",
+          "text": "关节盂窝从喙突突出"
+        },
+        {
+          "key": "C",
+          "text": "喙突向前及内侧突出"
+        },
+        {
+          "key": "D",
+          "text": "关节盂窝从肩胛冈突出"
+        },
+        {
+          "key": "E",
+          "text": "肩峰为最向外突出的部分"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-038",
+      "type": "multiple_choice",
+      "stem": "有关颈椎, 正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "椎体呈椭圆形"
+        },
+        {
+          "key": "B",
+          "text": "椎孔呈三角形"
+        },
+        {
+          "key": "C",
+          "text": "第6颈椎横突末端前方隆起有颈动脉结节"
+        },
+        {
+          "key": "D",
+          "text": "第7颈椎也称隆椎"
+        },
+        {
+          "key": "E",
+          "text": "以上均正确"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-039",
+      "type": "multiple_choice",
+      "stem": "眶下沟位于",
+      "options": [
+        {
+          "key": "A",
+          "text": "上颌骨体内侧面"
+        },
+        {
+          "key": "B",
+          "text": "上颌骨体上面"
+        },
+        {
+          "key": "C",
+          "text": "上颌骨的颞下面"
+        },
+        {
+          "key": "D",
+          "text": "上颌骨牙槽突"
+        },
+        {
+          "key": "E",
+          "text": "上颌骨腭突"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-040",
+      "type": "multiple_choice",
+      "stem": "关于肋的描述,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "外面近下缘处有肋沟"
+        },
+        {
+          "key": "B",
+          "text": "第8~10肋软骨连成肋弓"
+        },
+        {
+          "key": "C",
+          "text": "分真肋和肋"
+        },
+        {
+          "key": "D",
+          "text": "第1~8肋前端连于胸骨为真肋"
+        },
+        {
+          "key": "E",
+          "text": "10~12肋称浮肋"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-041",
+      "type": "multiple_choice",
+      "stem": "关于骨髓的描述哪项正确的",
+      "options": [
+        {
+          "key": "A",
+          "text": "胎儿和幼儿骨内完全是黄骨髓，成人长骨干内为红骨髓"
+        },
+        {
+          "key": "B",
+          "text": "骨髓除充填于髓腔内，还充填于松质间隙内"
+        },
+        {
+          "key": "C",
+          "text": "黄骨髓有造血功能"
+        },
+        {
+          "key": "D",
+          "text": "失血时红骨髓能转化为黄骨髓"
+        },
+        {
+          "key": "E",
+          "text": "临床上检查骨髓象可于肱骨活股骨中段穿刺抽取"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-042",
+      "type": "multiple_choice",
+      "stem": "颅骨孔裂的交通中, 不正确的叙述是",
+      "options": [
+        {
+          "key": "A",
+          "text": "卵圆孔通颅中窝"
+        },
+        {
+          "key": "B",
+          "text": "圆孔通颅前窝"
+        },
+        {
+          "key": "C",
+          "text": "眶上裂通眶上孔"
+        },
+        {
+          "key": "D",
+          "text": "筛孔通鼻腔"
+        },
+        {
+          "key": "E",
+          "text": "棘孔通颞下窝"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-043",
+      "type": "multiple_choice",
+      "stem": "正确叙述颅后窝的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "容纳大脑颞叶"
+        },
+        {
+          "key": "B",
+          "text": "后界为颞骨岩部"
+        },
+        {
+          "key": "C",
+          "text": "前界为蝶骨小翼后缘"
+        },
+        {
+          "key": "D",
+          "text": "后外侧界为横窦沟"
+        },
+        {
+          "key": "E",
+          "text": "内有棘孔"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-044",
+      "type": "multiple_choice",
+      "stem": "一位足球运动员在比赛运动中不慎扭伤左下肢。检查时，医生右手掌置患者左膝外侧稍偏上向内侧推挤，左手握患者左小腿踝关节上方使小腿外展，患者即感觉左膝内侧疼痛较剧。反之，使患者左小腿被动内收时，则左膝不甚疼痛。受伤的结构可能是",
+      "options": [
+        {
+          "key": "A",
+          "text": "前交叉韧带"
+        },
+        {
+          "key": "B",
+          "text": "后交叉韧带"
+        },
+        {
+          "key": "C",
+          "text": "内侧半月板"
+        },
+        {
+          "key": "D",
+          "text": "腓侧副韧带"
+        },
+        {
+          "key": "E",
+          "text": "胫侧副韧带"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-045",
+      "type": "multiple_choice",
+      "stem": "脑膜中动脉穿",
+      "options": [
+        {
+          "key": "A",
+          "text": "圆孔"
+        },
+        {
+          "key": "B",
+          "text": "卵圆孔"
+        },
+        {
+          "key": "C",
+          "text": "棘孔"
+        },
+        {
+          "key": "D",
+          "text": "颈动脉管"
+        },
+        {
+          "key": "E",
+          "text": "破裂孔"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-046",
+      "type": "multiple_choice",
+      "stem": "起于骶骨穿坐骨大孔止于大转子的肌",
+      "options": [
+        {
+          "key": "A",
+          "text": "半膜肌"
+        },
+        {
+          "key": "D",
+          "text": "闭孔内肌"
+        },
+        {
+          "key": "E",
+          "text": "闭孔外肌"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-047",
+      "type": "multiple_choice",
+      "stem": "牵拉肩胛骨向前的肌肉是",
+      "options": [
+        {
+          "key": "A",
+          "text": "斜方肌"
+        },
+        {
+          "key": "B",
+          "text": "背阔肌"
+        },
+        {
+          "key": "C",
+          "text": "前锯肌"
+        },
+        {
+          "key": "D",
+          "text": "肩胛下肌"
+        },
+        {
+          "key": "E",
+          "text": "胸大肌"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-048",
+      "type": "multiple_choice",
+      "stem": "前庭蜗神经经过",
+      "options": [
+        {
+          "key": "A",
+          "text": "舌下神经管"
+        },
+        {
+          "key": "B",
+          "text": "颈静脉孔"
+        },
+        {
+          "key": "C",
+          "text": "内耳门"
+        },
+        {
+          "key": "D",
+          "text": "枕内嵴"
+        },
+        {
+          "key": "E",
+          "text": "枕骨大孔"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-049",
+      "type": "multiple_choice",
+      "stem": "前囟闭合的时间是",
+      "options": [
+        {
+          "key": "A",
+          "text": "出生前"
+        },
+        {
+          "key": "B",
+          "text": "生后6个月"
+        },
+        {
+          "key": "C",
+          "text": "生后1~2岁"
+        },
+        {
+          "key": "D",
+          "text": "生后2~3岁"
+        },
+        {
+          "key": "E",
+          "text": "以上均不对"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-050",
+      "type": "multiple_choice",
+      "stem": "桡腕关节的特点是",
+      "options": [
+        {
+          "key": "A",
+          "text": "属椭圆关节"
+        },
+        {
+          "key": "B",
+          "text": "由远侧列腕骨构成关节头"
+        },
+        {
+          "key": "C",
+          "text": "桡、尺骨下端构成关节窝"
+        },
+        {
+          "key": "D",
+          "text": "关节囊紧张"
+        },
+        {
+          "key": "E",
+          "text": "仅能作屈、伸运动"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-051",
+      "type": "multiple_choice",
+      "stem": "上鼻甲属于何骨？",
+      "options": [
+        {
+          "key": "A",
+          "text": "蝶骨"
+        },
+        {
+          "key": "B",
+          "text": "上颌骨"
+        },
+        {
+          "key": "C",
+          "text": "额骨"
+        },
+        {
+          "key": "D",
+          "text": "筛骨"
+        },
+        {
+          "key": "E",
+          "text": "泪骨"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-052",
+      "type": "multiple_choice",
+      "stem": "上颌窦口位于",
+      "options": [
+        {
+          "key": "A",
+          "text": "上颌骨体内侧面"
+        },
+        {
+          "key": "B",
+          "text": "上颌骨体上面"
+        },
+        {
+          "key": "C",
+          "text": "上颌骨的颞下面"
+        },
+        {
+          "key": "D",
+          "text": "上颌骨牙槽突"
+        },
+        {
+          "key": "E",
+          "text": "上颌骨腭突"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-053",
+      "type": "multiple_choice",
+      "stem": "下列使下颌骨上提的肌是",
+      "options": [
+        {
+          "key": "A",
+          "text": "口轮匝肌"
+        },
+        {
+          "key": "B",
+          "text": "咬肌"
+        },
+        {
+          "key": "C",
+          "text": "翼外肌"
+        },
+        {
+          "key": "D",
+          "text": "颊肌"
+        },
+        {
+          "key": "E",
+          "text": "舌骨上肌群"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-054",
+      "type": "multiple_choice",
+      "stem": "髓核脱出的常见方位",
+      "options": [
+        {
+          "key": "A",
+          "text": "前方"
+        },
+        {
+          "key": "B",
+          "text": "后方"
+        },
+        {
+          "key": "C",
+          "text": "前外侧"
+        },
+        {
+          "key": "D",
+          "text": "后外侧"
+        },
+        {
+          "key": "E",
+          "text": "以上均不是"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-055",
+      "type": "multiple_choice",
+      "stem": "位于垂体窝后方的结构是",
+      "options": [
+        {
+          "key": "A",
+          "text": "颈动脉沟"
+        },
+        {
+          "key": "B",
+          "text": "鞍背"
+        },
+        {
+          "key": "C",
+          "text": "视交叉"
+        },
+        {
+          "key": "D",
+          "text": "海绵窦"
+        },
+        {
+          "key": "E",
+          "text": "鞍膈"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-056",
+      "type": "multiple_choice",
+      "stem": "位于垂体窝前方的结构是",
+      "options": [
+        {
+          "key": "A",
+          "text": "棘孔"
+        },
+        {
+          "key": "B",
+          "text": "鞍背"
+        },
+        {
+          "key": "C",
+          "text": "蝶鞍"
+        },
+        {
+          "key": "D",
+          "text": "海绵窦"
+        },
+        {
+          "key": "E",
+          "text": "交叉前沟"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-057",
+      "type": "multiple_choice",
+      "stem": "下颌骨的描述,下列哪项正确？",
+      "options": [
+        {
+          "key": "A",
+          "text": "下颌支上前、后方的突起分别为冠突和髁状突"
+        },
+        {
+          "key": "B",
+          "text": "髁状突上端膨大为下颌头"
+        },
+        {
+          "key": "C",
+          "text": "下颌头下方称下颌颈"
+        },
+        {
+          "key": "D",
+          "text": "下颌支内面的中部有下颌孔"
+        },
+        {
+          "key": "E",
+          "text": "以上均正确"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-058",
+      "type": "multiple_choice",
+      "stem": "下列各骨中属于籽骨的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "月骨"
+        },
+        {
+          "key": "B",
+          "text": "钩骨"
+        },
+        {
+          "key": "C",
+          "text": "髌骨"
+        },
+        {
+          "key": "D",
+          "text": "距骨"
+        },
+        {
+          "key": "E",
+          "text": "骰骨"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-059",
+      "type": "multiple_choice",
+      "stem": "下列骨中属于扁骨的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "下颌骨"
+        },
+        {
+          "key": "B",
+          "text": "泪骨"
+        },
+        {
+          "key": "C",
+          "text": "骶骨"
+        },
+        {
+          "key": "D",
+          "text": "胸骨"
+        },
+        {
+          "key": "E",
+          "text": "颞骨"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-060",
+      "type": "multiple_choice",
+      "stem": ".关于骨髓的叙述, 正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "只位于长骨的骨髓腔内"
+        },
+        {
+          "key": "B",
+          "text": "黄骨髓有造血功能"
+        },
+        {
+          "key": "C",
+          "text": "黄骨髓不能转化为红骨髓"
+        },
+        {
+          "key": "D",
+          "text": "胎儿和幼儿骨内完全是红骨髓"
+        },
+        {
+          "key": "E",
+          "text": "红骨髓无造血功能"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-061",
+      "type": "multiple_choice",
+      "stem": "下列骨中属于典型长骨的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "髂骨"
+        },
+        {
+          "key": "B",
+          "text": "肋骨"
+        },
+        {
+          "key": "C",
+          "text": "指骨"
+        },
+        {
+          "key": "D",
+          "text": "距骨"
+        },
+        {
+          "key": "E",
+          "text": "胸骨"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-062",
+      "type": "multiple_choice",
+      "stem": "下列骨属于不规则骨, 除了 B",
+      "options": [
+        {
+          "key": "A",
+          "text": "蝶骨"
+        },
+        {
+          "key": "B",
+          "text": "跟骨"
+        },
+        {
+          "key": "C",
+          "text": "筛骨"
+        },
+        {
+          "key": "D",
+          "text": "椎骨"
+        },
+        {
+          "key": "E",
+          "text": "上颌骨"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-063",
+      "type": "multiple_choice",
+      "stem": "下列有关颈椎哪项是正确的？",
+      "options": [
+        {
+          "key": "A",
+          "text": "都有一个较小的椎体"
+        },
+        {
+          "key": "B",
+          "text": "横突孔只存在于第1～6颈椎"
+        },
+        {
+          "key": "C",
+          "text": "关节面都呈冠状位"
+        },
+        {
+          "key": "D",
+          "text": "都有棘突"
+        },
+        {
+          "key": "E",
+          "text": "以上均不正确"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-064",
+      "type": "multiple_choice",
+      "stem": "关于胸骨正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "上宽下窄，分胸骨体和胸骨柄两部分"
+        },
+        {
+          "key": "B",
+          "text": "与肋软骨都以关节相连"
+        },
+        {
+          "key": "C",
+          "text": "柄上缘中部有颈静脉切迹"
+        },
+        {
+          "key": "D",
+          "text": "成人胸骨体内含有黄骨髓"
+        },
+        {
+          "key": "E",
+          "text": "胸骨角连接第1肋"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-065",
+      "type": "multiple_choice",
+      "stem": "胸骨角为下列哪两部分的连接处？",
+      "options": [
+        {
+          "key": "A",
+          "text": "胸骨体与剑突"
+        },
+        {
+          "key": "B",
+          "text": "胸骨柄与胸骨体"
+        },
+        {
+          "key": "C",
+          "text": "胸骨与锁骨"
+        },
+        {
+          "key": "D",
+          "text": "胸骨柄与剑突"
+        },
+        {
+          "key": "E",
+          "text": "以上都不是"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-066",
+      "type": "multiple_choice",
+      "stem": "下列关于胸廓的叙述, 哪项正确？",
+      "options": [
+        {
+          "key": "A",
+          "text": "上口狭小,向前下倾斜"
+        },
+        {
+          "key": "B",
+          "text": "下口宽大,向前下倾斜"
+        },
+        {
+          "key": "C",
+          "text": "上8个肋连于胸骨"
+        },
+        {
+          "key": "D",
+          "text": "运动时只有前后径变化"
+        },
+        {
+          "key": "E",
+          "text": "肋下降时, 助吸气"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-067",
+      "type": "multiple_choice",
+      "stem": "关于胸锁乳突肌正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "斜列于颈部两侧"
+        },
+        {
+          "key": "B",
+          "text": "起于锁骨和肩胛骨"
+        },
+        {
+          "key": "C",
+          "text": "止于颈深肌群"
+        },
+        {
+          "key": "D",
+          "text": "其深面覆盖颈阔肌"
+        },
+        {
+          "key": "E",
+          "text": "收缩时可使头低俯"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-068",
+      "type": "multiple_choice",
+      "stem": "胸椎的特点是",
+      "options": [
+        {
+          "key": "A",
+          "text": "第1胸椎具有横突孔"
+        },
+        {
+          "key": "B",
+          "text": "椎体肋凹与肋结节相关节"
+        },
+        {
+          "key": "C",
+          "text": "棘突特别短"
+        },
+        {
+          "key": "D",
+          "text": "关节突关节面呈水平位"
+        },
+        {
+          "key": "E",
+          "text": "横突上有横突肋凹"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-069",
+      "type": "multiple_choice",
+      "stem": "腰椎的特点是",
+      "options": [
+        {
+          "key": "A",
+          "text": "有横突孔"
+        },
+        {
+          "key": "B",
+          "text": "棘突间距离较小"
+        },
+        {
+          "key": "C",
+          "text": "有肋凹"
+        },
+        {
+          "key": "D",
+          "text": "棘突分叉"
+        },
+        {
+          "key": "E",
+          "text": "以上都不是"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-070",
+      "type": "multiple_choice",
+      "stem": "一年青人右侧外耳门附近受到重物的撞击，伤后出现右侧面肌瘫痪，并有血液和脑脊液经外耳门流出，其骨折部位最可能是",
+      "options": [
+        {
+          "key": "A",
+          "text": "颞骨鳞部骨折"
+        },
+        {
+          "key": "B",
+          "text": "颞骨鼓部骨折并有鼓膜裂伤"
+        },
+        {
+          "key": "C",
+          "text": "鼓室盖骨折并伴有鼓膜裂伤"
+        },
+        {
+          "key": "D",
+          "text": "颞骨乳突部骨折"
+        },
+        {
+          "key": "E",
+          "text": "颞骨颧突骨折"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-071",
+      "type": "multiple_choice",
+      "stem": "**非**颅中窝的裂孔是",
+      "options": [
+        {
+          "key": "A",
+          "text": "圆孔"
+        },
+        {
+          "key": "B",
+          "text": "卵圆孔"
+        },
+        {
+          "key": "C",
+          "text": "破裂孔"
+        },
+        {
+          "key": "D",
+          "text": "棘孔"
+        },
+        {
+          "key": "E",
+          "text": "颈静脉孔"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-072",
+      "type": "multiple_choice",
+      "stem": "一位18岁的女性患者，拟诊白血病，需进行骨髓穿刺来检查骨髓象。医生穿刺时选择髂嵴处进行。下列哪项是其选择的原因？",
+      "options": [
+        {
+          "key": "A",
+          "text": "髂骨骨松质间隙内终生充填有红骨髓"
+        },
+        {
+          "key": "B",
+          "text": "髂骨的髓腔内为红骨髓"
+        },
+        {
+          "key": "C",
+          "text": "髂骨的髓腔内黄骨髓因重度贫血可转化为红骨髓"
+        },
+        {
+          "key": "D",
+          "text": "全身骨中只有髂骨可供骨髓穿刺"
+        },
+        {
+          "key": "E",
+          "text": "髂骨位置较表浅"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-073",
+      "type": "multiple_choice",
+      "stem": "以下不是长骨的骨是",
+      "options": [
+        {
+          "key": "A",
+          "text": "肱骨"
+        },
+        {
+          "key": "B",
+          "text": "掌骨"
+        },
+        {
+          "key": "C",
+          "text": "髋骨"
+        },
+        {
+          "key": "D",
+          "text": "跖骨"
+        },
+        {
+          "key": "E",
+          "text": "腓骨"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-074",
+      "type": "multiple_choice",
+      "stem": "硬腭的组成是",
+      "options": [
+        {
+          "key": "A",
+          "text": "仅为上颌骨腭突"
+        },
+        {
+          "key": "B",
+          "text": "上颌骨腭突和腭骨水平板"
+        },
+        {
+          "key": "C",
+          "text": "上颌骨腭突和蝶骨翼突"
+        },
+        {
+          "key": "D",
+          "text": "腭骨水平板和筛板"
+        },
+        {
+          "key": "E",
+          "text": "以上都不是"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-075",
+      "type": "multiple_choice",
+      "stem": "有关长骨的描述, 哪项正确？",
+      "options": [
+        {
+          "key": "A",
+          "text": "是指所有形状长的骨"
+        },
+        {
+          "key": "B",
+          "text": "骨干内具有含气的腔"
+        },
+        {
+          "key": "C",
+          "text": "骨表面均覆盖有骨膜"
+        },
+        {
+          "key": "D",
+          "text": "骺线是成年后骨化了的骺软骨"
+        },
+        {
+          "key": "E",
+          "text": "上述都不对"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-076",
+      "type": "multiple_choice",
+      "stem": "有关脊柱韧带的叙述, 错误的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "黄韧带连结在相邻椎弓板之间"
+        },
+        {
+          "key": "B",
+          "text": "前纵韧带防止脊柱过伸"
+        },
+        {
+          "key": "C",
+          "text": "前纵韧带防止脊柱过屈"
+        },
+        {
+          "key": "D",
+          "text": "后纵韧带附着于椎体与椎间盘的后面"
+        },
+        {
+          "key": "E",
+          "text": "连接胸、腰、骶椎各棘突尖之间的韧带称棘上韧带"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-077",
+      "type": "multiple_choice",
+      "stem": "有关腱鞘,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "为包裹肌肉的深筋膜"
+        },
+        {
+          "key": "B",
+          "text": "是包裹在手、足长肌腱外面的鞘管"
+        },
+        {
+          "key": "C",
+          "text": "分脏层和壁层"
+        },
+        {
+          "key": "D",
+          "text": "分纤维层和浆膜层"
+        },
+        {
+          "key": "E",
+          "text": "鞘的内外层含大量滑液"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-078",
+      "type": "multiple_choice",
+      "stem": "有关髋关节, 不正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "属于鞍状关节"
+        },
+        {
+          "key": "B",
+          "text": "髋臼周缘有髋臼唇"
+        },
+        {
+          "key": "C",
+          "text": "关节囊坚韧"
+        },
+        {
+          "key": "D",
+          "text": "有囊内韧带"
+        },
+        {
+          "key": "E",
+          "text": "关节囊分别附着于髋臼的周缘和股骨的转子间线及股骨颈内侧2/3"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-079",
+      "type": "multiple_choice",
+      "stem": "有关颅的描述, 正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "全部由扁骨组成"
+        },
+        {
+          "key": "B",
+          "text": "各骨间都由缝相连"
+        },
+        {
+          "key": "C",
+          "text": "主要的囟都与顶骨有关"
+        },
+        {
+          "key": "D",
+          "text": "下颌骨是颅骨中惟一可以活动的骨"
+        },
+        {
+          "key": "E",
+          "text": "上述均不对"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-080",
+      "type": "multiple_choice",
+      "stem": "有关颞骨不正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "分为鳞部、鼓部和岩部(或称锥体)"
+        },
+        {
+          "key": "B",
+          "text": "下颌窝、内耳门位于岩部"
+        },
+        {
+          "key": "C",
+          "text": "颈动脉管外口和颈静脉窝也都在岩部"
+        },
+        {
+          "key": "D",
+          "text": "颅后窝颞鳞内侧有鼓室盖"
+        },
+        {
+          "key": "E",
+          "text": "茎突与乳突间有茎乳孔"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-081",
+      "type": "multiple_choice",
+      "stem": "有关椎间盘的描述, 错误的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "位于相邻椎体之间"
+        },
+        {
+          "key": "D",
+          "text": "各部椎间盘厚薄不一"
+        },
+        {
+          "key": "C",
+          "text": "有弹性"
+        },
+        {
+          "key": "D",
+          "text": "由纤维环和髓核构成"
+        },
+        {
+          "key": "E",
+          "text": "椎间盘脱出最多见于胸部"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-082",
+      "type": "multiple_choice",
+      "stem": "有囊内韧带的关节",
+      "options": [
+        {
+          "key": "A",
+          "text": "肘关节"
+        },
+        {
+          "key": "B",
+          "text": "桡腕关节"
+        },
+        {
+          "key": "C",
+          "text": "踝关节"
+        },
+        {
+          "key": "D",
+          "text": "髋关节"
+        },
+        {
+          "key": "E",
+          "text": "颞下颌关节"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-083",
+      "type": "multiple_choice",
+      "stem": "属胸上肢肌的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "前锯肌"
+        },
+        {
+          "key": "B",
+          "text": "三角肌"
+        },
+        {
+          "key": "C",
+          "text": "肩胛下肌"
+        },
+        {
+          "key": "D",
+          "text": "斜方肌"
+        },
+        {
+          "key": "E",
+          "text": "肩胛提肌"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-084",
+      "type": "multiple_choice",
+      "stem": "属于面颅骨的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "筛骨"
+        },
+        {
+          "key": "B",
+          "text": "额骨"
+        },
+        {
+          "key": "C",
+          "text": "颞骨"
+        },
+        {
+          "key": "D",
+          "text": "枕骨"
+        },
+        {
+          "key": "E",
+          "text": "腭骨"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-085",
+      "type": "multiple_choice",
+      "stem": "椎弓和椎体围成",
+      "options": [
+        {
+          "key": "A",
+          "text": "椎间孔"
+        },
+        {
+          "key": "B",
+          "text": "横突孔"
+        },
+        {
+          "key": "C",
+          "text": "椎孔"
+        },
+        {
+          "key": "D",
+          "text": "椎骨上、下切迹"
+        },
+        {
+          "key": "E",
+          "text": "椎管"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-086",
+      "type": "multiple_choice",
+      "stem": "关于椎骨的描述, 正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "共有25块"
+        },
+        {
+          "key": "B",
+          "text": "一般由椎体和椎弓组成"
+        },
+        {
+          "key": "C",
+          "text": "第1颈椎又称枢椎"
+        },
+        {
+          "key": "D",
+          "text": "胸椎的棘突短"
+        },
+        {
+          "key": "E",
+          "text": "腰椎的椎孔呈卵圆形"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-187",
+      "type": "multi_select",
+      "stem": "组成髋臼的骨是",
+      "options": [
+        {
+          "key": "A",
+          "text": "髂、坐、耻三骨的体合成"
+        },
+        {
+          "key": "B",
+          "text": "髂骨翼、坐骨支和耻骨支合成"
+        },
+        {
+          "key": "C",
+          "text": "耻骨体、耻骨支和髂骨体合成"
+        },
+        {
+          "key": "D",
+          "text": "坐骨体、坐骨支和髂骨体合成"
+        },
+        {
+          "key": "E",
+          "text": "以上均不对"
+        }
+      ],
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-101",
+      "type": "multi_select",
+      "stem": "长骨的特点是",
+      "options": [
+        {
+          "key": "A",
+          "text": "分为一体两端"
+        },
+        {
+          "key": "B",
+          "text": "体内有骨髓腔"
+        },
+        {
+          "key": "C",
+          "text": "骺的内部为骨松质"
+        },
+        {
+          "key": "D",
+          "text": "内部只有黄骨髓"
+        },
+        {
+          "key": "E",
+          "text": "体中部有滋养孔"
+        }
+      ],
+      "answer": "ABCE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-102",
+      "type": "multi_select",
+      "stem": "成人红骨髓位于",
+      "options": [
+        {
+          "key": "A",
+          "text": "髓腔内"
+        },
+        {
+          "key": "B",
+          "text": "短骨的骨松质内"
+        },
+        {
+          "key": "C",
+          "text": "颅骨的板障内"
+        },
+        {
+          "key": "D",
+          "text": "扁骨的骨松质内"
+        },
+        {
+          "key": "E",
+          "text": "某些长骨骨端骨松质内"
+        }
+      ],
+      "answer": "BCDE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-103",
+      "type": "multi_select",
+      "stem": "有关腹外斜肌的叙述, 正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "肌纤维斜向前上"
+        },
+        {
+          "key": "B",
+          "text": "腱膜构成腹股沟管前壁"
+        },
+        {
+          "key": "C",
+          "text": "腱膜下缘形成腹股沟韧带"
+        },
+        {
+          "key": "D",
+          "text": "腱膜形成腹直肌鞘前层"
+        },
+        {
+          "key": "E",
+          "text": "部分纤维形成提睾肌"
+        }
+      ],
+      "answer": "BCD",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-104",
+      "type": "multi_select",
+      "stem": "关于腹直肌鞘正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "由腹外斜肌、腹内斜肌、腹横肌腱膜共同组成"
+        },
+        {
+          "key": "B",
+          "text": "包裹腹直肌全部"
+        },
+        {
+          "key": "C",
+          "text": "后层在腱划处与腹直肌连结疏松"
+        },
+        {
+          "key": "D",
+          "text": "后层与腹直肌之间有血管"
+        },
+        {
+          "key": "E",
+          "text": "腹横肌腱膜只构成腹直肌鞘的后层"
+        }
+      ],
+      "answer": "AD",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-105",
+      "type": "multi_select",
+      "stem": "膈肌的食管裂孔位置和行经的结构有",
+      "options": [
+        {
+          "key": "A",
+          "text": "平第8胸椎"
+        },
+        {
+          "key": "B",
+          "text": "有迷走神经前、后干通过"
+        },
+        {
+          "key": "C",
+          "text": "平第10胸椎"
+        },
+        {
+          "key": "D",
+          "text": "有膈神经通过"
+        },
+        {
+          "key": "E",
+          "text": "有食管通过"
+        }
+      ],
+      "answer": "BCE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-106",
+      "type": "multi_select",
+      "stem": "有关肱二头肌的描述,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "止于桡骨粗隆"
+        },
+        {
+          "key": "B",
+          "text": "受肌皮神经支配"
+        },
+        {
+          "key": "C",
+          "text": "有内侧头和外侧头"
+        },
+        {
+          "key": "D",
+          "text": "止于尺骨粗隆"
+        },
+        {
+          "key": "E",
+          "text": "屈肘关节作用为主"
+        }
+      ],
+      "answer": "ABE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-107",
+      "type": "multi_select",
+      "stem": "肱骨的结构特点是",
+      "options": [
+        {
+          "key": "A",
+          "text": "可分为一体两端"
+        },
+        {
+          "key": "B",
+          "text": "解剖颈处较易骨折"
+        },
+        {
+          "key": "C",
+          "text": "有桡神经沟"
+        },
+        {
+          "key": "D",
+          "text": "外科颈处较易骨折"
+        },
+        {
+          "key": "E",
+          "text": "有尺神经沟"
+        }
+      ],
+      "answer": "ACDE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-108",
+      "type": "multi_select",
+      "stem": "关于肱三头肌的描述,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "有长头、短头和中间头"
+        },
+        {
+          "key": "B",
+          "text": "受桡神经支配"
+        },
+        {
+          "key": "C",
+          "text": "属上臂伸肌"
+        },
+        {
+          "key": "D",
+          "text": "受腋神经支配"
+        },
+        {
+          "key": "E",
+          "text": "受尺神经支配"
+        }
+      ],
+      "answer": "BC",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-109",
+      "type": "multi_select",
+      "stem": "构成颅中窝的骨有",
+      "options": [
+        {
+          "key": "A",
+          "text": "额骨"
+        },
+        {
+          "key": "B",
+          "text": "蝶骨"
+        },
+        {
+          "key": "C",
+          "text": "枕骨"
+        },
+        {
+          "key": "D",
+          "text": "筛骨"
+        },
+        {
+          "key": "E",
+          "text": "颞骨"
+        }
+      ],
+      "answer": "BE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-110",
+      "type": "multi_select",
+      "stem": "踝关节的特点是",
+      "options": [
+        {
+          "key": "A",
+          "text": "关节头是距骨滑车"
+        },
+        {
+          "key": "B",
+          "text": "关节窝由胫、腓骨下端构成"
+        },
+        {
+          "key": "C",
+          "text": "关节囊前、后壁薄而松弛, 两侧有韧带加强"
+        },
+        {
+          "key": "D",
+          "text": "背屈时足背向上,最稳定"
+        },
+        {
+          "key": "E",
+          "text": "跖屈时足尖向下,容易损伤"
+        }
+      ],
+      "answer": "ABCDE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-111",
+      "type": "multi_select",
+      "stem": "属于间接骨连结的有",
+      "options": [
+        {
+          "key": "A",
+          "text": "耻骨联合"
+        },
+        {
+          "key": "B",
+          "text": "椎间关节"
+        },
+        {
+          "key": "C",
+          "text": "椎间盘"
+        },
+        {
+          "key": "D",
+          "text": "前臂骨间膜"
+        },
+        {
+          "key": "E",
+          "text": "腕关节"
+        }
+      ],
+      "answer": "BE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-112",
+      "type": "multi_select",
+      "stem": "肩关节的特点是",
+      "options": [
+        {
+          "key": "A",
+          "text": "关节囊薄而松弛"
+        },
+        {
+          "key": "B",
+          "text": "头大盂小"
+        },
+        {
+          "key": "C",
+          "text": "易从囊下壁脱位"
+        },
+        {
+          "key": "D",
+          "text": "全身最灵活的关节"
+        },
+        {
+          "key": "E",
+          "text": "没有关节的辅助结构"
+        }
+      ],
+      "answer": "ABCD",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-113",
+      "type": "multi_select",
+      "stem": "肩胛骨的结构特点是",
+      "options": [
+        {
+          "key": "A",
+          "text": "属于上肢带骨"
+        },
+        {
+          "key": "B",
+          "text": "位于胸廓的后外侧上方"
+        },
+        {
+          "key": "C",
+          "text": "下角平对第7肋"
+        },
+        {
+          "key": "D",
+          "text": "其肩峰与锁骨相关连"
+        },
+        {
+          "key": "E",
+          "text": "有肩胛下窝构成肩关节窝"
+        }
+      ],
+      "answer": "ABCD",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-114",
+      "type": "multi_select",
+      "stem": "颈椎的结构特点是",
+      "options": [
+        {
+          "key": "A",
+          "text": "椎孔大，呈三角形"
+        },
+        {
+          "key": "B",
+          "text": "棘突短而分叉"
+        },
+        {
+          "key": "C",
+          "text": "有横突孔"
+        },
+        {
+          "key": "D",
+          "text": "椎体较大"
+        },
+        {
+          "key": "E",
+          "text": "有横突肋凹"
+        }
+      ],
+      "answer": "ABC",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-115",
+      "type": "multi_select",
+      "stem": "胫骨的结构特点是",
+      "options": [
+        {
+          "key": "A",
+          "text": "内、外侧髁上均有关节面"
+        },
+        {
+          "key": "B",
+          "text": "下端有腓切迹与腓骨相接"
+        },
+        {
+          "key": "C",
+          "text": "前缘在皮下可触及"
+        },
+        {
+          "key": "D",
+          "text": "上端有腓关节面与腓骨头相关节"
+        },
+        {
+          "key": "E",
+          "text": "两髁上关节面之间有髁间隆起"
+        }
+      ],
+      "answer": "ABCDE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-116",
+      "type": "multi_select",
+      "stem": "开口于中鼻道的鼻旁窦有",
+      "options": [
+        {
+          "key": "A",
+          "text": "上颌窦"
+        },
+        {
+          "key": "B",
+          "text": "额窦"
+        },
+        {
+          "key": "C",
+          "text": "蝶窦"
+        },
+        {
+          "key": "D",
+          "text": "筛窦中组"
+        },
+        {
+          "key": "E",
+          "text": "筛窦后组"
+        }
+      ],
+      "answer": "ABD",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-117",
+      "type": "multi_select",
+      "stem": "髋关节的特点是",
+      "options": [
+        {
+          "key": "A",
+          "text": "股骨头是关节头,髋臼是关节窝"
+        },
+        {
+          "key": "B",
+          "text": "股骨颈骨折可分为囊内和囊外骨折"
+        },
+        {
+          "key": "C",
+          "text": "髋臼唇增加了髋关节的活动度"
+        },
+        {
+          "key": "D",
+          "text": "关节囊内有股骨头韧带, 内含血管"
+        },
+        {
+          "key": "E",
+          "text": "髋臼横韧带封闭了髋臼切迹"
+        }
+      ],
+      "answer": "ABDE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-118",
+      "type": "multi_select",
+      "stem": "关于髋臼叙述正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "容纳股骨头大部分"
+        },
+        {
+          "key": "B",
+          "text": "窝内的月状面为关节面"
+        },
+        {
+          "key": "C",
+          "text": "由髂骨、坐骨和耻骨3骨体组成"
+        },
+        {
+          "key": "D",
+          "text": "股骨头韧带一端附于髋臼横韧带上"
+        },
+        {
+          "key": "E",
+          "text": "髋臼窝为髋关节窝"
+        }
+      ],
+      "answer": "ABCD",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-119",
+      "type": "multi_select",
+      "stem": "肋骨的结构特点是",
+      "options": [
+        {
+          "key": "A",
+          "text": "属于扁骨"
+        },
+        {
+          "key": "B",
+          "text": "可分肋头、肋体两部分"
+        },
+        {
+          "key": "C",
+          "text": "前端接肋软骨"
+        },
+        {
+          "key": "D",
+          "text": "后端接胸椎"
+        },
+        {
+          "key": "E",
+          "text": "除第1肋外,内面近下缘处有肋沟"
+        }
+      ],
+      "answer": "ACDE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-120",
+      "type": "multi_select",
+      "stem": "拇指腕掌关节",
+      "options": [
+        {
+          "key": "A",
+          "text": "由大多角骨与第1掌骨底构成"
+        },
+        {
+          "key": "B",
+          "text": "属鞍状关节"
+        },
+        {
+          "key": "C",
+          "text": "关节囊松弛"
+        },
+        {
+          "key": "D",
+          "text": "仅能作对掌运动"
+        },
+        {
+          "key": "E",
+          "text": "能作环转运动"
+        }
+      ],
+      "answer": "ABCE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-121",
+      "type": "multi_select",
+      "stem": "能使足背屈的肌肉是",
+      "options": [
+        {
+          "key": "A",
+          "text": "胫骨后肌"
+        },
+        {
+          "key": "B",
+          "text": "腓骨长肌 C胫骨前肌"
+        },
+        {
+          "key": "D",
+          "text": "趾长伸肌"
+        },
+        {
+          "key": "E",
+          "text": "趾长屈肌"
+        }
+      ],
+      "answer": "CD",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-122",
+      "type": "multi_select",
+      "stem": "能使足跖屈的肌肉是",
+      "options": [
+        {
+          "key": "A",
+          "text": "小腿三头肌"
+        },
+        {
+          "key": "B",
+          "text": "胫骨后肌"
+        },
+        {
+          "key": "C",
+          "text": "胫骨前肌"
+        },
+        {
+          "key": "D",
+          "text": "腓骨长肌"
+        },
+        {
+          "key": "E",
+          "text": "腓骨短肌"
+        }
+      ],
+      "answer": "ABDE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-123",
+      "type": "multi_select",
+      "stem": "颞下颌关节的结构特点是",
+      "options": [
+        {
+          "key": "A",
+          "text": "颞骨的下颌窝及关节结节参与构成关节窝"
+        },
+        {
+          "key": "B",
+          "text": "关节头是下颌骨的下颌头"
+        },
+        {
+          "key": "C",
+          "text": "关节囊前部薄而松弛，后部较强"
+        },
+        {
+          "key": "D",
+          "text": "颞下颌关节可单侧运动"
+        },
+        {
+          "key": "E",
+          "text": "关节腔内有关节盘"
+        }
+      ],
+      "answer": "ABCE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-124",
+      "type": "multi_select",
+      "stem": "屈髋关节肌肉的有",
+      "options": [
+        {
+          "key": "A",
+          "text": "股二头肌"
+        },
+        {
+          "key": "B",
+          "text": "缝匠肌"
+        },
+        {
+          "key": "C",
+          "text": "股直肌"
+        },
+        {
+          "key": "D",
+          "text": "髂腰肌"
+        },
+        {
+          "key": "E",
+          "text": "股中间肌"
+        }
+      ],
+      "answer": "BCD",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-125",
+      "type": "multi_select",
+      "stem": "桡腕关节的特点是",
+      "options": [
+        {
+          "key": "A",
+          "text": "也称腕关节"
+        },
+        {
+          "key": "B",
+          "text": "是球窝关节"
+        },
+        {
+          "key": "C",
+          "text": "关节头是近侧列4块腕骨"
+        },
+        {
+          "key": "D",
+          "text": "尺骨不参与构成关节窝"
+        },
+        {
+          "key": "E",
+          "text": "关节窝是桡骨的腕关节面和关节盘"
+        }
+      ],
+      "answer": "ADE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-126",
+      "type": "multi_select",
+      "stem": "伸指间关节的肌肉是",
+      "options": [
+        {
+          "key": "A",
+          "text": "蚓状肌"
+        },
+        {
+          "key": "B",
+          "text": "拇对掌肌"
+        },
+        {
+          "key": "C",
+          "text": "骨间掌侧肌"
+        },
+        {
+          "key": "D",
+          "text": "骨间背侧肌"
+        },
+        {
+          "key": "E",
+          "text": "拇收肌"
+        }
+      ],
+      "answer": "ACD",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-127",
+      "type": "multi_select",
+      "stem": "使肩关节外展的肌肉为",
+      "options": [
+        {
+          "key": "A",
+          "text": "冈上肌"
+        },
+        {
+          "key": "B",
+          "text": "胸大肌"
+        },
+        {
+          "key": "C",
+          "text": "肱二头肌"
+        },
+        {
+          "key": "D",
+          "text": "三角肌"
+        },
+        {
+          "key": "E",
+          "text": "前锯肌"
+        }
+      ],
+      "answer": "AD",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-128",
+      "type": "multi_select",
+      "stem": "使髋关节外旋的肌肉是",
+      "options": [
+        {
+          "key": "A",
+          "text": "臀大肌"
+        },
+        {
+          "key": "B",
+          "text": "股方肌"
+        },
+        {
+          "key": "C",
+          "text": "髂腰肌"
+        },
+        {
+          "key": "D",
+          "text": "梨状肌"
+        },
+        {
+          "key": "E",
+          "text": "闭孔内肌"
+        }
+      ],
+      "answer": "ABCDE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-129",
+      "type": "multi_select",
+      "stem": "使足内翻的肌肉是",
+      "options": [
+        {
+          "key": "A",
+          "text": "胫骨前肌"
+        },
+        {
+          "key": "B",
+          "text": "胫骨后肌"
+        },
+        {
+          "key": "C",
+          "text": "腓骨长肌"
+        },
+        {
+          "key": "D",
+          "text": "腓骨短肌"
+        },
+        {
+          "key": "E",
+          "text": "趾长屈肌"
+        }
+      ],
+      "answer": "ABE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-130",
+      "type": "multi_select",
+      "stem": "使足外翻的肌肉是",
+      "options": [
+        {
+          "key": "A",
+          "text": "腓骨长肌"
+        },
+        {
+          "key": "B",
+          "text": "胫骨前肌"
+        },
+        {
+          "key": "C",
+          "text": "胫骨后肌"
+        },
+        {
+          "key": "D",
+          "text": "比目鱼肌"
+        },
+        {
+          "key": "E",
+          "text": "腓骨短肌"
+        }
+      ],
+      "answer": "AE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-131",
+      "type": "multi_select",
+      "stem": "膝关节半月板的形态特点",
+      "options": [
+        {
+          "key": "A",
+          "text": "由弹性软骨构成"
+        },
+        {
+          "key": "B",
+          "text": "外侧半月板呈\"O\"形"
+        },
+        {
+          "key": "C",
+          "text": "内侧半月板呈\"C\"形"
+        },
+        {
+          "key": "D",
+          "text": "上面陷凹"
+        },
+        {
+          "key": "E",
+          "text": "下面平坦"
+        }
+      ],
+      "answer": "BCDE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-132",
+      "type": "multi_select",
+      "stem": "膝关节的特点是",
+      "options": [
+        {
+          "key": "A",
+          "text": "由股骨、胫骨和膑骨构成"
+        },
+        {
+          "key": "B",
+          "text": "属滑车关节"
+        },
+        {
+          "key": "C",
+          "text": "关节囊广阔、松弛"
+        },
+        {
+          "key": "D",
+          "text": "没有囊外韧带"
+        },
+        {
+          "key": "E",
+          "text": "半月板不完全分隔关节腔"
+        }
+      ],
+      "answer": "ABCE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-133",
+      "type": "multi_select",
+      "stem": "有关膝交叉韧带的结构和功能, 正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "在关节囊内"
+        },
+        {
+          "key": "B",
+          "text": "表面无滑膜"
+        },
+        {
+          "key": "C",
+          "text": "前交叉韧带防止胫骨前移"
+        },
+        {
+          "key": "D",
+          "text": "后交叉韧带防止胫骨后移"
+        },
+        {
+          "key": "E",
+          "text": "在伸膝时最紧张"
+        }
+      ],
+      "answer": "ACD",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-134",
+      "type": "multi_select",
+      "stem": "有关小腿三头肌,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "包括腓肠肌和比目鱼肌"
+        },
+        {
+          "key": "B",
+          "text": "跖屈踝关节"
+        },
+        {
+          "key": "C",
+          "text": "以跟腱止于跟骨结节"
+        },
+        {
+          "key": "D",
+          "text": "提足跟"
+        },
+        {
+          "key": "E",
+          "text": "受腓深神经支配"
+        }
+      ],
+      "answer": "ABCD",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-135",
+      "type": "multi_select",
+      "stem": "翼腭窝借",
+      "options": [
+        {
+          "key": "A",
+          "text": "圆孔通颅中窝"
+        },
+        {
+          "key": "B",
+          "text": "棘孔通颅中窝"
+        },
+        {
+          "key": "C",
+          "text": "腭大孔通口腔"
+        },
+        {
+          "key": "D",
+          "text": "翼管通鼻腔"
+        },
+        {
+          "key": "E",
+          "text": "眶上裂入眶"
+        }
+      ],
+      "answer": "AC",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-136",
+      "type": "multi_select",
+      "stem": "肘关节的特点是",
+      "options": [
+        {
+          "key": "A",
+          "text": "为复合关节"
+        },
+        {
+          "key": "B",
+          "text": "有3个独立的关节囊"
+        },
+        {
+          "key": "C",
+          "text": "在肱骨下端与尺、桡骨上端之间"
+        },
+        {
+          "key": "D",
+          "text": "包括肱尺、肱桡和桡尺远侧关节"
+        },
+        {
+          "key": "E",
+          "text": "囊的后壁最松弛"
+        }
+      ],
+      "answer": "ACE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-137",
+      "type": "multi_select",
+      "stem": "属于扁骨的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "肋骨"
+        },
+        {
+          "key": "B",
+          "text": "髂骨 C颞骨"
+        },
+        {
+          "key": "D",
+          "text": "胸骨"
+        },
+        {
+          "key": "E",
+          "text": "上颌骨"
+        }
+      ],
+      "answer": "AD",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-138",
+      "type": "multi_select",
+      "stem": "椎体间的连结有",
+      "options": [
+        {
+          "key": "A",
+          "text": "椎间盘"
+        },
+        {
+          "key": "B",
+          "text": "项韧带"
+        },
+        {
+          "key": "C",
+          "text": "前纵韧带"
+        },
+        {
+          "key": "D",
+          "text": "后纵韧带"
+        },
+        {
+          "key": "E",
+          "text": "黄韧带"
+        }
+      ],
+      "answer": "ACD",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-139",
+      "type": "multi_select",
+      "stem": "膝关节的特点是",
+      "options": [
+        {
+          "key": "A",
+          "text": "腓侧副韧带与关节囊紧密结合"
+        },
+        {
+          "key": "B",
+          "text": "髌韧带止于胫骨粗隆"
+        },
+        {
+          "key": "C",
+          "text": "屈膝时可做旋内和旋外运动"
+        },
+        {
+          "key": "D",
+          "text": "胫侧副韧带与内侧半月板紧密结合"
+        },
+        {
+          "key": "E",
+          "text": "关节囊周围均有韧带加强"
+        }
+      ],
+      "answer": "BCDE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MJ-001",
+      "type": "term_explanation",
+      "stem": "骨质",
+      "options": null,
+      "answer": "骨质为骨的主要成分，由骨组织构成，分骨密质、骨松质。骨密质由紧密排列的骨板构成，分布于骨的表层。骨松质为交织成网的骨小梁构成，主要见于长骨两端(骺)和短骨骨内部。",
+      "explanation": "骨质为骨的主要成分，由骨组织构成，分骨密质、骨松质。骨密质由紧密排列的骨板构成，分布于骨的表层。骨松质为交织成网的骨小梁构成，主要见于长骨两端(骺)和短骨骨内部。"
+    },
+    {
+      "id": "YD-MJ-002",
+      "type": "term_explanation",
+      "stem": "板障",
+      "options": null,
+      "answer": "在颅盖，骨密质构成内板与外板，两板之间的骨松质，称为板障，内有静脉通过。",
+      "explanation": "在颅盖，骨密质构成内板与外板，两板之间的骨松质，称为板障，内有静脉通过。"
+    },
+    {
+      "id": "YD-MJ-003",
+      "type": "term_explanation",
+      "stem": "红骨髓",
+      "options": null,
+      "answer": "红骨髓位于骨髓腔和骨松质间隙内，分红骨髓和黄骨髓。胎儿及幼儿的骨内，骨髓腔和骨松质骨间隙内全是红骨髓，有造血作用。成人仅见于骨松质腔隙内，髂骨、胸骨、椎骨及肱骨和股骨上端的红骨髓终生保存。",
+      "explanation": "红骨髓位于骨髓腔和骨松质间隙内，分红骨髓和黄骨髓。胎儿及幼儿的骨内，骨髓腔和骨松质骨间隙内全是红骨髓，有造血作用。成人仅见于骨松质腔隙内，髂骨、胸骨、椎骨及肱骨和股骨上端的红骨髓终生保存。"
+    },
+    {
+      "id": "YD-MJ-005",
+      "type": "term_explanation",
+      "stem": "骺线",
+      "options": null,
+      "answer": "幼年时，骨干与骺之间有骺软骨，通过软骨细胞的分裂、繁殖、骨化,使骨不断加长；成年后，骺软骨停止生长，并被骨化，在干骺结合处形成骺线。",
+      "explanation": "幼年时，骨干与骺之间有骺软骨，通过软骨细胞的分裂、繁殖、骨化,使骨不断加长；成年后，骺软骨停止生长，并被骨化，在干骺结合处形成骺线。"
+    },
+    {
+      "id": "YD-MJ-006",
+      "type": "term_explanation",
+      "stem": "半月板",
+      "options": null,
+      "answer": "在膝关节囊内, 居股骨与胫骨关节面之间, 垫有两块纤维软骨板，分别称为内、外侧半月板。内侧半月板较大,呈\"C\" 形;外侧半月板较小, 呈\"O\" 形。其作用在于加深关节窝的深度, 在运动时可减少震动和摩擦。",
+      "explanation": "在膝关节囊内, 居股骨与胫骨关节面之间, 垫有两块纤维软骨板，分别称为内、外侧半月板。内侧半月板较大,呈\"C\" 形;外侧半月板较小, 呈\"O\" 形。其作用在于加深关节窝的深度, 在运动时可减少震动和摩擦。"
+    },
+    {
+      "id": "YD-MJ-007",
+      "type": "term_explanation",
+      "stem": "鼻旁窦",
+      "options": null,
+      "answer": "鼻旁窦是上颌骨、额骨、蝶骨及筛骨内的含气空腔，位于鼻腔周围并开口于鼻腔。鼻旁窦包括上颌窦、额窦、筛窦和蝶窦。",
+      "explanation": "鼻旁窦是上颌骨、额骨、蝶骨及筛骨内的含气空腔，位于鼻腔周围并开口于鼻腔。鼻旁窦包括上颌窦、额窦、筛窦和蝶窦。"
+    },
+    {
+      "id": "YD-MJ-008",
+      "type": "term_explanation",
+      "stem": "闭孔",
+      "options": null,
+      "answer": "耻骨与坐骨的体与支共同围成闭孔。",
+      "explanation": "耻骨与坐骨的体与支共同围成闭孔。"
+    },
+    {
+      "id": "YD-MJ-009",
+      "type": "term_explanation",
+      "stem": "髌韧带",
+      "options": null,
+      "answer": "股四头肌四头相合，形成强大的肌腱，止于髌骨上缘和两侧，向下止于胫骨粗隆的部分称为髌韧带。",
+      "explanation": "股四头肌四头相合，形成强大的肌腱，止于髌骨上缘和两侧，向下止于胫骨粗隆的部分称为髌韧带。"
+    },
+    {
+      "id": "YD-MJ-010",
+      "type": "term_explanation",
+      "stem": "骶角",
+      "options": null,
+      "answer": "骶管上通连椎管，下端的裂孔称骶管裂孔，裂孔两侧有向下突出的骶角(是第5骶椎的下关节突)，临床上以此来确定骶管裂孔位置。",
+      "explanation": "骶管上通连椎管，下端的裂孔称骶管裂孔，裂孔两侧有向下突出的骶角(是第5骶椎的下关节突)，临床上以此来确定骶管裂孔位置。"
+    },
+    {
+      "id": "YD-MJ-011",
+      "type": "term_explanation",
+      "stem": "腹股沟管",
+      "options": null,
+      "answer": "腹股沟管为男性精索或女性子宫圆韧带所通过的一条肌和腱之间的裂隙，位于腹前外侧壁的下部。由外上斜贯向内下方，在腹股沟韧带内侧半的上方，长约4.5cm。管的内口称腹股沟管深(腹)环，在腹股沟韧带中点上方约1.5cm处，为腹横筋膜向外的突口。管的外口即腹股沟管浅(皮下)环。管有四个壁，前壁是腹外斜肌腱膜和腹内斜肌；后壁是腹横筋膜和腹股沟镰；上壁为腹内斜肌和腹横肌的弓状下缘；下壁为腹股沟韧带。",
+      "explanation": "腹股沟管为男性精索或女性子宫圆韧带所通过的一条肌和腱之间的裂隙，位于腹前外侧壁的下部。由外上斜贯向内下方，在腹股沟韧带内侧半的上方，长约4.5cm。管的内口称腹股沟管深(腹)环，在腹股沟韧带中点上方约1.5cm处，为腹横筋膜向外的突口。管的外口即腹股沟管浅(皮下)环。管有四个壁，前壁是腹外斜肌腱膜和腹内斜肌；后壁是腹横筋膜和腹股沟镰；上壁为腹内斜肌和腹横肌的弓状下缘；下壁为腹股沟韧带。"
+    },
+    {
+      "id": "YD-MJ-012",
+      "type": "term_explanation",
+      "stem": "腹股沟管腹环",
+      "options": null,
+      "answer": "腹股沟管内口称腹股沟管深(腹)环，在腹股沟韧带中点上方约1.5cm处，为腹横筋膜向外的突口。",
+      "explanation": "腹股沟管内口称腹股沟管深(腹)环，在腹股沟韧带中点上方约1.5cm处，为腹横筋膜向外的突口。"
+    },
+    {
+      "id": "YD-MJ-013",
+      "type": "term_explanation",
+      "stem": "腹股沟管皮下环",
+      "options": null,
+      "answer": "在耻骨结节外上方，腹外斜肌腱膜形成近乎三角形的裂孔，为腹股沟管浅(皮下)环。",
+      "explanation": "在耻骨结节外上方，腹外斜肌腱膜形成近乎三角形的裂孔，为腹股沟管浅(皮下)环。"
+    },
+    {
+      "id": "YD-MJ-014",
+      "type": "term_explanation",
+      "stem": "Hesselbach三角",
+      "options": null,
+      "answer": "Hesselbach三角即腹股沟三角,位于腹前壁下部，由腹直肌外侧缘、腹股沟韧带和腹壁下动脉围成的三角区。",
+      "explanation": "Hesselbach三角即腹股沟三角,位于腹前壁下部，由腹直肌外侧缘、腹股沟韧带和腹壁下动脉围成的三角区。"
+    },
+    {
+      "id": "YD-MJ-015",
+      "type": "term_explanation",
+      "stem": "白线",
+      "options": null,
+      "answer": "白线位于腹前壁正中线上，介于左右腹直肌鞘之间，由两侧的腹直肌鞘纤维彼此交织而成，上方起自剑突，下方止于耻骨联合。",
+      "explanation": "白线位于腹前壁正中线上，介于左右腹直肌鞘之间，由两侧的腹直肌鞘纤维彼此交织而成，上方起自剑突，下方止于耻骨联合。"
+    },
+    {
+      "id": "YD-MJ-016",
+      "type": "term_explanation",
+      "stem": "腹股沟韧带",
+      "options": null,
+      "answer": "腹外斜肌腱膜的下缘卷曲增厚连于髂前上棘与耻骨结节之间，称为腹股沟韧带。",
+      "explanation": "腹外斜肌腱膜的下缘卷曲增厚连于髂前上棘与耻骨结节之间，称为腹股沟韧带。"
+    },
+    {
+      "id": "YD-MJ-017",
+      "type": "term_explanation",
+      "stem": "腹直肌鞘",
+      "options": null,
+      "answer": "腹直肌鞘包绕腹直肌，由腹前外侧壁三个阔肌的腱膜构成。鞘分前后两层，前层由腹外斜肌腱膜与骤内斜肌腱膜的前层愈合而成；后层由腹内斜肌腱膜的后层与腹横肌腱膜愈合而成，在脐以下4~5cm以下，鞘的后层完全转至腹直肌的前面参与构成鞘的前层。所以自此以下是由三个阔肌腱膜愈合成鞘的前层，而缺乏鞘的后层，但可见后层的游离下缘呈凸向上方的弧形线，称弓状线(半环线)，此线以下腹直肌后面与腹横筋膜相贴。",
+      "explanation": "腹直肌鞘包绕腹直肌，由腹前外侧壁三个阔肌的腱膜构成。鞘分前后两层，前层由腹外斜肌腱膜与骤内斜肌腱膜的前层愈合而成；后层由腹内斜肌腱膜的后层与腹横肌腱膜愈合而成，在脐以下4~5cm以下，鞘的后层完全转至腹直肌的前面参与构成鞘的前层。所以自此以下是由三个阔肌腱膜愈合成鞘的前层，而缺乏鞘的后层，但可见后层的游离下缘呈凸向上方的弧形线，称弓状线(半环线)，此线以下腹直肌后面与腹横筋膜相贴。"
+    },
+    {
+      "id": "YD-MJ-018",
+      "type": "term_explanation",
+      "stem": "肱骨外科颈",
+      "options": null,
+      "answer": "肱骨上端与体交界处稍细，称外科颈，较易发生骨折。",
+      "explanation": "肱骨上端与体交界处稍细，称外科颈，较易发生骨折。"
+    },
+    {
+      "id": "YD-MJ-019",
+      "type": "term_explanation",
+      "stem": "股三角",
+      "options": null,
+      "answer": "股三角位于在大腿前面的上部。上界为腹股沟韧带、内侧界为长收肌内侧缘，外侧界为缝匠肌的内侧缘。前壁为阔筋膜，底为髂腰肌、耻骨肌和长收肌。三角内有股神经、股血管和淋巴结等。",
+      "explanation": "股三角位于在大腿前面的上部。上界为腹股沟韧带、内侧界为长收肌内侧缘，外侧界为缝匠肌的内侧缘。前壁为阔筋膜，底为髂腰肌、耻骨肌和长收肌。三角内有股神经、股血管和淋巴结等。"
+    },
+    {
+      "id": "YD-MJ-020",
+      "type": "term_explanation",
+      "stem": "骨盆",
+      "options": null,
+      "answer": "骨盆由左右髋骨和骶、尾骨以及其间的骨连结构成。骨盆以界线为界分为上方的大骨盆和下方的小骨盆。界线是由骶骨岬、两侧经弓状线、耻骨梳、耻骨结节至耻骨联合上缘构成的环形线，为小骨盆的上口。小骨盆下口由尾骨尖、骶结节韧带、坐骨结节、耻坐骨支、耻骨联合下缘围成，是胎儿娩出的产道, 两口间为骨盆腔。女性骨盆的特征集中表现为产道宽短。",
+      "explanation": "骨盆由左右髋骨和骶、尾骨以及其间的骨连结构成。骨盆以界线为界分为上方的大骨盆和下方的小骨盆。界线是由骶骨岬、两侧经弓状线、耻骨梳、耻骨结节至耻骨联合上缘构成的环形线，为小骨盆的上口。小骨盆下口由尾骨尖、骶结节韧带、坐骨结节、耻坐骨支、耻骨联合下缘围成，是胎儿娩出的产道, 两口间为骨盆腔。女性骨盆的特征集中表现为产道宽短。"
+    },
+    {
+      "id": "YD-MJ-021",
+      "type": "term_explanation",
+      "stem": "骨性鼻中隔",
+      "options": null,
+      "answer": "由犁骨和筛骨垂直板构成的骨性鼻中隔，将骨性鼻腔分为左右两半。",
+      "explanation": "由犁骨和筛骨垂直板构成的骨性鼻中隔，将骨性鼻腔分为左右两半。"
+    },
+    {
+      "id": "YD-MJ-022",
+      "type": "term_explanation",
+      "stem": "关节",
+      "options": null,
+      "answer": "关节全称为滑膜关节，是骨的可动连结和骨连结的最高分化形式。相对接触骨面(关节面)间有滑液腔隙，故名间接连结。腔内充以滑液，因而一般具有较大活动性为其特点，骨面间相互分离，仅借其周围的结缔组织相连结。连结物(关节囊)连包于关节面的周围，囊外层为纤维，内层为滑膜。滑膜产生少量滑液，润滑覆盖有软骨的关节面。关节炎常为滑膜炎或关节软骨的破坏。关节的运动度决定于关节面的形态。",
+      "explanation": "关节全称为滑膜关节，是骨的可动连结和骨连结的最高分化形式。相对接触骨面(关节面)间有滑液腔隙，故名间接连结。腔内充以滑液，因而一般具有较大活动性为其特点，骨面间相互分离，仅借其周围的结缔组织相连结。连结物(关节囊)连包于关节面的周围，囊外层为纤维，内层为滑膜。滑膜产生少量滑液，润滑覆盖有软骨的关节面。关节炎常为滑膜炎或关节软骨的破坏。关节的运动度决定于关节面的形态。"
+    },
+    {
+      "id": "YD-MJ-023",
+      "type": "term_explanation",
+      "stem": "关节唇",
+      "options": null,
+      "answer": "关节唇为附着在关节窝周缘的纤维软骨环，有加深关节窝、增大关节面的作用，以增加关节的稳定性，还可缓冲撞击关节的作用力，如髋臼唇。",
+      "explanation": "关节唇为附着在关节窝周缘的纤维软骨环，有加深关节窝、增大关节面的作用，以增加关节的稳定性，还可缓冲撞击关节的作用力，如髋臼唇。"
+    },
+    {
+      "id": "YD-MJ-024",
+      "type": "term_explanation",
+      "stem": "关节盘",
+      "options": null,
+      "answer": "关节盘是介于两关节面之间的纤维软骨板，多呈圆形，中间稍薄，周缘略厚，附着于关节囊的内面，把关节腔分成两部分。膝关节内的关节盘呈半月形，称为半月板。关节盘使两关节面更为适合，并缓冲外力的冲击和震荡，由于它把关节腔隔成两部，使单关节变成复关节，关节运动的范围得以进一步扩大。",
+      "explanation": "关节盘是介于两关节面之间的纤维软骨板，多呈圆形，中间稍薄，周缘略厚，附着于关节囊的内面，把关节腔分成两部分。膝关节内的关节盘呈半月形，称为半月板。关节盘使两关节面更为适合，并缓冲外力的冲击和震荡，由于它把关节腔隔成两部，使单关节变成复关节，关节运动的范围得以进一步扩大。"
+    },
+    {
+      "id": "YD-MJ-025",
+      "type": "term_explanation",
+      "stem": "腘窝",
+      "options": null,
+      "answer": "腘窝位于在膝关节的后方，呈菱形。窝的上外界为股二头肌，上内界为半腱肌和半膜肌，下外界和下内界分别为腓肠肌的外、内侧头，窝底为膝关节囊。内有腘血管、神经、脂肪和淋巴结等。",
+      "explanation": "腘窝位于在膝关节的后方，呈菱形。窝的上外界为股二头肌，上内界为半腱肌和半膜肌，下外界和下内界分别为腓肠肌的外、内侧头，窝底为膝关节囊。内有腘血管、神经、脂肪和淋巴结等。"
+    },
+    {
+      "id": "YD-MJ-026",
+      "type": "term_explanation",
+      "stem": "滑膜囊",
+      "options": null,
+      "answer": "在关节某些部位，滑膜从纤维膜缺如处或薄弱处作囊状膨出，充填于肌腱与骨面之间，形成滑膜囊，可减少肌肉活动时与骨面之间的摩擦。",
+      "explanation": "在关节某些部位，滑膜从纤维膜缺如处或薄弱处作囊状膨出，充填于肌腱与骨面之间，形成滑膜囊，可减少肌肉活动时与骨面之间的摩擦。"
+    },
+    {
+      "id": "YD-MJ-027",
+      "type": "term_explanation",
+      "stem": "肌腹",
+      "options": null,
+      "answer": "肌腹由横纹肌组织构成，是产力部份，肌腱位于两端，由致密结缔组织构成，是传力部分。膜状的腱名腱膜。",
+      "explanation": "肌腹由横纹肌组织构成，是产力部份，肌腱位于两端，由致密结缔组织构成，是传力部分。膜状的腱名腱膜。"
+    },
+    {
+      "id": "YD-MJ-028",
+      "type": "term_explanation",
+      "stem": "肌张力",
+      "options": null,
+      "answer": "人体静卧不动时，每块肌肉中肌纤维仍在轮流收缩，其作用是产热以保持体温，也让肌经常保持于准备状态，具体表现为肌张力，即肌具有一定的硬度。肌纤维的轮流收缩是无意识的，但受到大脑皮质运动区的控制，维持肌张力于适当的水平。运动区或其下行神经纤维束被破坏，则肌张力增强，肌肉坚硬，经常处于痉挛性收缩状态，不能作随意运动，称硬瘫。如脊髓的运动神经元或运动神经被破坏，则肌张力消失，也不能作随意运动，称软瘫。因此肌张力是诊断神经系统疾病的重要标志之一。",
+      "explanation": "人体静卧不动时，每块肌肉中肌纤维仍在轮流收缩，其作用是产热以保持体温，也让肌经常保持于准备状态，具体表现为肌张力，即肌具有一定的硬度。肌纤维的轮流收缩是无意识的，但受到大脑皮质运动区的控制，维持肌张力于适当的水平。运动区或其下行神经纤维束被破坏，则肌张力增强，肌肉坚硬，经常处于痉挛性收缩状态，不能作随意运动，称硬瘫。如脊髓的运动神经元或运动神经被破坏，则肌张力消失，也不能作随意运动，称软瘫。因此肌张力是诊断神经系统疾病的重要标志之一。"
+    },
+    {
+      "id": "YD-MJ-029",
+      "type": "term_explanation",
+      "stem": "脊柱",
+      "options": null,
+      "answer": "脊柱由33个椎骨通过椎间盘、韧带和椎间关节连结而成。位于颈和躯干的后部，构成中轴和支柱。其四个弯曲在成长过程中随体位的变化而形成，具减震、保护功能。椎孔被椎间盘和黄韧带等串连成椎管，内藏脊髓和神经根，椎间盘后突可对它们造成压迫。上下椎弓根围成椎间孔，为脊神经穿出处。颈部钩椎关节构成椎间孔的前界，椎体钩骨质增生可向后压迫神经，向侧方压迫穿行于横突孔的椎动脉。脊柱颈段和腰段的椎间盘较厚，故运动度较大。靠近颈、腰活动基座处即颈腰下段容易受损，恰如鞭子容易在与鞭柄结合处折损，电器导线多在近插头端屈折断路一样。",
+      "explanation": "脊柱由33个椎骨通过椎间盘、韧带和椎间关节连结而成。位于颈和躯干的后部，构成中轴和支柱。其四个弯曲在成长过程中随体位的变化而形成，具减震、保护功能。椎孔被椎间盘和黄韧带等串连成椎管，内藏脊髓和神经根，椎间盘后突可对它们造成压迫。上下椎弓根围成椎间孔，为脊神经穿出处。颈部钩椎关节构成椎间孔的前界，椎体钩骨质增生可向后压迫神经，向侧方压迫穿行于横突孔的椎动脉。脊柱颈段和腰段的椎间盘较厚，故运动度较大。靠近颈、腰活动基座处即颈腰下段容易受损，恰如鞭子容易在与鞭柄结合处折损，电器导线多在近插头端屈折断路一样。"
+    },
+    {
+      "id": "YD-MJ-030",
+      "type": "term_explanation",
+      "stem": "腱鞘",
+      "options": null,
+      "answer": "腱鞘是包围在肌腱外面的鞘管，存在于活动性较大的部位，如腕、踝、手指和足趾等处，它使腱固定于一定的位置，并减少腱与骨面的摩擦。腱鞘可分纤维层和滑膜层两部分；腱鞘的纤维层又称腱纤维鞘，它位于外层，为深筋膜增厚所形成的骨性纤维性管道，它对肌腱起滑车和约束作用。腱鞘的滑膜层又称腱滑膜鞘，位于腱纤维鞘内，由滑膜构成，为双层圆筒形的鞘。滑膜层的内层包在肌腱的表面，称为脏层；外层贴在腱纤维层的内面和骨面，称为壁层。脏、壁两层之间含少量滑液，所以肌腱能在这个鞘内自由滑动。腱滑膜鞘在骨面移行到肌踺的两层滑膜部分，称为腱系膜，其中有供应肌腱的血管通过。由于肌腱经常运动，腱系膜大部分消失，仅在血管神经出入处保留下来,称为腱纽。",
+      "explanation": "腱鞘是包围在肌腱外面的鞘管，存在于活动性较大的部位，如腕、踝、手指和足趾等处，它使腱固定于一定的位置，并减少腱与骨面的摩擦。腱鞘可分纤维层和滑膜层两部分；腱鞘的纤维层又称腱纤维鞘，它位于外层，为深筋膜增厚所形成的骨性纤维性管道，它对肌腱起滑车和约束作用。腱鞘的滑膜层又称腱滑膜鞘，位于腱纤维鞘内，由滑膜构成，为双层圆筒形的鞘。滑膜层的内层包在肌腱的表面，称为脏层；外层贴在腱纤维层的内面和骨面，称为壁层。脏、壁两层之间含少量滑液，所以肌腱能在这个鞘内自由滑动。腱滑膜鞘在骨面移行到肌踺的两层滑膜部分，称为腱系膜，其中有供应肌腱的血管通过。由于肌腱经常运动，腱系膜大部分消失，仅在血管神经出入处保留下来,称为腱纽。"
+    },
+    {
+      "id": "YD-MJ-031",
+      "type": "term_explanation",
+      "stem": "界线",
+      "options": null,
+      "answer": "界线为由骶骨的岬向两侧经弓状线、耻骨梳、耻骨结节至耻骨联合上缘构成的环形线, 其将骨盆分为上方的大骨盆和下方的小骨盆。",
+      "explanation": "界线为由骶骨的岬向两侧经弓状线、耻骨梳、耻骨结节至耻骨联合上缘构成的环形线, 其将骨盆分为上方的大骨盆和下方的小骨盆。"
+    },
+    {
+      "id": "YD-MJ-032",
+      "type": "term_explanation",
+      "stem": "筋膜间隙",
+      "options": null,
+      "answer": "筋膜间隙包括筋膜格内的空间(具体是筋膜与肌之间)和体腔筋膜与浆膜之间的空间，内充蜂窝组织即疏松结缔组织，故又名蜂窝组织间隙。间隙是感染时脓液积聚处。筋膜间隙之间有的直接通连，有的可沿神经血管束周围通连，因此炎症可被筋膜局限，也可沿筋膜间隙传播到较远的地方。例如腰椎结核的脓液可沿腰大肌筋膜格流到大腿根部甚至臀部。",
+      "explanation": "筋膜间隙包括筋膜格内的空间(具体是筋膜与肌之间)和体腔筋膜与浆膜之间的空间，内充蜂窝组织即疏松结缔组织，故又名蜂窝组织间隙。间隙是感染时脓液积聚处。筋膜间隙之间有的直接通连，有的可沿神经血管束周围通连，因此炎症可被筋膜局限，也可沿筋膜间隙传播到较远的地方。例如腰椎结核的脓液可沿腰大肌筋膜格流到大腿根部甚至臀部。"
+    },
+    {
+      "id": "YD-MJ-033",
+      "type": "term_explanation",
+      "stem": "颈动脉结节",
+      "options": null,
+      "answer": "第6颈椎横突末端前方的结节特别隆起，称颈动脉结节，有颈总动脉经其前方。当头部出血时，可用手指将颈总动脉压于此结节，进行一时性止血。",
+      "explanation": "第6颈椎横突末端前方的结节特别隆起，称颈动脉结节，有颈总动脉经其前方。当头部出血时，可用手指将颈总动脉压于此结节，进行一时性止血。"
+    },
+    {
+      "id": "YD-MJ-034",
+      "type": "term_explanation",
+      "stem": "髋臼",
+      "options": null,
+      "answer": "髋臼由髂、坐、耻三骨的体合成。窝内半月形的关节面称月状面。窝的中央未形成关节面的部分，称髋臼窝。髋臼边缘下部的缺口称髋臼切迹。髋臼周缘附有髋臼唇，以增加髋臼的深度。髋臼与股骨头连结构成髋关节。",
+      "explanation": "髋臼由髂、坐、耻三骨的体合成。窝内半月形的关节面称月状面。窝的中央未形成关节面的部分，称髋臼窝。髋臼边缘下部的缺口称髋臼切迹。髋臼周缘附有髋臼唇，以增加髋臼的深度。髋臼与股骨头连结构成髋关节。"
+    },
+    {
+      "id": "YD-MJ-035",
+      "type": "term_explanation",
+      "stem": "肋弓",
+      "options": null,
+      "answer": "第8~10肋前端借肋软骨各与上位肋软骨相连形成肋弓。",
+      "explanation": "第8~10肋前端借肋软骨各与上位肋软骨相连形成肋弓。"
+    },
+    {
+      "id": "YD-MJ-036",
+      "type": "term_explanation",
+      "stem": "联合腱(腹股沟镰)",
+      "options": null,
+      "answer": "腹内斜肌的下部肌束行向前下方，作凸向上的弓形，跨过精索后，延为腱膜，再向内侧与腹横肌腱膜会合形成腹股沟镰或称联合腱，止于耻骨梳的内侧端, 与腹横筋膜一起构成腹股沟管后壁。",
+      "explanation": "腹内斜肌的下部肌束行向前下方，作凸向上的弓形，跨过精索后，延为腱膜，再向内侧与腹横肌腱膜会合形成腹股沟镰或称联合腱，止于耻骨梳的内侧端, 与腹横筋膜一起构成腹股沟管后壁。"
+    },
+    {
+      "id": "YD-MJ-037",
+      "type": "term_explanation",
+      "stem": "前交叉韧带",
+      "options": null,
+      "answer": "膝关节内还有由滑膜衬覆的膝交叉韧带，膝交叉韧带有前、后两条，前交叉韧带起自胫骨髁间隆起的前方，斜向后上外方，附于股骨外侧髁的内侧面；膝交叉韧带牢固地连结股骨和胫骨，可防止胫骨沿股骨向前、后移位。前交叉韧带在伸膝时最紧张，能防止胫骨前移。",
+      "explanation": "膝关节内还有由滑膜衬覆的膝交叉韧带，膝交叉韧带有前、后两条，前交叉韧带起自胫骨髁间隆起的前方，斜向后上外方，附于股骨外侧髁的内侧面；膝交叉韧带牢固地连结股骨和胫骨，可防止胫骨沿股骨向前、后移位。前交叉韧带在伸膝时最紧张，能防止胫骨前移。"
+    },
+    {
+      "id": "YD-MJ-038",
+      "type": "term_explanation",
+      "stem": "桡神经沟",
+      "options": null,
+      "answer": "在肱骨体后面中部，有一自内上方斜向外下方的浅沟，称桡神经沟，桡神经和肱深动脉沿此沟经过，肱骨中部骨折可能伤及桡神经。",
+      "explanation": "在肱骨体后面中部，有一自内上方斜向外下方的浅沟，称桡神经沟，桡神经和肱深动脉沿此沟经过，肱骨中部骨折可能伤及桡神经。"
+    },
+    {
+      "id": "YD-MJ-039",
+      "type": "term_explanation",
+      "stem": "韧带",
+      "options": null,
+      "answer": "韧带由致密结缔组织构成，连于骨间，增加稳固性，属直接连结。可独立成条，可为关节囊的增厚。多配布于关节的两侧。膜状的韧带名骨间膜。关节的扭伤常伴韧带撕裂。",
+      "explanation": "韧带由致密结缔组织构成，连于骨间，增加稳固性，属直接连结。可独立成条，可为关节囊的增厚。多配布于关节的两侧。膜状的韧带名骨间膜。关节的扭伤常伴韧带撕裂。"
+    },
+    {
+      "id": "YD-MJ-040",
+      "type": "term_explanation",
+      "stem": "三叉神经压迹",
+      "options": null,
+      "answer": "位于颞骨岩部前面近尖端处有一浅窝, 称三叉神经压迹, 是三叉神经节所在部位。",
+      "explanation": "位于颞骨岩部前面近尖端处有一浅窝, 称三叉神经压迹, 是三叉神经节所在部位。"
+    },
+    {
+      "id": "YD-MJ-041",
+      "type": "term_explanation",
+      "stem": "收肌腱裂孔",
+      "options": null,
+      "answer": "在大收肌腱和股骨之间有一裂孔，称为收肌腱裂孔，孔内有下肢大血管通过。",
+      "explanation": "在大收肌腱和股骨之间有一裂孔，称为收肌腱裂孔，孔内有下肢大血管通过。"
+    },
+    {
+      "id": "YD-MJ-042",
+      "type": "term_explanation",
+      "stem": "腕骨沟",
+      "options": null,
+      "answer": "8块腕骨排成近远二列。近侧列由桡侧向尺侧为手舟骨、月骨、三角骨和豌豆骨，远侧列为大多角骨、小多角骨、头状骨和钩骨，8块腕骨构成一掌面陷凹的腕骨沟；屈肌支持带与腕骨沟构成腕管，内有指浅深屈肌腱及其滑膜鞘、拇长屈肌腱及其滑膜鞘和正中神经通过。",
+      "explanation": "8块腕骨排成近远二列。近侧列由桡侧向尺侧为手舟骨、月骨、三角骨和豌豆骨，远侧列为大多角骨、小多角骨、头状骨和钩骨，8块腕骨构成一掌面陷凹的腕骨沟；屈肌支持带与腕骨沟构成腕管，内有指浅深屈肌腱及其滑膜鞘、拇长屈肌腱及其滑膜鞘和正中神经通过。"
+    },
+    {
+      "id": "YD-MJ-043",
+      "type": "term_explanation",
+      "stem": "陷窝韧带(腔隙韧带)",
+      "options": null,
+      "answer": "腹股沟韧带的内侧端有一小束腱纤维向下后方止于耻骨梳，为腔隙韧带(陷窝韧带)。",
+      "explanation": "腹股沟韧带的内侧端有一小束腱纤维向下后方止于耻骨梳，为腔隙韧带(陷窝韧带)。"
+    },
+    {
+      "id": "YD-MJ-044",
+      "type": "term_explanation",
+      "stem": "囟",
+      "options": null,
+      "answer": "颅顶骨间的膜性连结处称囟。前囟有临床意义。胚胎时颅顶为结缔组织膜，颅顶骨均由膜骨化所成，额骨处出现左、右两个骨化点，左、右顶骨处各出现一个骨化点，四点所成之骨相互接近，四点间所余的菱形膜即为前囟。前囟最晚至2岁应该消失，成为颅缝，额骨合成一块。如不消失则属发育不良或反映颅内病变。",
+      "explanation": "颅顶骨间的膜性连结处称囟。前囟有临床意义。胚胎时颅顶为结缔组织膜，颅顶骨均由膜骨化所成，额骨处出现左、右两个骨化点，左、右顶骨处各出现一个骨化点，四点所成之骨相互接近，四点间所余的菱形膜即为前囟。前囟最晚至2岁应该消失，成为颅缝，额骨合成一块。如不消失则属发育不良或反映颅内病变。"
+    },
+    {
+      "id": "YD-MJ-045",
+      "type": "term_explanation",
+      "stem": "胸骨角",
+      "options": null,
+      "answer": "胸骨柄与胸骨体相接处形成向前微凸的胸骨角，第2肋软骨连于此角的两侧，是计数肋骨的重要标志。",
+      "explanation": "胸骨柄与胸骨体相接处形成向前微凸的胸骨角，第2肋软骨连于此角的两侧，是计数肋骨的重要标志。"
+    },
+    {
+      "id": "YD-MJ-046",
+      "type": "term_explanation",
+      "stem": "胸骨下角",
+      "options": null,
+      "answer": "两侧肋弓在中线构成向下开放的胸骨下角。",
+      "explanation": "两侧肋弓在中线构成向下开放的胸骨下角。"
+    },
+    {
+      "id": "YD-MJ-047",
+      "type": "term_explanation",
+      "stem": "胸廓",
+      "options": null,
+      "answer": "胸廓由胸骨、1~12肋、1~12胸椎构成，前壁比后壁短，上口有血管神经、气管、食管等通过，下口由膈肌封闭。胎儿、新生儿胸廓呈圆筒状。成长过程中随地心引力作用前后径渐小于左右经，肋向前下倾斜。老人因肌萎缩、驼背，肋前端更为下坠，胸廓变得更扁。胸廓运动即呼吸运动，吸气主要表现为胸骨下端前移(前后径增大)和肋的左右扩张(左右径增大)。肋和肋间隙均可于皮下触摸计数。",
+      "explanation": "胸廓由胸骨、1~12肋、1~12胸椎构成，前壁比后壁短，上口有血管神经、气管、食管等通过，下口由膈肌封闭。胎儿、新生儿胸廓呈圆筒状。成长过程中随地心引力作用前后径渐小于左右经，肋向前下倾斜。老人因肌萎缩、驼背，肋前端更为下坠，胸廓变得更扁。胸廓运动即呼吸运动，吸气主要表现为胸骨下端前移(前后径增大)和肋的左右扩张(左右径增大)。肋和肋间隙均可于皮下触摸计数。"
+    },
+    {
+      "id": "YD-MJ-048",
+      "type": "term_explanation",
+      "stem": "翼点",
+      "options": null,
+      "answer": "翼点为额、顶、颞和蝶骨四块颅骨相接形成\"H\"骨缝，其相交点称翼点，此部骨质较薄，其内面(颅腔面)有脑膜中动脉的前支经过，颞部暴力撞击骨折时易受损伤。造成该动脉破裂出血，继而形成硬脑膜外血肿、颅内压升高、脑疝等一系列症状和体征。",
+      "explanation": "翼点为额、顶、颞和蝶骨四块颅骨相接形成\"H\"骨缝，其相交点称翼点，此部骨质较薄，其内面(颅腔面)有脑膜中动脉的前支经过，颞部暴力撞击骨折时易受损伤。造成该动脉破裂出血，继而形成硬脑膜外血肿、颅内压升高、脑疝等一系列症状和体征。"
+    },
+    {
+      "id": "YD-MJ-049",
+      "type": "term_explanation",
+      "stem": "主动脉裂孔",
+      "options": null,
+      "answer": "在第12胸椎前方，左右两个膈脚与脊柱之间有主动脉裂孔，有主动脉和胸导管通过",
+      "explanation": "在第12胸椎前方，左右两个膈脚与脊柱之间有主动脉裂孔，有主动脉和胸导管通过"
+    },
+    {
+      "id": "YD-MJ-050",
+      "type": "term_explanation",
+      "stem": "椎间孔",
+      "options": null,
+      "answer": "椎弓根上、下缘各有一切迹，相邻椎骨的上、下切迹共同围成椎间孔，有脊神经和血管通过。",
+      "explanation": "椎弓根上、下缘各有一切迹，相邻椎骨的上、下切迹共同围成椎间孔，有脊神经和血管通过。"
+    },
+    {
+      "id": "YD-MJ-051",
+      "type": "term_explanation",
+      "stem": "椎间盘",
+      "options": null,
+      "answer": "椎间盘是连结相邻两个椎体的纤维软骨盘，由互相移行的内外两部分构成。外部为纤维环，由无数层纤维软骨环组成，坚韧而富有弹性；内部为髓核，为白色而富有弹性的胶状物。既坚韧又富有弹性，具有\"弹性垫\"样缓冲作用，并允许脊柱作各个方向的运动。",
+      "explanation": "椎间盘是连结相邻两个椎体的纤维软骨盘，由互相移行的内外两部分构成。外部为纤维环，由无数层纤维软骨环组成，坚韧而富有弹性；内部为髓核，为白色而富有弹性的胶状物。既坚韧又富有弹性，具有\"弹性垫\"样缓冲作用，并允许脊柱作各个方向的运动。"
+    },
+    {
+      "id": "YD-MJ-052",
+      "type": "term_explanation",
+      "stem": "足弓",
+      "options": null,
+      "answer": "跗骨和跖骨借其连结而形成的凸向上的弓，称为足弓，可分为前后方向的内、外侧纵弓和内外方向的一个横弓：足骨前后方向排列成弓称纵弓。左右方向两足骨各排列成半个弓，合起来成一完整的横弓。增加了足的弹性，足成为具有弹性的\"三足架\"，于跑跳时足弓可减缓震荡并保护足底血管神经不受压迫。若因足底韧带肌腱松驰，足弓塌陷则形成平足，产生步行不耐劳及疼痛症状。",
+      "explanation": "跗骨和跖骨借其连结而形成的凸向上的弓，称为足弓，可分为前后方向的内、外侧纵弓和内外方向的一个横弓：足骨前后方向排列成弓称纵弓。左右方向两足骨各排列成半个弓，合起来成一完整的横弓。增加了足的弹性，足成为具有弹性的\"三足架\"，于跑跳时足弓可减缓震荡并保护足底血管神经不受压迫。若因足底韧带肌腱松驰，足弓塌陷则形成平足，产生步行不耐劳及疼痛症状。"
+    },
+    {
+      "id": "YD-MJ-053",
+      "type": "term_explanation",
+      "stem": "坐骨大孔",
+      "options": null,
+      "answer": "骶棘韧带与坐骨大切迹之间围成坐骨大孔，有肌肉、血管和神经等经此达臀部和会阴。",
+      "explanation": "骶棘韧带与坐骨大切迹之间围成坐骨大孔，有肌肉、血管和神经等经此达臀部和会阴。"
+    },
+    {
+      "id": "YD-MJ-004",
+      "type": "term_explanation",
+      "stem": "骨性口腔如何构成？",
+      "options": null,
+      "answer": "骺指长骨两端的膨大部分。胚胎发生过程中，两骺和骨干分别由自己的骨化点形成。分隔干和骺的软骨板名骺软骨，它不断增生变厚，骨化不断在它两面进行，骨的长度即增加(长高)。骺软骨17~25岁先后消失，临床和法医上可据骨化点的出现和骺软骨的消失判断骨龄。少年儿童外伤可致干、骺分离，类似于骨折错位。",
+      "explanation": "骺指长骨两端的膨大部分。胚胎发生过程中，两骺和骨干分别由自己的骨化点形成。分隔干和骺的软骨板名骺软骨，它不断增生变厚，骨化不断在它两面进行，骨的长度即增加(长高)。骺软骨17~25岁先后消失，临床和法医上可据骨化点的出现和骺软骨的消失判断骨龄。少年儿童外伤可致干、骺分离，类似于骨折错位。"
+    },
+    {
+      "id": "YD-MJ-054",
+      "type": "short_answer",
+      "stem": "新生儿颅骨有何特征？",
+      "options": null,
+      "answer": "新生儿颅的特征是脑颅比面颅大(面颅占全颅的1/8)，额结节、顶结节、枕鳞发育明显，从颅顶观察呈五角形，额骨正中缝尚未愈合，额窦尚未发育，眉弓及眉间不明显，矢状缝与冠状缝会合处为菱形的前囟，矢状缝与人字缝会合处为三角形的后囟。另外，还有顶骨前下角的蝶囟和顶骨后下角的乳突囟。",
+      "explanation": "新生儿颅的特征是脑颅比面颅大(面颅占全颅的1/8)，额结节、顶结节、枕鳞发育明显，从颅顶观察呈五角形，额骨正中缝尚未愈合，额窦尚未发育，眉弓及眉间不明显，矢状缝与冠状缝会合处为菱形的前囟，矢状缝与人字缝会合处为三角形的后囟。另外，还有顶骨前下角的蝶囟和顶骨后下角的乳突囟。"
+    },
+    {
+      "id": "YD-MJ-055",
+      "type": "short_answer",
+      "stem": "简述与产科有关的重要骨性标志和关节。",
+      "options": null,
+      "answer": "髂嵴、髂前上棘、骶岬、坐骨棘、坐骨结节、耻骨联合、骶髂关节、骶尾关节等。髂嵴、髂前上棘、坐骨结节、耻骨联合为骨盆外测量的标志；骶岬、坐骨棘为临床骨盆内测量标志。分娩过程中先露部下降，高度以坐骨棘平面为标志。产科手术切口所取部位和手测宫底高度及尺测宫底高度，均以耻骨联合为标志；骶尾关节为测后矢状径的标志，在临床产科中应用很重要。",
+      "explanation": "髂嵴、髂前上棘、骶岬、坐骨棘、坐骨结节、耻骨联合、骶髂关节、骶尾关节等。髂嵴、髂前上棘、坐骨结节、耻骨联合为骨盆外测量的标志；骶岬、坐骨棘为临床骨盆内测量标志。分娩过程中先露部下降，高度以坐骨棘平面为标志。产科手术切口所取部位和手测宫底高度及尺测宫底高度，均以耻骨联合为标志；骶尾关节为测后矢状径的标志，在临床产科中应用很重要。"
+    },
+    {
+      "id": "YD-MJ-056",
+      "type": "short_answer",
+      "stem": "为什么老年人股骨颈多发生骨折？",
+      "options": null,
+      "answer": "成年人的新鲜骨中有机质占1/3，无机质占2/3，使骨具有坚硬性、韧性和弹性。老年人有机质减少，而无机质增多，因此，骨质变的疏松，骨密质变薄，骨的脆性增加，韧性降低。股骨颈承受大部体重，遇外力最易出现骨折，故股骨颈骨折在老年人骨折中最为常见。",
+      "explanation": "成年人的新鲜骨中有机质占1/3，无机质占2/3，使骨具有坚硬性、韧性和弹性。老年人有机质减少，而无机质增多，因此，骨质变的疏松，骨密质变薄，骨的脆性增加，韧性降低。股骨颈承受大部体重，遇外力最易出现骨折，故股骨颈骨折在老年人骨折中最为常见。"
+    },
+    {
+      "id": "YD-MJ-057",
+      "type": "short_answer",
+      "stem": "骨性口腔如何构成？",
+      "options": null,
+      "answer": "骨性口腔由上颌骨、腭骨及下颌骨围成。顶即骨腭，前壁及外侧壁由上、下颌骨牙槽突及牙围成。",
+      "explanation": "骨性口腔由上颌骨、腭骨及下颌骨围成。顶即骨腭，前壁及外侧壁由上、下颌骨牙槽突及牙围成。"
+    },
+    {
+      "id": "YD-MJ-058",
+      "type": "short_answer",
+      "stem": "简述锁骨骨折近侧端和远侧端可能移位的方向。",
+      "options": null,
+      "answer": "锁骨略呈\"~\"形弯曲的长骨，有两弯，内侧2／3部凸向前，外侧1／3部凸向后，锁骨外1／3有斜方肌和三角肌附着，内1／2有胸锁乳突肌和胸大肌附着。锁骨位置表浅，易发生骨折。骨折部位常见于中、外1／3交界处，断端重叠移位，近侧端因胸锁乳突肌的牵拉向上后方移位，远侧端受胸大肌牵引和上肢重力的影响而向前下方移位。在少年或成人容易发现，但幼儿的脂肪组织丰满，故骨折畸形不甚明显，又因幼儿不能自诉疼痛的部位，仅有不愿活动患侧上肢或穿衣伸袖时有啼哭的表现，易被忽视，应予注意。锁骨血供十分丰富，骨折处理后易愈合。",
+      "explanation": "锁骨略呈\"~\"形弯曲的长骨，有两弯，内侧2／3部凸向前，外侧1／3部凸向后，锁骨外1／3有斜方肌和三角肌附着，内1／2有胸锁乳突肌和胸大肌附着。锁骨位置表浅，易发生骨折。骨折部位常见于中、外1／3交界处，断端重叠移位，近侧端因胸锁乳突肌的牵拉向上后方移位，远侧端受胸大肌牵引和上肢重力的影响而向前下方移位。在少年或成人容易发现，但幼儿的脂肪组织丰满，故骨折畸形不甚明显，又因幼儿不能自诉疼痛的部位，仅有不愿活动患侧上肢或穿衣伸袖时有啼哭的表现，易被忽视，应予注意。锁骨血供十分丰富，骨折处理后易愈合。"
+    },
+    {
+      "id": "YD-MJ-059",
+      "type": "short_answer",
+      "stem": "简述眶的位置、形态和交通。",
+      "options": null,
+      "answer": "眶位置在额部下方，上邻颅前窝，下邻上颌窦，内邻筛窦。为一对四面锥体形深隙，有一尖一底4壁。尖：向后内，有视神经管(通颅中窝)。底：朝前外，眶上缘，眶上切迹(孔)，眶下缘和眶下孔。上壁：外侧部有泪腺窝。下壁：眶下沟，眶下管(通眶下孔)。外侧壁：与上壁交界处有眶上裂(通颅中窝)，与下壁交界处有眶下裂(通颞下窝)。内侧壁：最薄，泪囊窝(通鼻泪管：下鼻道)。",
+      "explanation": "眶位置在额部下方，上邻颅前窝，下邻上颌窦，内邻筛窦。为一对四面锥体形深隙，有一尖一底4壁。尖：向后内，有视神经管(通颅中窝)。底：朝前外，眶上缘，眶上切迹(孔)，眶下缘和眶下孔。上壁：外侧部有泪腺窝。下壁：眶下沟，眶下管(通眶下孔)。外侧壁：与上壁交界处有眶上裂(通颅中窝)，与下壁交界处有眶下裂(通颞下窝)。内侧壁：最薄，泪囊窝(通鼻泪管：下鼻道)。"
+    },
+    {
+      "id": "YD-MJ-060",
+      "type": "short_answer",
+      "stem": "简述颅底内面有哪些孔裂及其通过的结构？",
+      "options": null,
+      "answer": "颅前窝有筛孔有嗅神经入脑; 颅中窝的孔裂：①视神经孔(管)，有视神经及眼动脉通入眶腔;②眶上裂，有动眼、滑车、展、眼神经和眼静脉入眶;③破裂孔，孔续于颈动脉管内口，有颈内动脉通过。④蝶鞍两侧由前内向后外依次有圆孔、卵圆孔和棘孔，分别通过上颌神经、下颌神经和脑膜中动脉。 颅后窝的孔裂：内耳门→内耳道有面、前庭蜗神经和迷路动脉;颈静脉孔有舌咽、迷走、副神经和颈内静脉经过。",
+      "explanation": "颅前窝有筛孔有嗅神经入脑; 颅中窝的孔裂：①视神经孔(管)，有视神经及眼动脉通入眶腔;②眶上裂，有动眼、滑车、展、眼神经和眼静脉入眶;③破裂孔，孔续于颈动脉管内口，有颈内动脉通过。④蝶鞍两侧由前内向后外依次有圆孔、卵圆孔和棘孔，分别通过上颌神经、下颌神经和脑膜中动脉。 颅后窝的孔裂：内耳门→内耳道有面、前庭蜗神经和迷路动脉;颈静脉孔有舌咽、迷走、副神经和颈内静脉经过。"
+    },
+    {
+      "id": "YD-MJ-061",
+      "type": "short_answer",
+      "stem": "简述颅中窝的形态结构。",
+      "options": null,
+      "answer": "颅中窝由蝶骨和颞骨构成。中间部有垂体窝、鞍背(两者统称蝶鞍)、视神经管、颈动脉沟和破裂孔(由此通颈动脉管内口)；两侧部有眶上裂(通眶)、圆孔、卵圆孔、棘孔、三叉神经压迹、弓状隆起和鼓室盖。",
+      "explanation": "颅中窝由蝶骨和颞骨构成。中间部有垂体窝、鞍背(两者统称蝶鞍)、视神经管、颈动脉沟和破裂孔(由此通颈动脉管内口)；两侧部有眶上裂(通眶)、圆孔、卵圆孔、棘孔、三叉神经压迹、弓状隆起和鼓室盖。"
+    },
+    {
+      "id": "YD-MJ-062",
+      "type": "short_answer",
+      "stem": "简述足弓及其生理意义？",
+      "options": null,
+      "answer": "跗骨和跖骨借其连结而形成的凸向上的弓，称足弓。可分为前后方向的内、外侧纵弓和内外方向的一个横弓。内侧纵弓由跟骨、距骨、足舟骨、3块楔骨以及内侧3个跖骨连结构成，弓的最高点为距骨头。此弓前端的承重点在第1跖骨头，后端的承重点是跟骨的跟结节。外侧纵弓由跟骨、骰骨和外侧2个跖骨构成，弓的最高点在骰骨，其前端的承重点在第5跖骨头。内侧纵弓较外侧纵弓为高。横弓由骰骨、3块楔骨和跖骨构成，最高点在中间楔骨。足弓增加了足的弹性，使足成为具有弹性的\"三足架\"。",
+      "explanation": "跗骨和跖骨借其连结而形成的凸向上的弓，称足弓。可分为前后方向的内、外侧纵弓和内外方向的一个横弓。内侧纵弓由跟骨、距骨、足舟骨、3块楔骨以及内侧3个跖骨连结构成，弓的最高点为距骨头。此弓前端的承重点在第1跖骨头，后端的承重点是跟骨的跟结节。外侧纵弓由跟骨、骰骨和外侧2个跖骨构成，弓的最高点在骰骨，其前端的承重点在第5跖骨头。内侧纵弓较外侧纵弓为高。横弓由骰骨、3块楔骨和跖骨构成，最高点在中间楔骨。足弓增加了足的弹性，使足成为具有弹性的\"三足架\"。"
+    },
+    {
+      "id": "YD-MJ-063",
+      "type": "short_answer",
+      "stem": "哪些颅骨中有鼻旁窦?这些鼻旁窦分别开口在鼻的何处?",
+      "options": null,
+      "answer": "在额骨、蝶骨、筛骨和上颌骨中有鼻旁窦。在额骨中的鼻旁窦称额窦，开口在中鼻道；在上颌骨内的鼻旁窦称上颌窦，开口在中鼻道，筛骨内的鼻旁窦称筛窦，它可分为前筛窦、中筛窦、后筛窦三组。前、中筛窦开口在中鼻道，后筛窦开口在上鼻道；在蝶骨内的鼻旁窦称蝶窦，开口于上鼻甲的后上方的蝶筛隐窝内。",
+      "explanation": "在额骨、蝶骨、筛骨和上颌骨中有鼻旁窦。在额骨中的鼻旁窦称额窦，开口在中鼻道；在上颌骨内的鼻旁窦称上颌窦，开口在中鼻道，筛骨内的鼻旁窦称筛窦，它可分为前筛窦、中筛窦、后筛窦三组。前、中筛窦开口在中鼻道，后筛窦开口在上鼻道；在蝶骨内的鼻旁窦称蝶窦，开口于上鼻甲的后上方的蝶筛隐窝内。"
+    },
+    {
+      "id": "YD-MJ-064",
+      "type": "short_answer",
+      "stem": "简述比较男、女性骨盆的特点。",
+      "options": null,
+      "answer": "在人类的全身骨骼中，性差最显著的是骨盆。男、女性骨盆的特点是：①骨盆外形宽而短(女)，窄而长(男)。②髂骨翼较水平(女)，较垂直(男)。③骨盆上口椭圆形(女)，心形(男)。④耻骨下角80°~100°(女)，70°~75°(男)。⑤骨盆腔圆桶状(女)，漏斗状(男)。⑥骨盆下口较宽大(女)，较窄小(男)。",
+      "explanation": "在人类的全身骨骼中，性差最显著的是骨盆。男、女性骨盆的特点是：①骨盆外形宽而短(女)，窄而长(男)。②髂骨翼较水平(女)，较垂直(男)。③骨盆上口椭圆形(女)，心形(男)。④耻骨下角80°~100°(女)，70°~75°(男)。⑤骨盆腔圆桶状(女)，漏斗状(男)。⑥骨盆下口较宽大(女)，较窄小(男)。"
+    },
+    {
+      "id": "YD-MJ-065",
+      "type": "short_answer",
+      "stem": "简述股骨颈颈干角及其临床意义。",
+      "options": null,
+      "answer": "股骨颈与股骨干之间形成颈干角，成人平均为127°(125°~130°)角，大于此角者称为髋外翻，小于此角者称为髋内翻，如先天性髋关节脱位或小儿麻痹症患者，由于股骨负担体重减少，故颈干角大，可超过140°。如像佝偻病，由于体重的压力，可使颈干角小于110°。正常股骨头略向前倾，股骨头及股骨颈的纵轴线与股骨内、外侧髁之间的连线不在同一平面上所形成的夹角称前倾角，成人约12°~15°角，在治疗股骨颈骨折时，应注意恢复颈干角和前倾角。",
+      "explanation": "股骨颈与股骨干之间形成颈干角，成人平均为127°(125°~130°)角，大于此角者称为髋外翻，小于此角者称为髋内翻，如先天性髋关节脱位或小儿麻痹症患者，由于股骨负担体重减少，故颈干角大，可超过140°。如像佝偻病，由于体重的压力，可使颈干角小于110°。正常股骨头略向前倾，股骨头及股骨颈的纵轴线与股骨内、外侧髁之间的连线不在同一平面上所形成的夹角称前倾角，成人约12°~15°角，在治疗股骨颈骨折时，应注意恢复颈干角和前倾角。"
+    },
+    {
+      "id": "YD-MJ-066",
+      "type": "short_answer",
+      "stem": "什么是前倾角、提携角？有何临床意义？",
+      "options": null,
+      "answer": "肱骨下端逐渐变宽变扁，且向前弯曲，下端骺端的纵轴线与肱骨干长轴形成一个约30°的前倾角。由于肱骨滑车的内侧唇较外侧唇更为向前向下突出，使滑车的额状轴斜向下内，前臂沿此斜轴屈曲时，手将抵达胸前而非与臂叠折，伸前臂时，前臂偏向外侧，构成约10°的偏角，称为提携角。 肘关节部位骨折复位时应注意矫正此二角的恢复，否则可产生肘部畸形或功能障碍，尤其是提携角变小时，可使尺神经沟内的尺神经挤压摩擦受损，引起尺神经炎。",
+      "explanation": "肱骨下端逐渐变宽变扁，且向前弯曲，下端骺端的纵轴线与肱骨干长轴形成一个约30°的前倾角。由于肱骨滑车的内侧唇较外侧唇更为向前向下突出，使滑车的额状轴斜向下内，前臂沿此斜轴屈曲时，手将抵达胸前而非与臂叠折，伸前臂时，前臂偏向外侧，构成约10°的偏角，称为提携角。 肘关节部位骨折复位时应注意矫正此二角的恢复，否则可产生肘部畸形或功能障碍，尤其是提携角变小时，可使尺神经沟内的尺神经挤压摩擦受损，引起尺神经炎。"
+    },
+    {
+      "id": "YD-MJ-067",
+      "type": "short_answer",
+      "stem": "简述肩关节脱位时常向前下方脱位的解剖学基础。",
+      "options": null,
+      "answer": "肩胛骨关节盂小、肱骨头大、关节盂仅容纳肱骨头的1／4~1／3，大部分肱骨头在关节盂之外，肩关节的稳定主要靠周围结构的保护及相对固定。肩关节前上方有喙突，后上方有肩峰，两者之间有喙肩韧带，关节囊上有喙肱韧带连接喙突至肱骨大结节，部分纤维编织于关节囊的纤维层，囊的前壁有肩胛下肌、喙肱肌、肱二头肌短头和胸大肌，后壁有冈下肌和小圆肌，上外方有三角肌和冈上肌，惟有关节囊的下壁没有肌腱和韧带加强，最为薄弱。因此，肩关节脱位时，常向前下方脱位，可伤及腋部的神经和血管。",
+      "explanation": "肩胛骨关节盂小、肱骨头大、关节盂仅容纳肱骨头的1／4~1／3，大部分肱骨头在关节盂之外，肩关节的稳定主要靠周围结构的保护及相对固定。肩关节前上方有喙突，后上方有肩峰，两者之间有喙肩韧带，关节囊上有喙肱韧带连接喙突至肱骨大结节，部分纤维编织于关节囊的纤维层，囊的前壁有肩胛下肌、喙肱肌、肱二头肌短头和胸大肌，后壁有冈下肌和小圆肌，上外方有三角肌和冈上肌，惟有关节囊的下壁没有肌腱和韧带加强，最为薄弱。因此，肩关节脱位时，常向前下方脱位，可伤及腋部的神经和血管。"
+    },
+    {
+      "id": "YD-MJ-068",
+      "type": "short_answer",
+      "stem": "试分析张口、闭口及研磨运动主要有哪些些肌收缩？",
+      "options": null,
+      "answer": "张口：主要为舌骨上肌群(二腹肌、下颌舌骨肌、茎突舌骨肌和颏舌骨肌)与翼外肌协同作用；闭口：为咬肌、颞肌和翼内肌协同作用，研磨，为颞肌后部肌纤维、翼内肌和翼外肌协同作用。",
+      "explanation": "张口：主要为舌骨上肌群(二腹肌、下颌舌骨肌、茎突舌骨肌和颏舌骨肌)与翼外肌协同作用；闭口：为咬肌、颞肌和翼内肌协同作用，研磨，为颞肌后部肌纤维、翼内肌和翼外肌协同作用。"
+    },
+    {
+      "id": "YD-MJ-069",
+      "type": "short_answer",
+      "stem": "试分析深呼吸都有哪些些肌参与？",
+      "options": null,
+      "answer": "吸气时：膈、肋间外肌、胸大肌、胸小肌、前锯肌收缩。呼气时：膈松弛，肋间内肌、肋间最内肌、腹肌前外侧群(腹外斜肌、腹内斜肌、腹横肌、腹直肌)收缩。",
+      "explanation": "吸气时：膈、肋间外肌、胸大肌、胸小肌、前锯肌收缩。呼气时：膈松弛，肋间内肌、肋间最内肌、腹肌前外侧群(腹外斜肌、腹内斜肌、腹横肌、腹直肌)收缩。"
+    },
+    {
+      "id": "YD-MJ-070",
+      "type": "essay",
+      "stem": "从体表如何确定棘突和肋骨的序数？",
+      "options": null,
+      "answer": "(1)体表确定棘突：肩胛冈内侧端连线处为第3胸椎棘突，两侧髂嵴最高点连线处为第4腰椎棘突；髂后上棘连线处为第2骶椎棘突；后正中线上棘突最突出的为第7颈椎棘突。(2)体表计数肋：胸骨角平对第2肋软骨；乳头平对第4肋间隙或第5肋，肩胛骨上角平对第2肋；肩胛骨下角平对第7肋或第7肋间隙。",
+      "explanation": "(1)体表确定棘突：肩胛冈内侧端连线处为第3胸椎棘突，两侧髂嵴最高点连线处为第4腰椎棘突；髂后上棘连线处为第2骶椎棘突；后正中线上棘突最突出的为第7颈椎棘突。(2)体表计数肋：胸骨角平对第2肋软骨；乳头平对第4肋间隙或第5肋，肩胛骨上角平对第2肋；肩胛骨下角平对第7肋或第7肋间隙。"
+    },
+    {
+      "id": "YD-MJ-071",
+      "type": "essay",
+      "stem": "骨有哪些形态？并述其结构和功能？",
+      "options": null,
+      "answer": "(1)骨的形态分为4类：长骨、短骨、扁骨和不规则骨。长骨呈长管状，分布于四肢，分一体两端。短骨呈立方形，如腕骨和跗骨。扁骨呈板状，主要构成颅腔、胸腔和盆腔的壁。不规则骨的形状不规则，如椎骨。 > (2)骨的结构：包括骨膜、骨质和骨髓。骨膜位于除了关节面以外的骨表面，分内外两层，含有丰富的神经和血管，对骨的营养、再生和感觉起重要作用。骨质分密质和松质，骨密质在骨表面，骨松质在骨内部。骨髓充填于骨髓腔和骨松质间隙内，分红、黄骨髓，只有长骨的骨干5岁后开始出现黄骨髓，其余部位终生为红骨髓，具有造血功能。 > (3)骨的功能：①支持、保护作用，生长发育；②参与钙、磷代谢；③造血功能。",
+      "explanation": "(1)骨的形态分为4类：长骨、短骨、扁骨和不规则骨。长骨呈长管状，分布于四肢，分一体两端。短骨呈立方形，如腕骨和跗骨。扁骨呈板状，主要构成颅腔、胸腔和盆腔的壁。不规则骨的形状不规则，如椎骨。 > (2)骨的结构：包括骨膜、骨质和骨髓。骨膜位于除了关节面以外的骨表面，分内外两层，含有丰富的神经和血管，对骨的营养、再生和感觉起重要作用。骨质分密质和松质，骨密质在骨表面，骨松质在骨内部。骨髓充填于骨髓腔和骨松质间隙内，分红、黄骨髓，只有长骨的骨干5岁后开始出现黄骨髓，其余部位终生为红骨髓，具有造血功能。 > (3)骨的功能：①支持、保护作用，生长发育；②参与钙、磷代谢；③造血功能。"
+    },
+    {
+      "id": "YD-MJ-072",
+      "type": "essay",
+      "stem": "试述骨的基本构造。",
+      "options": null,
+      "answer": "骨的构成:骨由骨质、骨膜、骨髓和神经、血管等构成。骨质为骨的主要成分，分为骨密质、骨松质。骨密质由紧密排列的骨板层构成，抗压、抗扭曲能力强，分布于骨的表层。长骨的骨干(中间较细的部分)由骨密质构成。在颅盖，骨密质构成内板与外板。骨松质为交织成网的骨小粱构成，主要见于长骨两端(骺)和短骨骨内部。颅盖的骨松质称为板障。骨膜是紧贴于骨表面的一层结缔组织膜，富有血管、神经和成骨细胞，对骨具有营养、生长和修复作用。骨髓充填于骨髓腔和骨松质间隙内，分为：红骨髓有造血作用，胎儿及幼儿的骨内全是红骨髓，成人仅见于骨松质腔隙内；黄骨髓为脂肪组织，无造血作用，5岁以后存在于长骨骨髓腔内。",
+      "explanation": "骨的构成:骨由骨质、骨膜、骨髓和神经、血管等构成。骨质为骨的主要成分，分为骨密质、骨松质。骨密质由紧密排列的骨板层构成，抗压、抗扭曲能力强，分布于骨的表层。长骨的骨干(中间较细的部分)由骨密质构成。在颅盖，骨密质构成内板与外板。骨松质为交织成网的骨小粱构成，主要见于长骨两端(骺)和短骨骨内部。颅盖的骨松质称为板障。骨膜是紧贴于骨表面的一层结缔组织膜，富有血管、神经和成骨细胞，对骨具有营养、生长和修复作用。骨髓充填于骨髓腔和骨松质间隙内，分为：红骨髓有造血作用，胎儿及幼儿的骨内全是红骨髓，成人仅见于骨松质腔隙内；黄骨髓为脂肪组织，无造血作用，5岁以后存在于长骨骨髓腔内。"
+    },
+    {
+      "id": "YD-MJ-073",
+      "type": "essay",
+      "stem": "有些骨其全长(或绝大部分)均可在皮下摸到，这有助于触诊是否骨折。请说出这些骨的名称。截取腓骨干出来作为自体骨移植的材料，这个设想是否可行?为什么?",
+      "options": null,
+      "answer": "全长或绝大部分可在皮下摸到的骨有：额骨、顶骨、下颌骨、颧骨、舌骨、锁骨、下位肋、尺骨、掌骨，指骨、胫骨、髌骨、跗跖、趾骨。因腓骨并不承重，取其中份作植骨材料并不影响其下端构成踝关节窝，也不影响其上端作为肌附着点。因此是可行的。",
+      "explanation": "全长或绝大部分可在皮下摸到的骨有：额骨、顶骨、下颌骨、颧骨、舌骨、锁骨、下位肋、尺骨、掌骨，指骨、胫骨、髌骨、跗跖、趾骨。因腓骨并不承重，取其中份作植骨材料并不影响其下端构成踝关节窝，也不影响其上端作为肌附着点。因此是可行的。"
+    },
+    {
+      "id": "YD-MJ-074",
+      "type": "essay",
+      "stem": "在一堆椎骨中, 如何正确并迅速地区分各部椎骨？(即认识各部椎骨的不同点)",
+      "options": null,
+      "answer": "椎骨可分为颈椎、胸椎、腰椎、骶椎、尾椎五类。椎骨的共同形态特征一般具有椎体、椎弓、椎孔和椎弓发出7个突起。椎体:位于椎骨的前份，呈短圆柱形。椎弓位于椎体的后方，可分为椎弓根和椎弓板二部分。突起:每个椎骨的椎弓上有7个突起，2个横突，2个上关节突，2个下关节突和1个棘突。颈椎：椎体小，椭圆形，有椎体钩;关节突水平位，横突上有横突孔。其中寰椎呈环状，无椎体、棘突和关节突。枢椎有齿突。隆椎棘突最长。胸椎：棘突长，斜向后下。关节面呈冠状位，椎体上有肋凹，横突上有横突肋凹。腰椎：椎体粗壮，椎孔呈三角形，关节面呈矢状位，棘突宽而短，呈板状，水平向后。",
+      "explanation": "椎骨可分为颈椎、胸椎、腰椎、骶椎、尾椎五类。椎骨的共同形态特征一般具有椎体、椎弓、椎孔和椎弓发出7个突起。椎体:位于椎骨的前份，呈短圆柱形。椎弓位于椎体的后方，可分为椎弓根和椎弓板二部分。突起:每个椎骨的椎弓上有7个突起，2个横突，2个上关节突，2个下关节突和1个棘突。颈椎：椎体小，椭圆形，有椎体钩;关节突水平位，横突上有横突孔。其中寰椎呈环状，无椎体、棘突和关节突。枢椎有齿突。隆椎棘突最长。胸椎：棘突长，斜向后下。关节面呈冠状位，椎体上有肋凹，横突上有横突肋凹。腰椎：椎体粗壮，椎孔呈三角形，关节面呈矢状位，棘突宽而短，呈板状，水平向后。"
+    },
+    {
+      "id": "YD-MJ-075",
+      "type": "essay",
+      "stem": "椎间盘的结构和功能如何？何谓\"椎间盘脱出症\"？",
+      "options": null,
+      "answer": "椎间盘是连结相邻两个椎体的纤维软骨盘，由上、下软骨板、纤维环和髓核构成。(1)软骨板 紧贴于椎体的上、下面，如同膝关节软骨，可以承力，防止椎骨受压。只要软骨板保持完整，椎体就不会因压力变化而发生吸收；软骨板还可视作半渗透膜，在渗透压下，水分可扩散至无血管的髓核。(2)纤维环 由无数层纤维软骨环组成，围绕于髓核周围，坚韧而富有弹性,是椎间盘维持负重的最主要组织，与上、下软骨板和前纵韧带、后纵韧带紧密相连。纤维环十分坚固，各层纤维的方向彼此交错，犹如肋间内、外肌的排列，相邻两层之间借粘合物质相连。纤维环包绕髓核，使其维持一定的位置及形状，在压力下，因力量平均分散于纤维环，所以又具有吸收震荡的作用。 (3)髓核 位于椎间盘内部,是一种白色而富有弹韧性的、半流体的胶状物质。既坚韧又富有弹性，具有\"弹性垫\"样缓冲作用，并允许脊柱作各个方向的运动。髓核约占椎间盘切面的50％~60％。髓核含有85％的水分及退化的脊索残余。髓核一般位于纤维环的中部偏后，并不在中心位置，但颈部椎间盘的髓核多在中部稍前，脊柱颈段运动轴线由此通过。 椎间盘的弹性和厚度与髓核的含水量和所承受的压力密切相关。含水量多，所受压力小，椎间盘厚且弹性好；相反，含水量少，所受压力大，则椎间盘变薄，弹性降低。椎间盘的含水量和弹性随年龄的增长而递降。椎间盘的水分出生时为88％，18岁时为80％，至77岁时只有69％。胎儿期椎间盘内有血管，出生后逐渐闭锁消失，除周围部外无血管，其营养和代谢以渗透方式进行，所以随年龄的增长，椎间盘易发生退行性变。过度负重或剧烈运动可导致纤维环破裂，髓核突出，称椎间盘突出症，以第4~5腰椎间者多见。由于椎间盘前方有宽的前纵韧带，后方中部有窄的后纵韧带加强，后外侧薄弱并对向椎间孔，因此髓核常向后外侧突出，压迫脊神经，颈段椎间盘的后外方有椎体钩加固，胸段脊柱活动度小，故颈、胸段的椎间盘突出症较少见。",
+      "explanation": "椎间盘是连结相邻两个椎体的纤维软骨盘，由上、下软骨板、纤维环和髓核构成。(1)软骨板 紧贴于椎体的上、下面，如同膝关节软骨，可以承力，防止椎骨受压。只要软骨板保持完整，椎体就不会因压力变化而发生吸收；软骨板还可视作半渗透膜，在渗透压下，水分可扩散至无血管的髓核。(2)纤维环 由无数层纤维软骨环组成，围绕于髓核周围，坚韧而富有弹性,是椎间盘维持负重的最主要组织，与上、下软骨板和前纵韧带、后纵韧带紧密相连。纤维环十分坚固，各层纤维的方向彼此交错，犹如肋间内、外肌的排列，相邻两层之间借粘合物质相连。纤维环包绕髓核，使其维持一定的位置及形状，在压力下，因力量平均分散于纤维环，所以又具有吸收震荡的作用。 (3)髓核 位于椎间盘内部,是一种白色而富有弹韧性的、半流体的胶状物质。既坚韧又富有弹性，具有\"弹性垫\"样缓冲作用，并允许脊柱作各个方向的运动。髓核约占椎间盘切面的50％~60％。髓核含有85％的水分及退化的脊索残余。髓核一般位于纤维环的中部偏后，并不在中心位置，但颈部椎间盘的髓核多在中部稍前，脊柱颈段运动轴线由此通过。 椎间盘的弹性和厚度与髓核的含水量和所承受的压力密切相关。含水量多，所受压力小，椎间盘厚且弹性好；相反，含水量少，所受压力大，则椎间盘变薄，弹性降低。椎间盘的含水量和弹性随年龄的增长而递降。椎间盘的水分出生时为88％，18岁时为80％，至77岁时只有69％。胎儿期椎间盘内有血管，出生后逐渐闭锁消失，除周围部外无血管，其营养和代谢以渗透方式进行，所以随年龄的增长，椎间盘易发生退行性变。过度负重或剧烈运动可导致纤维环破裂，髓核突出，称椎间盘突出症，以第4~5腰椎间者多见。由于椎间盘前方有宽的前纵韧带，后方中部有窄的后纵韧带加强，后外侧薄弱并对向椎间孔，因此髓核常向后外侧突出，压迫脊神经，颈段椎间盘的后外方有椎体钩加固，胸段脊柱活动度小，故颈、胸段的椎间盘突出症较少见。"
+    },
+    {
+      "id": "YD-MJ-076",
+      "type": "essay",
+      "stem": "颅骨可分哪几个部分?分别包括哪些骨?颅底内面有哪些主要的孔和裂?",
+      "options": null,
+      "answer": "颅骨可分为脑颅和面颅二部分。脑颅共8块：额骨、枕骨、蝶骨、筛骨各1块；顶骨、颞骨各2块。面颅共15块：上颌骨、鼻骨、颧骨、泪骨、下鼻甲、腭骨各2块；犁骨、下颌骨、舌骨各1块。颅底内面的主要孔和裂：颅前窝有筛孔；颅中窝有视神经管、眶上裂、圆孔、卵圆孔、棘孔；颅后窝有枕骨大孔、颈静脉孔、内耳门、舌下神经管。",
+      "explanation": "颅骨可分为脑颅和面颅二部分。脑颅共8块：额骨、枕骨、蝶骨、筛骨各1块；顶骨、颞骨各2块。面颅共15块：上颌骨、鼻骨、颧骨、泪骨、下鼻甲、腭骨各2块；犁骨、下颌骨、舌骨各1块。颅底内面的主要孔和裂：颅前窝有筛孔；颅中窝有视神经管、眶上裂、圆孔、卵圆孔、棘孔；颅后窝有枕骨大孔、颈静脉孔、内耳门、舌下神经管。"
+    },
+    {
+      "id": "YD-MJ-077",
+      "type": "essay",
+      "stem": "骨性鼻腔如何构成？可经何结构与何处相通？",
+      "options": null,
+      "answer": "骨性鼻腔的顶主要由筛骨的筛板构成，有若干筛孔通颅前窝；底为骨腭，前部正中有切牙孔，通骨性口腔；由犁骨和筛骨垂直板构成的骨性鼻中隔构成其内侧壁，其外侧壁由上、中、下鼻甲和上、中、下鼻道构成。前方籍梨状孔通外界；后方开口于一对鼻后孔。每侧鼻腔外侧壁有上、中、下鼻道，在上鼻甲的后方还有蝶筛隐窝，骨性鼻腔在下鼻道借鼻泪管通泪囊窝；在中鼻道，借上颌窦裂孔通上颌窦，借额窦口和前、中两群筛窦口分别通额窦和前、中群筛窦；在上鼻道，借后群筛窦口通后群筛窦；在蝶窦隐窝，借蝶窦口通蝶窦。在骨性鼻腔外侧壁的后份借蝶骨与腭骨之间的蝶腭孔通翼腭窝。",
+      "explanation": "骨性鼻腔的顶主要由筛骨的筛板构成，有若干筛孔通颅前窝；底为骨腭，前部正中有切牙孔，通骨性口腔；由犁骨和筛骨垂直板构成的骨性鼻中隔构成其内侧壁，其外侧壁由上、中、下鼻甲和上、中、下鼻道构成。前方籍梨状孔通外界；后方开口于一对鼻后孔。每侧鼻腔外侧壁有上、中、下鼻道，在上鼻甲的后方还有蝶筛隐窝，骨性鼻腔在下鼻道借鼻泪管通泪囊窝；在中鼻道，借上颌窦裂孔通上颌窦，借额窦口和前、中两群筛窦口分别通额窦和前、中群筛窦；在上鼻道，借后群筛窦口通后群筛窦；在蝶窦隐窝，借蝶窦口通蝶窦。在骨性鼻腔外侧壁的后份借蝶骨与腭骨之间的蝶腭孔通翼腭窝。"
+    },
+    {
+      "id": "YD-MJ-078",
+      "type": "essay",
+      "stem": "呼吸困难的病人吸气时头俯向前，呼气时还原，称点头呼吸，请解释用劲吸气为何导致点头？",
+      "options": null,
+      "answer": "用力吸气时需肋和胸骨尽可能向上提高，因此以肋和胸骨为止点的颈部肌也参与工作。胸锁乳突肌收缩可提第一肋和胸骨，但同时也会把头拉向前下，这就是深吸气点头的原因。胸大肌起于胸骨和肋，它也被动员起来参与工作，但它的提胸骨提肋功能必须在它的止点(肱骨)被固定的条件下方能实现。病人用于撑持床缘、椅背就是为了固定肱骨，让胸大肌的动点变成定点，发挥提胸骨提肋的功能。",
+      "explanation": "用力吸气时需肋和胸骨尽可能向上提高，因此以肋和胸骨为止点的颈部肌也参与工作。胸锁乳突肌收缩可提第一肋和胸骨，但同时也会把头拉向前下，这就是深吸气点头的原因。胸大肌起于胸骨和肋，它也被动员起来参与工作，但它的提胸骨提肋功能必须在它的止点(肱骨)被固定的条件下方能实现。病人用于撑持床缘、椅背就是为了固定肱骨，让胸大肌的动点变成定点，发挥提胸骨提肋的功能。"
+    },
+    {
+      "id": "YD-MJ-079",
+      "type": "essay",
+      "stem": "试述关节的主要结构和关节的辅助结构。",
+      "options": null,
+      "answer": "关节的主要结构包括关节面、关节囊和关节腔。 > (1)关节面：关节面表面覆盖一层光滑的关节软骨，可减少骨面之间的摩擦和缓冲撞击，增加关节的灵活性。 > (2)关节囊：附着在关节面周缘的骨面上，可分为外层的纤维层和内层的滑膜层。滑膜层含有丰富的血管和淋巴管，能分泌少量滑液，以润滑关节面和滋养关节软骨，同时也有吸收滑液的作用。 > (3)关节腔：为关节囊滑膜层与关节软骨之间所围成的潜在性窄隙。腔密闭呈负压，这对维持关节的稳固性有一定作用。 > 关节的辅助结构：包括韧带、关节盘和关节唇等。韧带由致密结缔组织构成，位于关节周围或关节腔内，分别称为囊内、外韧带，对关节的稳固性有重要作用；关节盘是介于两关节面之间的纤维软骨板，多呈圆形，中间稍薄，周缘略厚，附着于关节囊的内面，把关节腔分成两部分。关节盘使两关节面更为适合，并缓冲外力的冲击和震荡，由于它把关节腔隔成两部分，使单关节变成复关节，关节运动的范围得以进一步扩大；关节唇附着在关节窝周缘，为纤维软骨环，有加深关节窝、增大关节面的作用，也可缓冲外力的作用力, 如肩关节盂唇。",
+      "explanation": "关节的主要结构包括关节面、关节囊和关节腔。 > (1)关节面：关节面表面覆盖一层光滑的关节软骨，可减少骨面之间的摩擦和缓冲撞击，增加关节的灵活性。 > (2)关节囊：附着在关节面周缘的骨面上，可分为外层的纤维层和内层的滑膜层。滑膜层含有丰富的血管和淋巴管，能分泌少量滑液，以润滑关节面和滋养关节软骨，同时也有吸收滑液的作用。 > (3)关节腔：为关节囊滑膜层与关节软骨之间所围成的潜在性窄隙。腔密闭呈负压，这对维持关节的稳固性有一定作用。 > 关节的辅助结构：包括韧带、关节盘和关节唇等。韧带由致密结缔组织构成，位于关节周围或关节腔内，分别称为囊内、外韧带，对关节的稳固性有重要作用；关节盘是介于两关节面之间的纤维软骨板，多呈圆形，中间稍薄，周缘略厚，附着于关节囊的内面，把关节腔分成两部分。关节盘使两关节面更为适合，并缓冲外力的冲击和震荡，由于它把关节腔隔成两部分，使单关节变成复关节，关节运动的范围得以进一步扩大；关节唇附着在关节窝周缘，为纤维软骨环，有加深关节窝、增大关节面的作用，也可缓冲外力的作用力, 如肩关节盂唇。"
+    },
+    {
+      "id": "YD-MJ-080",
+      "type": "essay",
+      "stem": "试述椎骨间的骨连结形式有哪些？",
+      "options": null,
+      "answer": "椎骨间的连结借助椎间盘、韧带和关节相互连结。椎间盘：位于相邻两个椎体之间，由外周的纤维环和内部的髓核构成。纤维环为环行交叉排列的纤维软骨。髓核是一种灰白色富有弹性的胶状体, 被限制在纤维环之内。韧带：位于椎体前面, 上起枕骨、下达骶骨的这一韧带称前纵韧带；位于椎体后面、椎管前壁的这一韧带称后纵韧带；位于相邻两个椎弓板之间的韧带称弓间韧带, 此韧带新鲜时呈黄色, 又称黄韧带；位于相邻两个横突之间的韧带称横突间韧带；位于相邻两个棘突之间的韧带称棘间韧带；位于棘突尖端，下达骶正中嵴，称棘上韧带，此韧带向上到项部扩展成项韧带，最后附着于枕骨。 关节：上位椎骨的下关节突和下位椎骨的上关节突的关节面构成椎间关节。",
+      "explanation": "椎骨间的连结借助椎间盘、韧带和关节相互连结。椎间盘：位于相邻两个椎体之间，由外周的纤维环和内部的髓核构成。纤维环为环行交叉排列的纤维软骨。髓核是一种灰白色富有弹性的胶状体, 被限制在纤维环之内。韧带：位于椎体前面, 上起枕骨、下达骶骨的这一韧带称前纵韧带；位于椎体后面、椎管前壁的这一韧带称后纵韧带；位于相邻两个椎弓板之间的韧带称弓间韧带, 此韧带新鲜时呈黄色, 又称黄韧带；位于相邻两个横突之间的韧带称横突间韧带；位于相邻两个棘突之间的韧带称棘间韧带；位于棘突尖端，下达骶正中嵴，称棘上韧带，此韧带向上到项部扩展成项韧带，最后附着于枕骨。 关节：上位椎骨的下关节突和下位椎骨的上关节突的关节面构成椎间关节。"
+    },
+    {
+      "id": "YD-MJ-081",
+      "type": "essay",
+      "stem": "详述椎弓间的连结形式及其临床意义。",
+      "options": null,
+      "answer": "椎弓借韧带和关节突关节相连结。 > (1)黄韧带 由薄而坚韧的黄色弹性纤维构成，连于相邻两椎弓板之间。在上方附着于上一椎弓板下缘的前面，向下附着于下一椎弓板上缘的后面，如叠瓦状，其外侧延伸至椎间关节的关节囊，它的侧缘构成椎间孔软组织性后壁。黄韧带分左、右两半，在中线处有一空隙，有小静脉穿过。黄韧带正常厚度约为2~4mm，其厚度由上向下逐渐增加，腰段最厚。连续的外伤是引起黄韧带肥厚的主要原因，可厚达8~16mm，这种过度性肥厚可导致椎管狭窄，压迫马尾，并可使椎间孔变窄压迫脊神经根，引起腰腿痛。 > (2)棘间韧带 位于相邻两棘突间，前接黄韧带，后续棘上韧带。 > (3)棘上韧带和项韧带 是连于棘突尖的纵长纤维束，第7颈椎以上的部分为项韧带。 > (4)横突间韧带 位于相邻二横突间，颈部常缺如，胸部呈索状，腰部较发达，呈膜状，参与构成腰神经后支所经过的骨纤维孔，该韧带增生肥厚时，可压迫神经，是引起腰腿痛的原因之一。 > (5)关节突关节 由相邻关节突的关节面构成，各关节囊松紧不一，颈部松弛易脱位，胸部较紧张，腰部紧而厚，前方有黄韧带，后方有棘间韧带加强，关节突关节参与构成椎间孔的后壁，前方与脊神经相邻，颈段还有椎动脉穿行。",
+      "explanation": "椎弓借韧带和关节突关节相连结。 > (1)黄韧带 由薄而坚韧的黄色弹性纤维构成，连于相邻两椎弓板之间。在上方附着于上一椎弓板下缘的前面，向下附着于下一椎弓板上缘的后面，如叠瓦状，其外侧延伸至椎间关节的关节囊，它的侧缘构成椎间孔软组织性后壁。黄韧带分左、右两半，在中线处有一空隙，有小静脉穿过。黄韧带正常厚度约为2~4mm，其厚度由上向下逐渐增加，腰段最厚。连续的外伤是引起黄韧带肥厚的主要原因，可厚达8~16mm，这种过度性肥厚可导致椎管狭窄，压迫马尾，并可使椎间孔变窄压迫脊神经根，引起腰腿痛。 > (2)棘间韧带 位于相邻两棘突间，前接黄韧带，后续棘上韧带。 > (3)棘上韧带和项韧带 是连于棘突尖的纵长纤维束，第7颈椎以上的部分为项韧带。 > (4)横突间韧带 位于相邻二横突间，颈部常缺如，胸部呈索状，腰部较发达，呈膜状，参与构成腰神经后支所经过的骨纤维孔，该韧带增生肥厚时，可压迫神经，是引起腰腿痛的原因之一。 > (5)关节突关节 由相邻关节突的关节面构成，各关节囊松紧不一，颈部松弛易脱位，胸部较紧张，腰部紧而厚，前方有黄韧带，后方有棘间韧带加强，关节突关节参与构成椎间孔的后壁，前方与脊神经相邻，颈段还有椎动脉穿行。"
+    },
+    {
+      "id": "YD-MJ-082",
+      "type": "essay",
+      "stem": "患者,男,45岁，贫血，需抽取骨髓检查其造血机能，请问在什么地方穿刺为好，并请说出理由。",
+      "options": null,
+      "answer": "穿刺选点应考虑4个方面：能抽到红骨髓、靠近皮下便于穿刺、安全，穿后不影响日常生活。成人只有扁骨和短骨才有红骨髓，便于穿刺的地方可有胸骨、椎骨棘突、髂嵴。胸骨近心脏大血管有一定危险性，病人害怕；棘突和髂后上棘穿刺后影响睡眠，因此以在髂前上棘后外3~4cm处较为理想。",
+      "explanation": "穿刺选点应考虑4个方面：能抽到红骨髓、靠近皮下便于穿刺、安全，穿后不影响日常生活。成人只有扁骨和短骨才有红骨髓，便于穿刺的地方可有胸骨、椎骨棘突、髂嵴。胸骨近心脏大血管有一定危险性，病人害怕；棘突和髂后上棘穿刺后影响睡眠，因此以在髂前上棘后外3~4cm处较为理想。"
+    },
+    {
+      "id": "YD-MJ-083",
+      "type": "essay",
+      "stem": "试述肱骨分部及主要形态结构名称。",
+      "options": null,
+      "answer": "肱骨为长骨，可分为一体二端。肱骨上端膨大，有半球形关节面称肱骨头；肱骨头关节面周缘的浅沟，称为解剖颈；颈的外侧有一较大的隆起，称为大结节；其前方有一较小的隆起称为小结节；在大、小结节之间有一纵沟，称为结节间沟；肱骨头和大、小结节下方较细的部分，称为外科颈。肱骨体：外侧面的中部，有一粗糙隆起，称为三角肌粗隆；在三角肌粗隆的后下方，有一条由内后上方行向外前下方的浅沟，称为桡神经沟。肱骨下端：内侧的关节面称肱骨滑车；外侧的关节面称肱骨小头；下端的后面有鹰嘴窝； 肱骨下端内侧的突起称内上髁，外侧的突起称为外上髁；内上髁的后下方有一浅沟，称尺神经沟。",
+      "explanation": "肱骨为长骨，可分为一体二端。肱骨上端膨大，有半球形关节面称肱骨头；肱骨头关节面周缘的浅沟，称为解剖颈；颈的外侧有一较大的隆起，称为大结节；其前方有一较小的隆起称为小结节；在大、小结节之间有一纵沟，称为结节间沟；肱骨头和大、小结节下方较细的部分，称为外科颈。肱骨体：外侧面的中部，有一粗糙隆起，称为三角肌粗隆；在三角肌粗隆的后下方，有一条由内后上方行向外前下方的浅沟，称为桡神经沟。肱骨下端：内侧的关节面称肱骨滑车；外侧的关节面称肱骨小头；下端的后面有鹰嘴窝； 肱骨下端内侧的突起称内上髁，外侧的突起称为外上髁；内上髁的后下方有一浅沟，称尺神经沟。"
+    },
+    {
+      "id": "YD-MJ-084",
+      "type": "essay",
+      "stem": "以肩关节为例说明构成关节之基本构造和辅助结构，分析其稳定性和灵活性的因素。",
+      "options": null,
+      "answer": "关节的基本构造包括关节面、关节囊和关节腔；关节的辅助结构包括韧带、关节盘、关节唇、滑膜襞和滑膜囊等。肩关节由肱骨头和肩胛骨的关节盂构成，结构特点：①肱骨头与关节盂的光滑表面即关节面。肱骨头大，关节盂较浅小；②关节囊薄而松弛，附着于肱骨解剖颈和肩胛骨关节盂的周缘，包围了肩关节的关节腔。③关节囊的上壁有喙肱韧带加强，此为囊外韧带；关节上方有喙肩韧带架在肩峰与喙突之间，也为囊外韧带，它与喙突、肩峰共同构成喙肩弓，防止肱骨头向上脱位；④肱二头肌长头腱形于关节囊内，为滑膜所包绕，为囊内韧带；⑤关节盂的周缘镶有关节唇称盂唇，稍加深关节窝。肩关节没有关节内软骨，但周围可有滑膜囊。运动方式：屈、伸运动，外展、内收运动，旋内、旋外运动；环转运动。",
+      "explanation": "关节的基本构造包括关节面、关节囊和关节腔；关节的辅助结构包括韧带、关节盘、关节唇、滑膜襞和滑膜囊等。肩关节由肱骨头和肩胛骨的关节盂构成，结构特点：①肱骨头与关节盂的光滑表面即关节面。肱骨头大，关节盂较浅小；②关节囊薄而松弛，附着于肱骨解剖颈和肩胛骨关节盂的周缘，包围了肩关节的关节腔。③关节囊的上壁有喙肱韧带加强，此为囊外韧带；关节上方有喙肩韧带架在肩峰与喙突之间，也为囊外韧带，它与喙突、肩峰共同构成喙肩弓，防止肱骨头向上脱位；④肱二头肌长头腱形于关节囊内，为滑膜所包绕，为囊内韧带；⑤关节盂的周缘镶有关节唇称盂唇，稍加深关节窝。肩关节没有关节内软骨，但周围可有滑膜囊。运动方式：屈、伸运动，外展、内收运动，旋内、旋外运动；环转运动。"
+    },
+    {
+      "id": "YD-MJ-085",
+      "type": "essay",
+      "stem": "试述髋关节的构成、结构特点和运动方式。",
+      "options": null,
+      "answer": "结构特点：①关节窝：较深，边缘有关节盂唇，它能容纳股骨头2／3；②关节囊：坚厚，股骨颈前面全部被关节囊包裹，后面关节囊只包裹到内2／3与外1／3交界部，关节囊的后下部比较薄弱；③韧带：关节囊内有股骨头韧带，连于关节窝与股骨头之间，有滑膜包裹，内有滋养股骨头的血管通过。关节囊外主要有髂股韧带，它是由关节囊前壁纤维层特别增厚形成的。 运动：髋关节能作屈、伸运动，内收、外展运动，旋内、旋外运动，环转运动。",
+      "explanation": "结构特点：①关节窝：较深，边缘有关节盂唇，它能容纳股骨头2／3；②关节囊：坚厚，股骨颈前面全部被关节囊包裹，后面关节囊只包裹到内2／3与外1／3交界部，关节囊的后下部比较薄弱；③韧带：关节囊内有股骨头韧带，连于关节窝与股骨头之间，有滑膜包裹，内有滋养股骨头的血管通过。关节囊外主要有髂股韧带，它是由关节囊前壁纤维层特别增厚形成的。 运动：髋关节能作屈、伸运动，内收、外展运动，旋内、旋外运动，环转运动。"
+    },
+    {
+      "id": "YD-MJ-086",
+      "type": "essay",
+      "stem": "试述肘关节的构成、结构特点和运动方式, 从其结构特点说明其最易脱位的方式？如何鉴别肘关节的脱位和骨折？",
+      "options": null,
+      "answer": "肘关节由肱骨下端与尺、桡骨上端构成的复关节，包括三个关节：①肱尺关节，由肱骨滑车和尺骨滑车切迹构成；②肱桡关节，由肱骨小头和桡骨头关节凹构成；③桡尺近侧关节：由桡骨的环状关节面和尺骨桡切迹构成。上述3个关节包在一个关节囊内。囊的近侧端分别附着于肱骨冠突窝、桡窝和鹰嘴窝的上缘及肱骨滑车内侧和小头外侧；囊的远侧端附于尺骨滑车切迹关节面周缘和桡骨环状韧带。肘关节囊前、后壁薄而松弛，两侧壁厚而紧张，并有韧带加强。肘关节的运动以肱尺关节为主，肱尺关节属滑车关节，主要行冠状轴上的屈、伸运动,伸前臂时，前臂偏向外侧，构成约10°的外偏角，称提携角。肱桡关节虽属球窝关节，但因受肱尺关节的限制，只能作屈、伸和旋前、旋后运动。桡尺近侧关节属车轴关节，与桡尺远侧关节联合，使前臂旋前和旋后。结构特点：①三个关节在一个关节囊内；②关节囊前、后壁松弛，两侧有桡侧副韧带和尺侧副韧带加强；③桡骨头处有桡骨环状韧带。运动：肘关节主要是屈、伸运动。肘关节囊的后壁最薄弱，故常见桡、尺二骨向后脱位，此时，桡、尺骨移向肱骨的后上方。 触摸肘关节后脱位:肘关节处可明显触摸到3个骨性标志：肱骨内、外上髁和尺骨鹰嘴，正常状态下，伸肘关节时，三个骨性标志位于一条直线上；屈肘90°时，三者则在肘后形成一个等腰三角形，三角形的尖朝前下。在肘关节后脱位时，除局部肿胀、疼痛、伸屈活动受限等临床表现外，屈肘90°时，触摸三个骨性标志，不是等腰三角形，且三角形尖朝后上，伸肘时，三个骨点也不在一条直线上。",
+      "explanation": "肘关节由肱骨下端与尺、桡骨上端构成的复关节，包括三个关节：①肱尺关节，由肱骨滑车和尺骨滑车切迹构成；②肱桡关节，由肱骨小头和桡骨头关节凹构成；③桡尺近侧关节：由桡骨的环状关节面和尺骨桡切迹构成。上述3个关节包在一个关节囊内。囊的近侧端分别附着于肱骨冠突窝、桡窝和鹰嘴窝的上缘及肱骨滑车内侧和小头外侧；囊的远侧端附于尺骨滑车切迹关节面周缘和桡骨环状韧带。肘关节囊前、后壁薄而松弛，两侧壁厚而紧张，并有韧带加强。肘关节的运动以肱尺关节为主，肱尺关节属滑车关节，主要行冠状轴上的屈、伸运动,伸前臂时，前臂偏向外侧，构成约10°的外偏角，称提携角。肱桡关节虽属球窝关节，但因受肱尺关节的限制，只能作屈、伸和旋前、旋后运动。桡尺近侧关节属车轴关节，与桡尺远侧关节联合，使前臂旋前和旋后。结构特点：①三个关节在一个关节囊内；②关节囊前、后壁松弛，两侧有桡侧副韧带和尺侧副韧带加强；③桡骨头处有桡骨环状韧带。运动：肘关节主要是屈、伸运动。肘关节囊的后壁最薄弱，故常见桡、尺二骨向后脱位，此时，桡、尺骨移向肱骨的后上方。 触摸肘关节后脱位:肘关节处可明显触摸到3个骨性标志：肱骨内、外上髁和尺骨鹰嘴，正常状态下，伸肘关节时，三个骨性标志位于一条直线上；屈肘90°时，三者则在肘后形成一个等腰三角形，三角形的尖朝前下。在肘关节后脱位时，除局部肿胀、疼痛、伸屈活动受限等临床表现外，屈肘90°时，触摸三个骨性标志，不是等腰三角形，且三角形尖朝后上，伸肘时，三个骨点也不在一条直线上。"
+    },
+    {
+      "id": "YD-MJ-087",
+      "type": "essay",
+      "stem": "试述桡腕关节的构成和运动方式。",
+      "options": null,
+      "answer": "桡腕关节：又称腕关节，是典型的椭圆关节，由桡骨的腕关节面和尺骨头下方的关节盘作成关节窝，手舟骨、月骨和三角骨的近侧关节面构成关节头。关节囊松弛，关节腔宽广，关节的前、后和两侧均有韧带加强，其中掌侧韧带较坚韧，因而腕后伸运动受到限制。桡腕关节可作屈、伸、展、收及环转运动。",
+      "explanation": "桡腕关节：又称腕关节，是典型的椭圆关节，由桡骨的腕关节面和尺骨头下方的关节盘作成关节窝，手舟骨、月骨和三角骨的近侧关节面构成关节头。关节囊松弛，关节腔宽广，关节的前、后和两侧均有韧带加强，其中掌侧韧带较坚韧，因而腕后伸运动受到限制。桡腕关节可作屈、伸、展、收及环转运动。"
+    },
+    {
+      "id": "YD-MJ-088",
+      "type": "essay",
+      "stem": "试述膝关节的结构特点和运动方式, 并分析内、外侧半月板受损伤的情况。",
+      "options": null,
+      "answer": "膝关节由股骨内、外侧髁，胫骨内、外侧髁及髌骨的关节面构成。 > (1)结构特点：①关节囊：广阔而松弛。②韧带：分囊内韧带和囊外韧带。囊内韧带有膝交叉韧带，它包括前方的前交叉韧带，后方的后交叉韧带。前交叉韧带起于胫骨髁间隆起的前部，止于股骨外侧髁内侧面，能制止胫骨前移的作用；后交叉韧带起于胫骨髁间隆起的后方，止于股骨内侧髁的外侧面, 有制止胫骨后移的作用。囊外韧带主要有髌韧带、胫侧副韧带和腓侧副韧带。髌韧带位于膝关节的前方，由股四头肌包髌骨的前方和两侧向下止于胫骨粗隆。胫侧副韧带位于膝关节的内侧，连于股骨内上髁与胫骨内侧髁之间。腓侧副韧带位于膝关节的外侧，连于股骨外上髁与腓骨头之间。③半月板：内侧半月板较大而窄，呈\"C\"字形；外侧半月板较小而宽，近似环形，有时也呈盘状。④膝关节周围的滑液囊。与膝关节腔相通者有髌上囊和腘肌囊；与膝关节腔不相通者有髌前皮下囊和髌下深囊。 > 运动：膝关节在冠状轴上能作屈、伸运动, 正常屈、伸运动度约130°，在屈膝90°状态下，在垂直轴上，小腿还可作旋内和旋外运动, 其运动范围可达50°, 其中旋内10°, 旋外40°。当膝关节伸直而股骨内旋、小腿外旋时，关节处于紧密嵌合位置，为膝关节最稳定状态，称为锁膝,最适于稳固站立。当小腿内旋、屈膝关节，称解锁, 为腘肌的主要功能。 半月板有一定厚度, 富有弹性, 能缓冲重力。由于内、外侧半月板并不是固定的, 随着膝关节的运动而移动, 因此, 在强力骤然动作时, 易造成损伤甚至撕裂。当膝关节处于半屈和外展位时, 内侧半月板向膝中央和后侧移位, 股骨下端由于外力骤然内旋, 将半月板拉入股骨髁和胫骨髁之间, 在股骨髁强度内旋的牵拉下, 内侧半月板边缘易致破裂; 同理, 如膝关节半屈和内收位时, 股骨下端骤然外旋、伸直, 外侧半月板也可发生破裂。",
+      "explanation": "膝关节由股骨内、外侧髁，胫骨内、外侧髁及髌骨的关节面构成。 > (1)结构特点：①关节囊：广阔而松弛。②韧带：分囊内韧带和囊外韧带。囊内韧带有膝交叉韧带，它包括前方的前交叉韧带，后方的后交叉韧带。前交叉韧带起于胫骨髁间隆起的前部，止于股骨外侧髁内侧面，能制止胫骨前移的作用；后交叉韧带起于胫骨髁间隆起的后方，止于股骨内侧髁的外侧面, 有制止胫骨后移的作用。囊外韧带主要有髌韧带、胫侧副韧带和腓侧副韧带。髌韧带位于膝关节的前方，由股四头肌包髌骨的前方和两侧向下止于胫骨粗隆。胫侧副韧带位于膝关节的内侧，连于股骨内上髁与胫骨内侧髁之间。腓侧副韧带位于膝关节的外侧，连于股骨外上髁与腓骨头之间。③半月板：内侧半月板较大而窄，呈\"C\"字形；外侧半月板较小而宽，近似环形，有时也呈盘状。④膝关节周围的滑液囊。与膝关节腔相通者有髌上囊和腘肌囊；与膝关节腔不相通者有髌前皮下囊和髌下深囊。 > 运动：膝关节在冠状轴上能作屈、伸运动, 正常屈、伸运动度约130°，在屈膝90°状态下，在垂直轴上，小腿还可作旋内和旋外运动, 其运动范围可达50°, 其中旋内10°, 旋外40°。当膝关节伸直而股骨内旋、小腿外旋时，关节处于紧密嵌合位置，为膝关节最稳定状态，称为锁膝,最适于稳固站立。当小腿内旋、屈膝关节，称解锁, 为腘肌的主要功能。 半月板有一定厚度, 富有弹性, 能缓冲重力。由于内、外侧半月板并不是固定的, 随着膝关节的运动而移动, 因此, 在强力骤然动作时, 易造成损伤甚至撕裂。当膝关节处于半屈和外展位时, 内侧半月板向膝中央和后侧移位, 股骨下端由于外力骤然内旋, 将半月板拉入股骨髁和胫骨髁之间, 在股骨髁强度内旋的牵拉下, 内侧半月板边缘易致破裂; 同理, 如膝关节半屈和内收位时, 股骨下端骤然外旋、伸直, 外侧半月板也可发生破裂。"
+    },
+    {
+      "id": "YD-MJ-089",
+      "type": "essay",
+      "stem": "试述踝关节易扭伤的解剖学基础？",
+      "options": null,
+      "answer": "踝关节扭伤一般以足底扭向内侧(即踝关节过度内翻)多见, 且多在下楼梯时发生。踝关节由胫骨下端关节面、内踝及外踝共同构成踝关节的近端关节面，呈窝状，又称踝穴。距骨滑车组成踝关节的远端关节面，并被踝穴容纳，构成屈戍状关节,踝关节头和窝的后份横径(冠状径)均比前份横径为小，。距骨滑车前宽后窄，当踝关节背屈时，其前部(宽部)进入踝穴，关节稳定。当足跖屈时(例如下楼梯时)，其后部(窄部)进入踝穴，即关节头小的后份进入关节窝大的前份，关节腔隙增大，易向侧方活动，造成关节失稳，且踝关节囊内侧韧带强厚，外侧韧带薄弱，另外,外踝尖比内踝尖低，使内翻较易而外翻受阻。故踝关节跖屈时易发生扭伤，因此，下楼梯时更易发生踝关节扭伤。",
+      "explanation": "踝关节扭伤一般以足底扭向内侧(即踝关节过度内翻)多见, 且多在下楼梯时发生。踝关节由胫骨下端关节面、内踝及外踝共同构成踝关节的近端关节面，呈窝状，又称踝穴。距骨滑车组成踝关节的远端关节面，并被踝穴容纳，构成屈戍状关节,踝关节头和窝的后份横径(冠状径)均比前份横径为小，。距骨滑车前宽后窄，当踝关节背屈时，其前部(宽部)进入踝穴，关节稳定。当足跖屈时(例如下楼梯时)，其后部(窄部)进入踝穴，即关节头小的后份进入关节窝大的前份，关节腔隙增大，易向侧方活动，造成关节失稳，且踝关节囊内侧韧带强厚，外侧韧带薄弱，另外,外踝尖比内踝尖低，使内翻较易而外翻受阻。故踝关节跖屈时易发生扭伤，因此，下楼梯时更易发生踝关节扭伤。"
+    },
+    {
+      "id": "YD-MJ-090",
+      "type": "essay",
+      "stem": "肩关节和髋关节结构上有什么不同? 为何髋关节不易脱位？",
+      "options": null,
+      "answer": "肩、髋关节同属杵臼关节, 但肩、髋关节在构造上差异显著。(1)肩关节由肱骨头和肩胛骨的关节盂构成。肩关节头大盂浅，相对关节面面积之差达2∶1，只能容纳肱骨头的1/4~1/3。髋关节由股骨头和髋臼构成。髋臼大而深，可容纳股骨头2/3以上。(2)关节囊：肩关节囊薄而松弛，上方附着于关节唇的周缘，下方附着于肱骨头的解剖颈。关节囊前下方较薄弱，所以前下方脱位较常见。髋关节的关节囊坚厚紧张，起于髓臼边缘，向外在前面包裹股骨颈，但在后面只附着于股骨颈的内2／3与外1／3交界部。关节囊的后下部较薄弱，易引起后脱位。(3) 肩关节关节腔宽大，无坚韧的韧带，运动灵活，在遭受暴力冲击时易发生脱位。髋关节关节腔小而窄，关节的运动受到一定限制。(4)韧带：肩关节在关节囊的上方，肩峰与喙突之间有喙肩韧带，有保护肩关节和防止向上脱位的作用。髋关节囊内有股骨头韧带, 紧密连于关节窝与股骨头凹之间, 有滑膜包裹，内有滋养股骨头的血管通过。髋关节囊周围有韧带加强，以囊前壁的髂股韧带最为强大,它能限制髋关节过度后伸，对维持人体直立有一定的作用。下方有耻骨囊韧带，后方有坐骨囊韧带，关节囊周围均有强大肌肉保护，故不易脱位，但如遇强大暴力因素，也可引起髋关节脱位。(5)其他，肩关节关节盂的周缘镶有关节唇称盂唇，稍加深关节窝,关节囊内有肱二头肌长头肌腱通过;髋关节在髋臼缘上附着坚韧的关节盂缘，使髋臼加深，容纳整个股骨头。关节盂缘口径较髋臼缘小，因此，有髋关节囊损伤时，股骨头也不易脱出。",
+      "explanation": "肩、髋关节同属杵臼关节, 但肩、髋关节在构造上差异显著。(1)肩关节由肱骨头和肩胛骨的关节盂构成。肩关节头大盂浅，相对关节面面积之差达2∶1，只能容纳肱骨头的1/4~1/3。髋关节由股骨头和髋臼构成。髋臼大而深，可容纳股骨头2/3以上。(2)关节囊：肩关节囊薄而松弛，上方附着于关节唇的周缘，下方附着于肱骨头的解剖颈。关节囊前下方较薄弱，所以前下方脱位较常见。髋关节的关节囊坚厚紧张，起于髓臼边缘，向外在前面包裹股骨颈，但在后面只附着于股骨颈的内2／3与外1／3交界部。关节囊的后下部较薄弱，易引起后脱位。(3) 肩关节关节腔宽大，无坚韧的韧带，运动灵活，在遭受暴力冲击时易发生脱位。髋关节关节腔小而窄，关节的运动受到一定限制。(4)韧带：肩关节在关节囊的上方，肩峰与喙突之间有喙肩韧带，有保护肩关节和防止向上脱位的作用。髋关节囊内有股骨头韧带, 紧密连于关节窝与股骨头凹之间, 有滑膜包裹，内有滋养股骨头的血管通过。髋关节囊周围有韧带加强，以囊前壁的髂股韧带最为强大,它能限制髋关节过度后伸，对维持人体直立有一定的作用。下方有耻骨囊韧带，后方有坐骨囊韧带，关节囊周围均有强大肌肉保护，故不易脱位，但如遇强大暴力因素，也可引起髋关节脱位。(5)其他，肩关节关节盂的周缘镶有关节唇称盂唇，稍加深关节窝,关节囊内有肱二头肌长头肌腱通过;髋关节在髋臼缘上附着坚韧的关节盂缘，使髋臼加深，容纳整个股骨头。关节盂缘口径较髋臼缘小，因此，有髋关节囊损伤时，股骨头也不易脱出。"
+    },
+    {
+      "id": "YD-MJ-091",
+      "type": "essay",
+      "stem": "试举例说明影响关节灵活性运动与稳固性连结的因素有哪些？",
+      "options": null,
+      "answer": "影响关节灵活与稳固的因素有：(1)面差：肩关节面差大，灵活。髋关节面差小，稳固；(2)囊：肩关节囊松薄，灵活。髋关节囊紧厚，稳固；(3)关节盘：增加灵活性。如颞下颌关节和膝关节；(4)韧带：增加稳固性如膝关节：(5)肌：关节四周的肌肉和肌腱保护增加稳固性，如肩关节。",
+      "explanation": "影响关节灵活与稳固的因素有：(1)面差：肩关节面差大，灵活。髋关节面差小，稳固；(2)囊：肩关节囊松薄，灵活。髋关节囊紧厚，稳固；(3)关节盘：增加灵活性。如颞下颌关节和膝关节；(4)韧带：增加稳固性如膝关节：(5)肌：关节四周的肌肉和肌腱保护增加稳固性，如肩关节。"
+    },
+    {
+      "id": "YD-MJ-092",
+      "type": "essay",
+      "stem": "从肌的配布谈对肌拮抗与肌协作的理解。",
+      "options": null,
+      "answer": "无论配布于关节周围的跨关节肌还是配布于孔裂周围的皮肌，其配布均遵循矛盾对立统一的原则，即相对拮抗配布又相互协同工作。皮肌拮抗表现在环绕孔裂的轮匝肌(括约肌)与放射状排列的开大肌相拮抗。跨关节肌拮抗表现为配布于运动轴两侧的肌相拮抗。协同工作则表现在如屈时并非只有屈肌收缩，这时伸肌也在收缩，只是它在作适度的放松，这样才能完成恰到好处的动作。肌组间的协作临床上叫共济，共济是在神经系统调节下完成的。神经系疾病可表现为共济失调，即不能维持正常的姿势(坐、站不稳)，不能准确地进行活动(醉汉步态、指鼻不准、活动性震颤)。平时，相互拮抗的两组肌的张力相互抵消，保持关节于中位，一旦一组肌因神经受损而瘫痪，肌张力丧失时，关节因失拮抗而偏离中位，久之导致关节畸形，这时治疗中注意保持关节的正常功能位就至关重要。例如小腿前群肌(踝关节伸肌)瘫痪，踝关节即屈位畸形，应在床尾设置足挡板保证踝关节处于90°中位，以预防发生跖屈畸形。腹直肌鞘是哪些肌肉的腱膜构成的?是怎样构成的? 腹直肌鞘由腹外斜肌、腹内斜肌和腹横肌的腱膜构成，有前、后二壁。前壁由腹外斜肌腱膜与腹内斜肌腱膜前层愈合而成，后壁由腹内斜肌腱膜后层与腹横肌腱膜愈合而成。脐下4~5cm处以下鞘的后壁缺如，鞘下缘形成凸向上方的弧形线，为半环线。半环线以下的腹直肌后面直接与腹横筋膜相贴。",
+      "explanation": "无论配布于关节周围的跨关节肌还是配布于孔裂周围的皮肌，其配布均遵循矛盾对立统一的原则，即相对拮抗配布又相互协同工作。皮肌拮抗表现在环绕孔裂的轮匝肌(括约肌)与放射状排列的开大肌相拮抗。跨关节肌拮抗表现为配布于运动轴两侧的肌相拮抗。协同工作则表现在如屈时并非只有屈肌收缩，这时伸肌也在收缩，只是它在作适度的放松，这样才能完成恰到好处的动作。肌组间的协作临床上叫共济，共济是在神经系统调节下完成的。神经系疾病可表现为共济失调，即不能维持正常的姿势(坐、站不稳)，不能准确地进行活动(醉汉步态、指鼻不准、活动性震颤)。平时，相互拮抗的两组肌的张力相互抵消，保持关节于中位，一旦一组肌因神经受损而瘫痪，肌张力丧失时，关节因失拮抗而偏离中位，久之导致关节畸形，这时治疗中注意保持关节的正常功能位就至关重要。例如小腿前群肌(踝关节伸肌)瘫痪，踝关节即屈位畸形，应在床尾设置足挡板保证踝关节处于90°中位，以预防发生跖屈畸形。腹直肌鞘是哪些肌肉的腱膜构成的?是怎样构成的? 腹直肌鞘由腹外斜肌、腹内斜肌和腹横肌的腱膜构成，有前、后二壁。前壁由腹外斜肌腱膜与腹内斜肌腱膜前层愈合而成，后壁由腹内斜肌腱膜后层与腹横肌腱膜愈合而成。脐下4~5cm处以下鞘的后壁缺如，鞘下缘形成凸向上方的弧形线，为半环线。半环线以下的腹直肌后面直接与腹横筋膜相贴。"
+    },
+    {
+      "id": "YD-MJ-093",
+      "type": "essay",
+      "stem": "哪些肌瘫痪可致\"翼状肩\"、\"方形肩\"、\"爪形手\"、\"猿手\"特征，为什么？",
+      "options": null,
+      "answer": "翼状肩：前锯肌作用为拉肩胛骨向前和紧贴胸廓，瘫痪后斜方肌作用相对加强而导致\"翼状肩\"方形肩：三角肌可使肩部呈圆隆形，瘫痪后导致\"方形肩\"。爪形手：拇收肌瘫痪使拇指不能内收、小鱼际萎缩变平坦，骨间肌萎缩塌陷，使各指不能互相靠拢，各掌指关节过伸，第4、5指的指间关节弯曲，导致\"爪形手\"，猿手：鱼际肌位于手掌拇指侧形成一隆起，可使拇指作展、屈、对掌等动作，瘫痪后导致\"猿手\"。",
+      "explanation": "翼状肩：前锯肌作用为拉肩胛骨向前和紧贴胸廓，瘫痪后斜方肌作用相对加强而导致\"翼状肩\"方形肩：三角肌可使肩部呈圆隆形，瘫痪后导致\"方形肩\"。爪形手：拇收肌瘫痪使拇指不能内收、小鱼际萎缩变平坦，骨间肌萎缩塌陷，使各指不能互相靠拢，各掌指关节过伸，第4、5指的指间关节弯曲，导致\"爪形手\"，猿手：鱼际肌位于手掌拇指侧形成一隆起，可使拇指作展、屈、对掌等动作，瘫痪后导致\"猿手\"。"
+    },
+    {
+      "id": "YD-MJ-094",
+      "type": "essay",
+      "stem": "试述咀嚼肌有哪几对？各有何作用？",
+      "options": null,
+      "answer": "咀嚼肌主要有4对，即颞肌、咬肌、翼内肌和翼外肌。此外，二腹肌前腹、下颌舌骨肌与颏舌骨肌也附着于下颌骨。若舌骨固定，也可运动下颌骨。 > (1)颞肌呈扇形，起自颞窝和颞筋膜深面，肌纤维向下经颧弓的内面，止于下颌骨的冠突，附着牢固，手术时不易剥离，所以行下颌骨切除术时，可将冠突剪断保留。颞肌强厚，与位于其浅面的颞深筋膜对颅有很好的保护作用，即使在手术时，切除了其深面颞骨的鳞部，颞肌和颞深筋膜也足以保护其深面的脑组织，所以颞部为开颅手术的常用手术入路。颞肌的作用为上提下颌骨以闭口，使牙齿咬合。颞肌还有助于侧方的研磨运动，当下颌骨前伸时，颞肌后部肌纤维收缩可使其后退。 > (2)咬肌呈四边形，由三层构成，其前部三层愈合。浅层最大，以坚强的腱膜起于颧弓下缘的前2／3和颧骨的上颌突，其纤维行向后下方，止于下颌角和下颌支外侧面的下后半。咬肌中层起于颧弓前2／3的内侧面及后1／3的下缘，止于下颌支中份，咬肌深层起于颧弓深面，止于下颌支上份及冠突。中层和深层合称咬肌深部。咬肌的主要作用为上提下颌骨，也可使下颌骨作轻微的侧方、前伸和后退运动。 > (3)翼外肌和翼内肌位于下颌支的内侧，翼外肌起点有两个头，较大的下头起于翼突外侧板的外面，较小的下头起于颞下颌窝和蝶骨大翼的颞下嵴。其纤维向后外止于下颌颈前面的压迹和颞下颌关节囊及关节盘。翼内肌起点位于翼外肌深面，主要起于蝶骨翼突窝，止于下颌支内面后下部的咬肌粗隆。翼内肌协助上提下颌骨，和翼外肌协同作用可使下颌骨前伸，如一侧翼内肌和翼外肌同时收缩，下领骨以对侧的下颌头为垂直轴，可使同侧下颌骨前伸并向对侧运动。两侧肌肉交替收缩，则产生侧向运动，这一运动可磨碎食物。",
+      "explanation": "咀嚼肌主要有4对，即颞肌、咬肌、翼内肌和翼外肌。此外，二腹肌前腹、下颌舌骨肌与颏舌骨肌也附着于下颌骨。若舌骨固定，也可运动下颌骨。 > (1)颞肌呈扇形，起自颞窝和颞筋膜深面，肌纤维向下经颧弓的内面，止于下颌骨的冠突，附着牢固，手术时不易剥离，所以行下颌骨切除术时，可将冠突剪断保留。颞肌强厚，与位于其浅面的颞深筋膜对颅有很好的保护作用，即使在手术时，切除了其深面颞骨的鳞部，颞肌和颞深筋膜也足以保护其深面的脑组织，所以颞部为开颅手术的常用手术入路。颞肌的作用为上提下颌骨以闭口，使牙齿咬合。颞肌还有助于侧方的研磨运动，当下颌骨前伸时，颞肌后部肌纤维收缩可使其后退。 > (2)咬肌呈四边形，由三层构成，其前部三层愈合。浅层最大，以坚强的腱膜起于颧弓下缘的前2／3和颧骨的上颌突，其纤维行向后下方，止于下颌角和下颌支外侧面的下后半。咬肌中层起于颧弓前2／3的内侧面及后1／3的下缘，止于下颌支中份，咬肌深层起于颧弓深面，止于下颌支上份及冠突。中层和深层合称咬肌深部。咬肌的主要作用为上提下颌骨，也可使下颌骨作轻微的侧方、前伸和后退运动。 > (3)翼外肌和翼内肌位于下颌支的内侧，翼外肌起点有两个头，较大的下头起于翼突外侧板的外面，较小的下头起于颞下颌窝和蝶骨大翼的颞下嵴。其纤维向后外止于下颌颈前面的压迹和颞下颌关节囊及关节盘。翼内肌起点位于翼外肌深面，主要起于蝶骨翼突窝，止于下颌支内面后下部的咬肌粗隆。翼内肌协助上提下颌骨，和翼外肌协同作用可使下颌骨前伸，如一侧翼内肌和翼外肌同时收缩，下领骨以对侧的下颌头为垂直轴，可使同侧下颌骨前伸并向对侧运动。两侧肌肉交替收缩，则产生侧向运动，这一运动可磨碎食物。"
+    },
+    {
+      "id": "YD-MJ-095",
+      "type": "essay",
+      "stem": "试述大腿肌的分群、各群肌肉的名称及作用。",
+      "options": null,
+      "answer": "大腿肌位于股骨周围，可分为前群、内侧群和后群。 > 前群包括股四头肌和鞋匠肌。股四头肌：由4个头合成，分别为股直肌、股内侧肌、股外侧肌和股中间肌。股直肌起于髂前下棘，其余3头都起自股骨，股中间肌位于股直肌的深面，4个头向下形成腱，包绕髌骨，继而下延为髌韧带止于胫骨粗隆。作用为伸膝关节，股直肌还有屈髋关节的作用；缝匠肌位于大腿的前面及内侧, 作用为屈髋关节和屈膝关节，并使已屈的膝关节旋内。 > 内侧群位于大腿的内侧，共5块，分层排列：耻骨肌、长收肌、短收肌、大收肌、股薄肌。大腿内侧肌群起自闭孔周围和坐骨结节等骨面，肌群向外下方展开，止于股骨嵴全长；内侧肌群收缩可使髋关节内收，股薄肌还有使膝关节屈曲和旋内的作用。 > 后群位于大腿的后面，共3块：股二头肌、半腱肌和半膜肌。后群的3块肌可屈膝关节、伸髋关节；屈膝时，股二头肌可使小腿旋外，而半腱肌及半膜肌则使小腿旋内。",
+      "explanation": "大腿肌位于股骨周围，可分为前群、内侧群和后群。 > 前群包括股四头肌和鞋匠肌。股四头肌：由4个头合成，分别为股直肌、股内侧肌、股外侧肌和股中间肌。股直肌起于髂前下棘，其余3头都起自股骨，股中间肌位于股直肌的深面，4个头向下形成腱，包绕髌骨，继而下延为髌韧带止于胫骨粗隆。作用为伸膝关节，股直肌还有屈髋关节的作用；缝匠肌位于大腿的前面及内侧, 作用为屈髋关节和屈膝关节，并使已屈的膝关节旋内。 > 内侧群位于大腿的内侧，共5块，分层排列：耻骨肌、长收肌、短收肌、大收肌、股薄肌。大腿内侧肌群起自闭孔周围和坐骨结节等骨面，肌群向外下方展开，止于股骨嵴全长；内侧肌群收缩可使髋关节内收，股薄肌还有使膝关节屈曲和旋内的作用。 > 后群位于大腿的后面，共3块：股二头肌、半腱肌和半膜肌。后群的3块肌可屈膝关节、伸髋关节；屈膝时，股二头肌可使小腿旋外，而半腱肌及半膜肌则使小腿旋内。"
+    },
+    {
+      "id": "YD-MJ-096",
+      "type": "essay",
+      "stem": "试述膈的位置、裂孔和作用。",
+      "options": null,
+      "answer": "膈位于胸、腹腔之间，胸廓下口内面及腰椎前面。膈肌上有三个裂孔：平第12胸椎高度有主动脉裂孔，内有主动脉和胸导管通过；平第10胸椎高度有食管裂孔，内有食管和迷走神经通过；平第8胸椎高度有腔静脉孔，内有下腔静脉通过。膈为呼吸肌，收缩时穹窿顶下降，胸廓的上、下径增加，助吸气。舒张时穹窿顶上升，胸廓的上、下径减小，助呼气。此外，膈与腹肌同时收缩增加腹压，可协助排便、呕吐及分娩等活动。",
+      "explanation": "膈位于胸、腹腔之间，胸廓下口内面及腰椎前面。膈肌上有三个裂孔：平第12胸椎高度有主动脉裂孔，内有主动脉和胸导管通过；平第10胸椎高度有食管裂孔，内有食管和迷走神经通过；平第8胸椎高度有腔静脉孔，内有下腔静脉通过。膈为呼吸肌，收缩时穹窿顶下降，胸廓的上、下径增加，助吸气。舒张时穹窿顶上升，胸廓的上、下径减小，助呼气。此外，膈与腹肌同时收缩增加腹压，可协助排便、呕吐及分娩等活动。"
+    },
+    {
+      "id": "YD-MJ-097",
+      "type": "essay",
+      "stem": "试述运动肩关节的主要肌肉。",
+      "options": null,
+      "answer": "运动肩关节的主要肌肉是：屈：三角肌(前部肌束)、胸大肌、喙肱肌和肱二头肌;伸：三角肌(后部肌束)、背阔肌和大圆肌;内收：胸大肌、背阔肌，肩胛下肌、喙肱肌、大圆肌和肱三头肌长头;旋内：肩胛下肌、胸大肌、背阔肌、大圆肌和三角肌(前部肌束);旋外：冈下肌和小圆肌(三角肌后部肌束)。",
+      "explanation": "运动肩关节的主要肌肉是：屈：三角肌(前部肌束)、胸大肌、喙肱肌和肱二头肌;伸：三角肌(后部肌束)、背阔肌和大圆肌;内收：胸大肌、背阔肌，肩胛下肌、喙肱肌、大圆肌和肱三头肌长头;旋内：肩胛下肌、胸大肌、背阔肌、大圆肌和三角肌(前部肌束);旋外：冈下肌和小圆肌(三角肌后部肌束)。"
+    },
+    {
+      "id": "YD-MJ-098",
+      "type": "essay",
+      "stem": "试述运动拇指的主要肌肉。",
+      "options": null,
+      "answer": "运动拇指的主要肌肉有：屈：拇长屈肌和拇短屈肌；伸：拇长伸肌和拇短伸肌；内收：拇收肌；外展：拇长展肌和拇短展肌；对掌：拇对掌肌。",
+      "explanation": "运动拇指的主要肌肉有：屈：拇长屈肌和拇短屈肌；伸：拇长伸肌和拇短伸肌；内收：拇收肌；外展：拇长展肌和拇短展肌；对掌：拇对掌肌。"
+    },
+    {
+      "id": "YD-MJ-099",
+      "type": "essay",
+      "stem": "试述运动膝关节的主要肌肉。",
+      "options": null,
+      "answer": "运动膝关节的主要肌肉有：屈：半腱肌、半膜肌、股二头肌、腘肌、缝匠肌、股薄肌和腓肠肌；伸：股四头肌；旋内：半腱肌、半膜肌、缝匠肌、股薄肌和腘肌；旋外：股二头肌。",
+      "explanation": "运动膝关节的主要肌肉有：屈：半腱肌、半膜肌、股二头肌、腘肌、缝匠肌、股薄肌和腓肠肌；伸：股四头肌；旋内：半腱肌、半膜肌、缝匠肌、股薄肌和腘肌；旋外：股二头肌。"
+    }
+  ]
+}

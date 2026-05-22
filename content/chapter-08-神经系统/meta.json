@@ -1,0 +1,844 @@
+{
+  "chapterId": "chapter-08",
+  "title": "神经系统",
+  "icon": "🧠",
+  "sections": [
+    {
+      "id": "section-09",
+      "title": "神经系统",
+      "order": 9,
+      "subsections": [
+        {
+          "id": "sub-09-01",
+          "title": "神经系统的分部",
+          "order": 1,
+          "parts": [
+            {
+              "id": "神经系统的分部",
+              "title": "神经系统的分部",
+              "knowledgeId": "ANAT-NER-GEN-001",
+              "importance": 78,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-02",
+          "title": "神经元的构造与分类",
+          "order": 2,
+          "parts": [
+            {
+              "id": "神经元的构造与分类",
+              "title": "神经元的构造与分类",
+              "knowledgeId": "ANAT-NER-GEN-002",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-03",
+          "title": "神经纤维与突触",
+          "order": 3,
+          "parts": [
+            {
+              "id": "神经纤维与突触",
+              "title": "神经纤维与突触",
+              "knowledgeId": "ANAT-NER-GEN-003",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-04",
+          "title": "神经胶质细胞",
+          "order": 4,
+          "parts": [
+            {
+              "id": "神经胶质细胞",
+              "title": "神经胶质细胞",
+              "knowledgeId": "ANAT-NER-GEN-004",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-05",
+          "title": "脊髓的位置与外形",
+          "order": 5,
+          "parts": [
+            {
+              "id": "脊髓的位置与外形",
+              "title": "脊髓的位置与外形",
+              "knowledgeId": "ANAT-NER-SPI-001",
+              "importance": 90,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-06",
+          "title": "脊髓的内部结构",
+          "order": 6,
+          "parts": [
+            {
+              "id": "脊髓的内部结构",
+              "title": "脊髓的内部结构",
+              "knowledgeId": "ANAT-NER-SPI-002",
+              "importance": 90,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-07",
+          "title": "Rexed板层结构",
+          "order": 7,
+          "parts": [
+            {
+              "id": "Rexed板层结构",
+              "title": "Rexed板层结构",
+              "knowledgeId": "ANAT-NER-SPI-003",
+              "importance": 78,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-08",
+          "title": "脊髓的传导束",
+          "order": 8,
+          "parts": [
+            {
+              "id": "脊髓的传导束",
+              "title": "脊髓的传导束",
+              "knowledgeId": "ANAT-NER-SPI-004",
+              "importance": 90,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-09",
+          "title": "脑干的外形",
+          "order": 9,
+          "parts": [
+            {
+              "id": "脑干的外形",
+              "title": "脑干的外形",
+              "knowledgeId": "ANAT-NER-BSM-001",
+              "importance": 88,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-10",
+          "title": "脑神经核",
+          "order": 10,
+          "parts": [
+            {
+              "id": "脑神经核",
+              "title": "脑神经核",
+              "knowledgeId": "ANAT-NER-BSM-002",
+              "importance": 95,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-11",
+          "title": "脑干的白质",
+          "order": 11,
+          "parts": [
+            {
+              "id": "脑干的白质",
+              "title": "脑干的白质",
+              "knowledgeId": "ANAT-NER-BSM-003",
+              "importance": 88,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-12",
+          "title": "脑干网状结构",
+          "order": 12,
+          "parts": [
+            {
+              "id": "脑干网状结构",
+              "title": "脑干网状结构",
+              "knowledgeId": "ANAT-NER-BSM-004",
+              "importance": 88,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-13",
+          "title": "小脑的外形与分叶",
+          "order": 13,
+          "parts": [
+            {
+              "id": "小脑的外形与分叶",
+              "title": "小脑的外形与分叶",
+              "knowledgeId": "ANAT-NER-CER-001",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-14",
+          "title": "小脑的内部结构",
+          "order": 14,
+          "parts": [
+            {
+              "id": "小脑的内部结构",
+              "title": "小脑的内部结构",
+              "knowledgeId": "ANAT-NER-CER-002",
+              "importance": 78,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-15",
+          "title": "小脑的功能",
+          "order": 15,
+          "parts": [
+            {
+              "id": "小脑的功能",
+              "title": "小脑的功能",
+              "knowledgeId": "ANAT-NER-CER-003",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-16",
+          "title": "间脑的分部",
+          "order": 16,
+          "parts": [
+            {
+              "id": "间脑的分部",
+              "title": "间脑的分部",
+              "knowledgeId": "ANAT-NER-DIE-001",
+              "importance": 78,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-17",
+          "title": "背侧丘脑",
+          "order": 17,
+          "parts": [
+            {
+              "id": "背侧丘脑",
+              "title": "背侧丘脑",
+              "knowledgeId": "ANAT-NER-DIE-002",
+              "importance": 78,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-18",
+          "title": "后丘脑与上丘脑",
+          "order": 18,
+          "parts": [
+            {
+              "id": "后丘脑与上丘脑",
+              "title": "后丘脑与上丘脑",
+              "knowledgeId": "ANAT-NER-DIE-003",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-19",
+          "title": "下丘脑",
+          "order": 19,
+          "parts": [
+            {
+              "id": "下丘脑",
+              "title": "下丘脑",
+              "knowledgeId": "ANAT-NER-DIE-004",
+              "importance": 78,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-20",
+          "title": "端脑的外形与分叶",
+          "order": 20,
+          "parts": [
+            {
+              "id": "端脑的外形与分叶",
+              "title": "端脑的外形与分叶",
+              "knowledgeId": "ANAT-NER-TEL-001",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-21",
+          "title": "大脑半球的重要沟回",
+          "order": 21,
+          "parts": [
+            {
+              "id": "大脑半球的重要沟回",
+              "title": "大脑半球的重要沟回",
+              "knowledgeId": "ANAT-NER-TEL-002",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-22",
+          "title": "大脑皮质的功能定位",
+          "order": 22,
+          "parts": [
+            {
+              "id": "大脑皮质的功能定位",
+              "title": "大脑皮质的功能定位",
+              "knowledgeId": "ANAT-NER-TEL-003",
+              "importance": 78,
+              "difficulty": 3,
+              "canTest": "中",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-23",
+          "title": "基底核",
+          "order": 23,
+          "parts": [
+            {
+              "id": "基底核",
+              "title": "基底核",
+              "knowledgeId": "ANAT-NER-TEL-004",
+              "importance": 78,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-24",
+          "title": "内囊",
+          "order": 24,
+          "parts": [
+            {
+              "id": "内囊",
+              "title": "内囊",
+              "knowledgeId": "ANAT-NER-TEL-005",
+              "importance": 92,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-25",
+          "title": "侧脑室与边缘系统",
+          "order": 25,
+          "parts": [
+            {
+              "id": "侧脑室与边缘系统",
+              "title": "侧脑室与边缘系统",
+              "knowledgeId": "ANAT-NER-TEL-006",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-26",
+          "title": "脑神经的分类与分布",
+          "order": 26,
+          "parts": [
+            {
+              "id": "脑神经的分类与分布",
+              "title": "脑神经的分类与分布",
+              "knowledgeId": "ANAT-NER-CRN-001",
+              "importance": 95,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-27",
+          "title": "视神经与眼的运动神经",
+          "order": 27,
+          "parts": [
+            {
+              "id": "视神经与眼的运动神经",
+              "title": "视神经与眼的运动神经",
+              "knowledgeId": "ANAT-NER-CRN-002",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-28",
+          "title": "三叉神经",
+          "order": 28,
+          "parts": [
+            {
+              "id": "三叉神经",
+              "title": "三叉神经",
+              "knowledgeId": "ANAT-NER-CRN-003",
+              "importance": 90,
+              "difficulty": 2,
+              "canTest": "中",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-29",
+          "title": "面神经",
+          "order": 29,
+          "parts": [
+            {
+              "id": "面神经",
+              "title": "面神经",
+              "knowledgeId": "ANAT-NER-CRN-004",
+              "importance": 90,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-30",
+          "title": "舌咽神经与迷走神经",
+          "order": 30,
+          "parts": [
+            {
+              "id": "舌咽神经与迷走神经",
+              "title": "舌咽神经与迷走神经",
+              "knowledgeId": "ANAT-NER-CRN-005",
+              "importance": 92,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-31",
+          "title": "要点详解",
+          "order": 31,
+          "parts": [
+            {
+              "id": "要点",
+              "title": "要点",
+              "knowledgeId": "ANAT-NER-SPN-001",
+              "importance": 78,
+              "difficulty": 2
+            }
+          ]
+        },
+        {
+          "id": "sub-09-32",
+          "title": "颈丛",
+          "order": 32,
+          "parts": [
+            {
+              "id": "颈丛",
+              "title": "颈丛",
+              "knowledgeId": "ANAT-NER-SPN-002",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-33",
+          "title": "臂丛",
+          "order": 33,
+          "parts": [
+            {
+              "id": "臂丛",
+              "title": "臂丛",
+              "knowledgeId": "ANAT-NER-SPN-003",
+              "importance": 88,
+              "difficulty": 2,
+              "canTest": "中",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-34",
+          "title": "正中神经、尺神经与桡神经损伤",
+          "order": 34,
+          "parts": [
+            {
+              "id": "正中神经、尺神经与桡神经损伤",
+              "title": "正中神经、尺神经与桡神经损伤",
+              "knowledgeId": "ANAT-NER-SPN-004",
+              "importance": 78,
+              "difficulty": 3,
+              "canTest": "中",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-35",
+          "title": "胸神经前支与腰丛",
+          "order": 35,
+          "parts": [
+            {
+              "id": "胸神经前支与腰丛",
+              "title": "胸神经前支与腰丛",
+              "knowledgeId": "ANAT-NER-SPN-005",
+              "importance": 85,
+              "difficulty": 2,
+              "canTest": "中",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-36",
+          "title": "骶丛",
+          "order": 36,
+          "parts": [
+            {
+              "id": "骶丛",
+              "title": "骶丛",
+              "knowledgeId": "ANAT-NER-SPN-006",
+              "importance": 85,
+              "difficulty": 2,
+              "canTest": "中",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-37",
+          "title": "坐骨神经损伤与踝反射",
+          "order": 37,
+          "parts": [
+            {
+              "id": "坐骨神经损伤与踝反射",
+              "title": "坐骨神经损伤与踝反射",
+              "knowledgeId": "ANAT-NER-SPN-007",
+              "importance": 90,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-38",
+          "title": "交感神经与副交感神经",
+          "order": 38,
+          "parts": [
+            {
+              "id": "交感神经与副交感神经",
+              "title": "交感神经与副交感神经",
+              "knowledgeId": "ANAT-NER-ANS-001",
+              "importance": 88,
+              "difficulty": 3,
+              "canTest": "中",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-39",
+          "title": "交感神经的分布",
+          "order": 39,
+          "parts": [
+            {
+              "id": "交感神经的分布",
+              "title": "交感神经的分布",
+              "knowledgeId": "ANAT-NER-ANS-002",
+              "importance": 88,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-40",
+          "title": "副交感神经的分布与头颈部的副交感节",
+          "order": 40,
+          "parts": [
+            {
+              "id": "副交感神经的分布与头颈部的副交感节",
+              "title": "副交感神经的分布与头颈部的副交感节",
+              "knowledgeId": "ANAT-NER-ANS-003",
+              "importance": 88,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-41",
+          "title": "感觉传导通路（本体感觉与精细触觉）",
+          "order": 41,
+          "parts": [
+            {
+              "id": "感觉传导通路（本体感觉与精细触觉）",
+              "title": "感觉传导通路（本体感觉与精细触觉）",
+              "knowledgeId": "ANAT-NER-PAT-001",
+              "importance": 78,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-42",
+          "title": "感觉传导通路（痛温觉与粗触觉）",
+          "order": 42,
+          "parts": [
+            {
+              "id": "感觉传导通路（痛温觉与粗触觉）",
+              "title": "感觉传导通路（痛温觉与粗触觉）",
+              "knowledgeId": "ANAT-NER-PAT-002",
+              "importance": 78,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-43",
+          "title": "视觉传导通路",
+          "order": 43,
+          "parts": [
+            {
+              "id": "视觉传导通路",
+              "title": "视觉传导通路",
+              "knowledgeId": "ANAT-NER-PAT-003",
+              "importance": 78,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-44",
+          "title": "锥体系",
+          "order": 44,
+          "parts": [
+            {
+              "id": "锥体系",
+              "title": "锥体系",
+              "knowledgeId": "ANAT-NER-PAT-004",
+              "importance": 78,
+              "difficulty": 3,
+              "canTest": "中",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-45",
+          "title": "锥体外系",
+          "order": 45,
+          "parts": [
+            {
+              "id": "锥体外系",
+              "title": "锥体外系",
+              "knowledgeId": "ANAT-NER-PAT-005",
+              "importance": 78,
+              "difficulty": 3,
+              "canTest": "中",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-46",
+          "title": "脊髓损伤的临床表现",
+          "order": 46,
+          "parts": [
+            {
+              "id": "脊髓损伤的临床表现",
+              "title": "脊髓损伤的临床表现",
+              "knowledgeId": "ANAT-NER-SPI-005",
+              "importance": 90,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-47",
+          "title": "脑干损伤的临床表现",
+          "order": 47,
+          "parts": [
+            {
+              "id": "脑干损伤的临床表现",
+              "title": "脑干损伤的临床表现",
+              "knowledgeId": "ANAT-NER-BSM-005",
+              "importance": 88,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-48",
+          "title": "大脑动脉环（Willis环）",
+          "order": 48,
+          "parts": [
+            {
+              "id": "大脑动脉环（Willis环）",
+              "title": "大脑动脉环（Willis环）",
+              "knowledgeId": "ANAT-NER-TEL-007",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-49",
+          "title": "侧脑室与脑脊液循环",
+          "order": 49,
+          "parts": [
+            {
+              "id": "侧脑室与脑脊液循环",
+              "title": "侧脑室与脑脊液循环",
+              "knowledgeId": "ANAT-NER-TEL-008",
+              "importance": 88,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-50",
+          "title": "前庭蜗神经",
+          "order": 50,
+          "parts": [
+            {
+              "id": "前庭蜗神经",
+              "title": "前庭蜗神经",
+              "knowledgeId": "ANAT-NER-CRN-006",
+              "importance": 78,
+              "difficulty": 3,
+              "canTest": "中",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-51",
+          "title": "交感副交感神经的功能比较",
+          "order": 51,
+          "parts": [
+            {
+              "id": "交感副交感神经的功能比较",
+              "title": "交感副交感神经的功能比较",
+              "knowledgeId": "ANAT-NER-ANS-004",
+              "importance": 88,
+              "difficulty": 3,
+              "canTest": "中",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-09-52",
+          "title": "锥体系与锥体外系的比较",
+          "order": 52,
+          "parts": [
+            {
+              "id": "锥体系与锥体外系的比较",
+              "title": "锥体系与锥体外系的比较",
+              "knowledgeId": "ANAT-NER-PAT-006",
+              "importance": 78,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

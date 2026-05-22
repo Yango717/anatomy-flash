@@ -1,0 +1,22 @@
+@media print {
+  .topbar, .learn-page__action, .quiz-session__nav,
+  .error-item__actions, .btn, .search-overlay, .notes-section__form {
+    display: none !important;
+  }
+
+  body { background: #fff; color: #000; }
+  .page { max-width: 100%; padding: 0; }
+
+  .error-item {
+    break-inside: avoid;
+    border: 1px solid #ccc;
+    margin-bottom: 8px;
+    page-break-inside: avoid;
+  }
+
+  .error-item__wrong { color: #666; }
+  .error-item__correct { color: #000; font-weight: 700; }
+
+  .error-item__explanation { display: block !important; }
+  .error-item__explanation[open] summary { color: #000; }
+}

@@ -1,0 +1,3916 @@
+{
+  "chapterId": "chapter-07",
+  "questions": [
+    {
+      "id": "YD-MC-001",
+      "type": "fill_blank",
+      "stem": "房水由___产生，由后房经___到___最后渗入___。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "睫状体"
+        },
+        {
+          "answer": "瞳孔"
+        },
+        {
+          "answer": "前房"
+        },
+        {
+          "answer": "巩膜静脉窦"
+        }
+      ],
+      "answer": "睫状体、瞳孔、前房、巩膜静脉窦",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-002",
+      "type": "fill_blank",
+      "stem": "虹膜中央有一圆孔，称___，其周围环形排列的平滑肌，称___；呈放射状排列的称___。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "瞳孔"
+        },
+        {
+          "answer": "瞳孔括约肌"
+        },
+        {
+          "answer": "瞳孔开大肌"
+        }
+      ],
+      "answer": "瞳孔、瞳孔括约肌、瞳孔开大肌",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-003",
+      "type": "fill_blank",
+      "stem": "眼球壁的外膜又称___，可分为前1／6的___和后1／6的___。两者交界处深面有一环形的___。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "纤维膜"
+        },
+        {
+          "answer": "角膜"
+        },
+        {
+          "answer": "巩膜"
+        },
+        {
+          "answer": "巩膜静脉窦"
+        }
+      ],
+      "answer": "纤维膜、角膜、巩膜、巩膜静脉窦",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-004",
+      "type": "fill_blank",
+      "stem": "眼球壁内膜为___，由前向后可分为___、___和___三部分，而前两部无感光作用，故称为___。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "视网膜"
+        },
+        {
+          "answer": "虹膜部"
+        },
+        {
+          "answer": "睫状体部"
+        },
+        {
+          "answer": "视部"
+        },
+        {
+          "answer": "盲部"
+        }
+      ],
+      "answer": "视网膜、虹膜部、睫状体部、视部、盲部",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-005",
+      "type": "fill_blank",
+      "stem": "眼球的折光装置由前向后依次有___、___、___和___。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "角膜"
+        },
+        {
+          "answer": "房水"
+        },
+        {
+          "answer": "晶状体"
+        },
+        {
+          "answer": "玻璃体"
+        }
+      ],
+      "answer": "角膜、房水、晶状体、玻璃体",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-006",
+      "type": "fill_blank",
+      "stem": "眼球内容物包括___、___和___。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "房水"
+        },
+        {
+          "answer": "晶状体"
+        },
+        {
+          "answer": "玻璃体"
+        }
+      ],
+      "answer": "房水、晶状体、玻璃体",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-007",
+      "type": "fill_blank",
+      "stem": "结膜按其所在部位可分为三部，即___、___和___。结膜围成腔隙称___，通过___与外界相通。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "球结膜"
+        },
+        {
+          "answer": "睑结膜"
+        },
+        {
+          "answer": "结膜穹窿"
+        },
+        {
+          "answer": "结膜囊"
+        },
+        {
+          "answer": "睑裂"
+        }
+      ],
+      "answer": "球结膜、睑结膜、结膜穹窿、结膜囊、睑裂",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-008",
+      "type": "fill_blank",
+      "stem": "睫状肌由___神经支配，其功能为___。视近物时睫状肌___，睫状小带___，晶状体变___，折光能力___。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "动眼"
+        },
+        {
+          "answer": "调节晶状体凸度"
+        },
+        {
+          "answer": "收缩"
+        },
+        {
+          "answer": "松弛"
+        },
+        {
+          "answer": "凸"
+        },
+        {
+          "answer": "强"
+        }
+      ],
+      "answer": "动眼、调节晶状体凸度、收缩、松弛、凸、强",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-009",
+      "type": "fill_blank",
+      "stem": "晶状体位于___和___之间，晶状体周围部较软称___，中央部较硬称___，外面包有___。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "虹膜"
+        },
+        {
+          "answer": "玻璃体"
+        },
+        {
+          "answer": "晶状体皮质"
+        },
+        {
+          "answer": "晶状体核"
+        },
+        {
+          "answer": "晶状体囊"
+        }
+      ],
+      "answer": "虹膜、玻璃体、晶状体皮质、晶状体核、晶状体囊",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-010",
+      "type": "fill_blank",
+      "stem": "泪道是泪液排泄的通道，由___、___、___和___组成，后者通入鼻腔，开口于___。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "泪点"
+        },
+        {
+          "answer": "泪小管"
+        },
+        {
+          "answer": "泪囊"
+        },
+        {
+          "answer": "鼻泪管"
+        },
+        {
+          "answer": "下鼻道"
+        }
+      ],
+      "answer": "泪点、泪小管、泪囊、鼻泪管、下鼻道",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-011",
+      "type": "fill_blank",
+      "stem": "眼房位于___与___之间，他被___分为前房、后房。房水由___产生，从后房流入前房。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "角膜"
+        },
+        {
+          "answer": "晶状体"
+        },
+        {
+          "answer": "虹膜"
+        },
+        {
+          "answer": "睫状体"
+        }
+      ],
+      "answer": "角膜、晶状体、虹膜、睫状体",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-012",
+      "type": "fill_blank",
+      "stem": "血管膜由后向前可分为___、___和___三部分。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "脉络膜"
+        },
+        {
+          "answer": "睫状体"
+        },
+        {
+          "answer": "虹膜"
+        }
+      ],
+      "answer": "脉络膜、睫状体、虹膜",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-013",
+      "type": "fill_blank",
+      "stem": "眼底镜检查主要可见___、___、___和___。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "视神经盘"
+        },
+        {
+          "answer": "黄斑"
+        },
+        {
+          "answer": "中央凹"
+        },
+        {
+          "answer": "视网膜中央动、静脉"
+        }
+      ],
+      "answer": "视神经盘、黄斑、中央凹、视网膜中央动、静脉",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-014",
+      "type": "fill_blank",
+      "stem": "眼副器包括___、___、___、___以及眶内筋膜和脂肪等。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "眼睑"
+        },
+        {
+          "answer": "结膜"
+        },
+        {
+          "answer": "泪器"
+        },
+        {
+          "answer": "眼球外肌"
+        }
+      ],
+      "answer": "眼睑、结膜、泪器、眼球外肌",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-015",
+      "type": "fill_blank",
+      "stem": "眼睑的结构层次，由外向内分别为___、___、___、___和___。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "皮肤"
+        },
+        {
+          "answer": "皮下组织"
+        },
+        {
+          "answer": "肌层(眼轮匝肌)"
+        },
+        {
+          "answer": "睑板"
+        },
+        {
+          "answer": "结膜"
+        }
+      ],
+      "answer": "皮肤、皮下组织、肌层(眼轮匝肌)、睑板、结膜",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-016",
+      "type": "fill_blank",
+      "stem": "眼内肌有___、___和___，其肌性质属___；眼外肌有___、___、___、___、___、___和___，其肌性质属___。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "睫状肌"
+        },
+        {
+          "answer": "瞳孔括约肌"
+        },
+        {
+          "answer": "瞳孔开大肌"
+        },
+        {
+          "answer": "平滑肌"
+        },
+        {
+          "answer": "外直肌"
+        },
+        {
+          "answer": "上直肌"
+        },
+        {
+          "answer": "内直肌"
+        },
+        {
+          "answer": "下直肌"
+        },
+        {
+          "answer": "上斜肌"
+        },
+        {
+          "answer": "下斜肌"
+        },
+        {
+          "answer": "上睑提肌"
+        },
+        {
+          "answer": "骨骼肌"
+        }
+      ],
+      "answer": "睫状肌、瞳孔括约肌、瞳孔开大肌、平滑肌、外直肌、上直肌、内直肌、下直肌、上斜肌、下斜肌、上睑提肌、骨骼肌",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-017",
+      "type": "fill_blank",
+      "stem": "在视神经盘颞侧约3.5mm处有一黄色小区称___，其中央陷凹称___，是感光最敏锐的部位。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "黄斑"
+        },
+        {
+          "answer": "中央凹"
+        }
+      ],
+      "answer": "黄斑、中央凹",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-018",
+      "type": "fill_blank",
+      "stem": "鼓膜中心部向内陷凹称___，内面有___附着，鼓膜上1/4为___部，下3／4为___部。活体鼓膜前下部有一三角形反光区称___，检查鼓膜时，成人将耳郭向___方向牵拉，小儿耳郭应向___方向牵拉。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "鼓膜脐"
+        },
+        {
+          "answer": "锤骨柄"
+        },
+        {
+          "answer": "松弛"
+        },
+        {
+          "answer": "紧张"
+        },
+        {
+          "answer": "(反射)光锥"
+        },
+        {
+          "answer": "后上方"
+        },
+        {
+          "answer": "后下方"
+        }
+      ],
+      "answer": "鼓膜脐、锤骨柄、松弛、紧张、(反射)光锥、后上方、后下方",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-019",
+      "type": "fill_blank",
+      "stem": "鼓室位于___和___之间，鼓室内有___、___和___三块听小骨与___和___肌以及血管神经。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "外耳"
+        },
+        {
+          "answer": "内耳"
+        },
+        {
+          "answer": "锤骨"
+        },
+        {
+          "answer": "镫骨"
+        },
+        {
+          "answer": "砧骨"
+        },
+        {
+          "answer": "鼓膜张肌"
+        },
+        {
+          "answer": "镫骨"
+        }
+      ],
+      "answer": "外耳、内耳、锤骨、镫骨、砧骨、鼓膜张肌、镫骨",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-020",
+      "type": "fill_blank",
+      "stem": "鼓室前壁为___，此壁上部有___。上壁为___，分隔鼓室与颅___窝。鼓室内侧壁中部隆凸，称岬。岬的后上方有一孔洞称___，为___所封闭，岬的后下方也有一孔称___，活体时被___封闭。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "颈动脉壁"
+        },
+        {
+          "answer": "咽鼓管开口"
+        },
+        {
+          "answer": "鼓室盖(盖壁)"
+        },
+        {
+          "answer": "前庭窗"
+        },
+        {
+          "answer": "镫骨脚"
+        },
+        {
+          "answer": "蜗窗"
+        },
+        {
+          "answer": "第二鼓膜"
+        }
+      ],
+      "answer": "颈动脉壁、咽鼓管开口、鼓室盖(盖壁)、前庭窗、镫骨脚、蜗窗、第二鼓膜",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-021",
+      "type": "fill_blank",
+      "stem": "膜迷路可分为三部，即___、___和___。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "椭圆囊"
+        },
+        {
+          "answer": "球囊"
+        },
+        {
+          "answer": "膜半规管"
+        },
+        {
+          "answer": "蜗管"
+        }
+      ],
+      "answer": "椭圆囊、球囊、膜半规管、蜗管",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-022",
+      "type": "fill_blank",
+      "stem": "内耳蜗管的上壁为___，下壁为___，其上有___为听觉感受器。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "蜗管前庭壁(前庭膜)"
+        },
+        {
+          "answer": "蜗管鼓壁(基底膜)"
+        },
+        {
+          "answer": "螺旋器"
+        }
+      ],
+      "answer": "蜗管前庭壁(前庭膜)、蜗管鼓壁(基底膜)、螺旋器",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-023",
+      "type": "fill_blank",
+      "stem": "内耳由___和___组成，二者之间间隙内充满___。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "骨迷路"
+        },
+        {
+          "answer": "膜迷路"
+        },
+        {
+          "answer": "外淋巴"
+        }
+      ],
+      "answer": "骨迷路、膜迷路、外淋巴",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-024",
+      "type": "fill_blank",
+      "stem": "前庭外侧壁有一孔称___，内侧壁即___，前庭向前与___相连通，后部可通___。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "前庭窗"
+        },
+        {
+          "answer": "内耳道的底"
+        },
+        {
+          "answer": "耳蜗"
+        },
+        {
+          "answer": "三个半规管"
+        }
+      ],
+      "answer": "前庭窗、内耳道的底、耳蜗、三个半规管",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-025",
+      "type": "fill_blank",
+      "stem": "乳突窦是___和___间的小腔，向前开口于___，向后与___相连通。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "鼓室"
+        },
+        {
+          "answer": "乳突小房"
+        },
+        {
+          "answer": "鼓室"
+        },
+        {
+          "answer": "乳突小房"
+        }
+      ],
+      "answer": "鼓室、乳突小房、鼓室、乳突小房",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-026",
+      "type": "fill_blank",
+      "stem": "听觉感受器为___，位觉感受器为___、___和___。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "螺旋器"
+        },
+        {
+          "answer": "椭圆囊斑"
+        },
+        {
+          "answer": "球囊斑"
+        },
+        {
+          "answer": "壶腹嵴"
+        }
+      ],
+      "answer": "螺旋器、椭圆囊斑、球囊斑、壶腹嵴",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-027",
+      "type": "fill_blank",
+      "stem": "外耳道外1／3为___部，内2／3为___部，作外耳道检查时需将耳郭拉向___方，即可拉直外耳道。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "软骨"
+        },
+        {
+          "answer": "骨"
+        },
+        {
+          "answer": "后上"
+        }
+      ],
+      "answer": "软骨、骨、后上",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-028",
+      "type": "fill_blank",
+      "stem": "咽鼓管连通___和___，咽鼓管分为___和___部。小儿咽鼓管的形态较成人___、___和___，故感染易进入鼓室。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "鼓室"
+        },
+        {
+          "answer": "鼻咽部"
+        },
+        {
+          "answer": "骨部"
+        },
+        {
+          "answer": "软骨部"
+        },
+        {
+          "answer": "短"
+        },
+        {
+          "answer": "平"
+        },
+        {
+          "answer": "粗"
+        }
+      ],
+      "answer": "鼓室、鼻咽部、骨部、软骨部、短、平、粗",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-029",
+      "type": "fill_blank",
+      "stem": "中耳包括___、___、___和___。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "鼓室"
+        },
+        {
+          "answer": "咽鼓管"
+        },
+        {
+          "answer": "乳突窦"
+        },
+        {
+          "answer": "乳突小房"
+        }
+      ],
+      "answer": "鼓室、咽鼓管、乳突窦、乳突小房",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MC-030",
+      "type": "fill_blank",
+      "stem": "中耳鼓室的内侧壁为___壁，中部有圆形隆起称___。后壁为___壁，鼓室借乳突窦向后通入___。",
+      "options": null,
+      "blanks": [
+        {
+          "answer": "迷路"
+        },
+        {
+          "answer": "岬"
+        },
+        {
+          "answer": "乳突"
+        },
+        {
+          "answer": "乳突小房"
+        }
+      ],
+      "answer": "迷路、岬、乳突、乳突小房",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-001",
+      "type": "multiple_choice",
+      "stem": "眼球的折光装置依次为",
+      "options": [
+        {
+          "key": "A",
+          "text": "晶状体"
+        },
+        {
+          "key": "B",
+          "text": "角膜、晶状体"
+        },
+        {
+          "key": "C",
+          "text": "角膜、房水、晶状体"
+        },
+        {
+          "key": "D",
+          "text": "角膜、房水、晶状体、玻璃体"
+        },
+        {
+          "key": "E",
+          "text": "角膜、房水、晶状体、玻璃体、视网膜"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-002",
+      "type": "multiple_choice",
+      "stem": "眼轴为",
+      "options": [
+        {
+          "key": "A",
+          "text": "眼球前面正中点和后面正中点的连线"
+        },
+        {
+          "key": "B",
+          "text": "视网膜中央凹到瞳孔中央的连线"
+        },
+        {
+          "key": "C",
+          "text": "眶口正中点与视神经管的连线"
+        },
+        {
+          "key": "D",
+          "text": "角膜正中点与视神经盘正中点的连线"
+        },
+        {
+          "key": "E",
+          "text": "玻璃体中轴的延长线"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-003",
+      "type": "multiple_choice",
+      "stem": "当两眼平视时，若右眼瞳孔转向下外方，可能是哪块眼肌收缩所致?",
+      "options": [
+        {
+          "key": "A",
+          "text": "内直肌"
+        },
+        {
+          "key": "B",
+          "text": "上直肌"
+        },
+        {
+          "key": "C",
+          "text": "上斜肌"
+        },
+        {
+          "key": "D",
+          "text": "下斜肌"
+        },
+        {
+          "key": "E",
+          "text": "外直肌"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-004",
+      "type": "multiple_choice",
+      "stem": "下述何种成分作为耳郭的主要支架?",
+      "options": [
+        {
+          "key": "A",
+          "text": "致密结缔组织"
+        },
+        {
+          "key": "B",
+          "text": "透明软骨"
+        },
+        {
+          "key": "C",
+          "text": "疏松结缔组织"
+        },
+        {
+          "key": "D",
+          "text": "纤维软骨"
+        },
+        {
+          "key": "E",
+          "text": "弹性软骨"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-005",
+      "type": "multiple_choice",
+      "stem": "耳内附有黏膜的结构是",
+      "options": [
+        {
+          "key": "A",
+          "text": "乳突窦"
+        },
+        {
+          "key": "B",
+          "text": "乳突小房"
+        },
+        {
+          "key": "C",
+          "text": "鼓室"
+        },
+        {
+          "key": "D",
+          "text": "咽鼓管"
+        },
+        {
+          "key": "E",
+          "text": "以上都是"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-006",
+      "type": "multiple_choice",
+      "stem": "房水产生于",
+      "options": [
+        {
+          "key": "A",
+          "text": "虹膜"
+        },
+        {
+          "key": "B",
+          "text": "晶状体"
+        },
+        {
+          "key": "C",
+          "text": "睫状体"
+        },
+        {
+          "key": "D",
+          "text": "玻璃体"
+        },
+        {
+          "key": "E",
+          "text": "巩膜静脉窦"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-007",
+      "type": "multiple_choice",
+      "stem": "房水最后回流至",
+      "options": [
+        {
+          "key": "A",
+          "text": "脉络膜"
+        },
+        {
+          "key": "B",
+          "text": "巩膜静脉窦"
+        },
+        {
+          "key": "C",
+          "text": "蛛网膜颗粒"
+        },
+        {
+          "key": "D",
+          "text": "睫状体"
+        },
+        {
+          "key": "E",
+          "text": "以上均不正确"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-008",
+      "type": "multiple_choice",
+      "stem": "巩膜",
+      "options": [
+        {
+          "key": "A",
+          "text": "构成眼球中膜"
+        },
+        {
+          "key": "B",
+          "text": "呈棕黑色"
+        },
+        {
+          "key": "C",
+          "text": "透明"
+        },
+        {
+          "key": "D",
+          "text": "占纤维膜的后5／6"
+        },
+        {
+          "key": "E",
+          "text": "前方与晶状体相连"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-009",
+      "type": "multiple_choice",
+      "stem": "有关巩膜静脉窦正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "位于角膜与虹膜交界处"
+        },
+        {
+          "key": "B",
+          "text": "和眼后房直接相连"
+        },
+        {
+          "key": "C",
+          "text": "位于虹膜与睫状体交界处"
+        },
+        {
+          "key": "D",
+          "text": "是产生房水的部位"
+        },
+        {
+          "key": "E",
+          "text": "又称许莱姆(Schlemm)管"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-010",
+      "type": "multiple_choice",
+      "stem": "有关鼓膜的叙述正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "是外耳道与鼓室之间的椭圆形半透明隔膜"
+        },
+        {
+          "key": "B",
+          "text": "呈向前、向下、向外的位置，与矢状面和水平面各成40°角"
+        },
+        {
+          "key": "C",
+          "text": "前上部较小为松弛部，下部较大为紧张部"
+        },
+        {
+          "key": "D",
+          "text": "凸面对向中耳，中心为鼓膜脐"
+        },
+        {
+          "key": "E",
+          "text": "以上均正确"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-011",
+      "type": "multiple_choice",
+      "stem": "有关鼓室的叙述正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "位于外耳道与内耳道之间，是一密闭的腔"
+        },
+        {
+          "key": "B",
+          "text": "经咽鼓管通咽腔"
+        },
+        {
+          "key": "C",
+          "text": "内侧壁上有听觉感受器"
+        },
+        {
+          "key": "D",
+          "text": "上壁称鼓室盖，与颅后窝毗邻"
+        },
+        {
+          "key": "E",
+          "text": "内有三个半规管和两块小肌肉"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-012",
+      "type": "multiple_choice",
+      "stem": "鼓室的后壁有",
+      "options": [
+        {
+          "key": "A",
+          "text": "乳突窦的开口"
+        },
+        {
+          "key": "B",
+          "text": "咽鼓管的开口"
+        },
+        {
+          "key": "C",
+          "text": "岬"
+        },
+        {
+          "key": "D",
+          "text": "前庭窗"
+        },
+        {
+          "key": "E",
+          "text": "面神经管凸"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-013",
+      "type": "multiple_choice",
+      "stem": "巩膜静脉窦位于",
+      "options": [
+        {
+          "key": "A",
+          "text": "巩膜与角膜交界处"
+        },
+        {
+          "key": "B",
+          "text": "角膜与虹膜交界处"
+        },
+        {
+          "key": "C",
+          "text": "角膜与球结膜结合处"
+        },
+        {
+          "key": "D",
+          "text": "虹膜与睫状体交界处"
+        },
+        {
+          "key": "E",
+          "text": "睫状体和巩膜交界处"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-014",
+      "type": "multiple_choice",
+      "stem": "鼓室的外侧壁为",
+      "options": [
+        {
+          "key": "A",
+          "text": "颈静脉壁"
+        },
+        {
+          "key": "B",
+          "text": "颈动脉壁"
+        },
+        {
+          "key": "C",
+          "text": "鼓膜"
+        },
+        {
+          "key": "D",
+          "text": "鼓室盖"
+        },
+        {
+          "key": "E",
+          "text": "迷路壁"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-015",
+      "type": "multiple_choice",
+      "stem": "鼓室内侧壁上有",
+      "options": [
+        {
+          "key": "A",
+          "text": "咽鼓管半管的开口"
+        },
+        {
+          "key": "B",
+          "text": "乳突窦(鼓窦)开"
+        },
+        {
+          "key": "C",
+          "text": "鼓室盖"
+        },
+        {
+          "key": "D",
+          "text": "鼓室上隐窝"
+        },
+        {
+          "key": "E",
+          "text": "面神经管凸"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-016",
+      "type": "multiple_choice",
+      "stem": "关于房水的描述，错误的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "充满于角膜与晶状体之间腔隙中"
+        },
+        {
+          "key": "B",
+          "text": "有维持眼内压的作用"
+        },
+        {
+          "key": "C",
+          "text": "除屈光作用外，还有营养角膜和晶状体的作用"
+        },
+        {
+          "key": "D",
+          "text": "其循环途径是眼后房→瞳孔→虹膜角膜角→前房→巩膜静脉窦,最后汇入眼静脉"
+        },
+        {
+          "key": "E",
+          "text": "房水产生过多或循环受阻,可导致青光眼"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-017",
+      "type": "multiple_choice",
+      "stem": "关于屈光装置的描述中，何者是错误的？",
+      "options": [
+        {
+          "key": "A",
+          "text": "屈光装置包括角膜、房水、晶状体、玻璃体"
+        },
+        {
+          "key": "B",
+          "text": "外界物体经屈光装置在视网膜上成像称正视"
+        },
+        {
+          "key": "C",
+          "text": "若眼轴过长，物像落在视网膜后方称近视"
+        },
+        {
+          "key": "D",
+          "text": "矫正近视需戴凹透镜"
+        },
+        {
+          "key": "E",
+          "text": "角膜表面曲度改变造成散光"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-018",
+      "type": "multiple_choice",
+      "stem": "关于外耳道描述中，错误的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "是外耳门至鼓膜的管道"
+        },
+        {
+          "key": "B",
+          "text": "外2／3为软骨部，内1／3为骨部"
+        },
+        {
+          "key": "C",
+          "text": "为一弯曲管道，从外向内为：前上→向后→前下"
+        },
+        {
+          "key": "D",
+          "text": "作检查时需向后上方牵拉耳郭"
+        },
+        {
+          "key": "E",
+          "text": "婴儿骨部和软骨部发育未完全，故检查时须将耳郭向后下方牵拉"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-019",
+      "type": "multiple_choice",
+      "stem": "有关鼓室的描述中，正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "是颞骨岩部内与外界不通的小腔"
+        },
+        {
+          "key": "B",
+          "text": "下壁为乳突壁"
+        },
+        {
+          "key": "C",
+          "text": "位于外耳与颅后窝之间"
+        },
+        {
+          "key": "D",
+          "text": "内有2块听小骨、3块听小肌"
+        },
+        {
+          "key": "E",
+          "text": "外侧壁主要由鼓膜构成"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-020",
+      "type": "multiple_choice",
+      "stem": "关于咽鼓管描述中，错误的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "连通鼓室和鼻咽部"
+        },
+        {
+          "key": "B",
+          "text": "咽鼓管使鼓室和外界大气压相等"
+        },
+        {
+          "key": "C",
+          "text": "分为外侧份的软骨部和内侧份的骨部"
+        },
+        {
+          "key": "D",
+          "text": "幼儿的咽鼓管较成人的短、平、粗"
+        },
+        {
+          "key": "E",
+          "text": "咽鼓管咽口位于鼻咽部的侧壁,鼓室口开口于鼓室的前壁"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-021",
+      "type": "multiple_choice",
+      "stem": "关于中耳鼓室壁的描述中，错误的为",
+      "options": [
+        {
+          "key": "A",
+          "text": "上壁为鼓室盖，分隔鼓室与颅中窝"
+        },
+        {
+          "key": "B",
+          "text": "后壁为乳突壁"
+        },
+        {
+          "key": "C",
+          "text": "内侧壁也叫迷路壁"
+        },
+        {
+          "key": "D",
+          "text": "外侧壁为鼓膜"
+        },
+        {
+          "key": "E",
+          "text": "前壁为颈静脉壁"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-022",
+      "type": "multiple_choice",
+      "stem": "不属于骨迷路的结构是",
+      "options": [
+        {
+          "key": "A",
+          "text": "前庭"
+        },
+        {
+          "key": "B",
+          "text": "耳蜗"
+        },
+        {
+          "key": "C",
+          "text": "骨半规管"
+        },
+        {
+          "key": "D",
+          "text": "蜗轴"
+        },
+        {
+          "key": "E",
+          "text": "蜗管"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-023",
+      "type": "multiple_choice",
+      "stem": "不属于位觉感受器的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "椭圆囊斑"
+        },
+        {
+          "key": "B",
+          "text": "球囊斑"
+        },
+        {
+          "key": "C",
+          "text": "壶腹嵴"
+        },
+        {
+          "key": "D",
+          "text": "螺旋器"
+        },
+        {
+          "key": "E",
+          "text": "以上均不对"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-024",
+      "type": "multiple_choice",
+      "stem": "黄斑",
+      "options": [
+        {
+          "key": "A",
+          "text": "位于视神经乳头(盘)颞侧约3.5 mm处"
+        },
+        {
+          "key": "B",
+          "text": "中央有视网膜中央动脉穿出"
+        },
+        {
+          "key": "C",
+          "text": "其中央凹陷称中央凹,感光作用最敏锐，但无辨色能力"
+        },
+        {
+          "key": "D",
+          "text": "此处无感光细胞，称为生理性盲点"
+        },
+        {
+          "key": "E",
+          "text": "视网膜节细胞轴突由此向后穿出眼球壁"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-025",
+      "type": "multiple_choice",
+      "stem": "结膜",
+      "options": [
+        {
+          "key": "A",
+          "text": "为一层薄而不透明的黏膜"
+        },
+        {
+          "key": "B",
+          "text": "位于角膜和巩膜的外面"
+        },
+        {
+          "key": "C",
+          "text": "位于眼睑的后面和眼球的前面"
+        },
+        {
+          "key": "D",
+          "text": "结膜囊不与外界相通"
+        },
+        {
+          "key": "E",
+          "text": "以上均不正确"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-026",
+      "type": "multiple_choice",
+      "stem": "晶状体位于",
+      "options": [
+        {
+          "key": "A",
+          "text": "虹膜与睫状体之间"
+        },
+        {
+          "key": "B",
+          "text": "虹膜与睫状小带之间"
+        },
+        {
+          "key": "C",
+          "text": "虹膜与玻璃体之间"
+        },
+        {
+          "key": "D",
+          "text": "虹膜与角膜之间"
+        },
+        {
+          "key": "E",
+          "text": "角膜与玻璃体之间"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-027",
+      "type": "multiple_choice",
+      "stem": "泪液在泪道内流通的途径为",
+      "options": [
+        {
+          "key": "A",
+          "text": "泪点→泪囊→泪小管→鼻泪管→鼻腔"
+        },
+        {
+          "key": "B",
+          "text": "泪囊→泪小管→泪点→鼻泪管→鼻腔"
+        },
+        {
+          "key": "C",
+          "text": "泪点→泪小管→泪囊→鼻泪管→鼻腔"
+        },
+        {
+          "key": "D",
+          "text": "泪囊→泪点→泪小管→鼻泪管→鼻腔"
+        },
+        {
+          "key": "E",
+          "text": "泪小管→泪点→泪囊→鼻泪管→鼻腔"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-028",
+      "type": "multiple_choice",
+      "stem": "前庭阶和鼓阶借何结构相通",
+      "options": [
+        {
+          "key": "A",
+          "text": "蜗孔"
+        },
+        {
+          "key": "B",
+          "text": "蜗管"
+        },
+        {
+          "key": "C",
+          "text": "蜗窗"
+        },
+        {
+          "key": "D",
+          "text": "前庭窗"
+        },
+        {
+          "key": "E",
+          "text": "联合管"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-029",
+      "type": "multiple_choice",
+      "stem": "乳突窦",
+      "options": [
+        {
+          "key": "A",
+          "text": "是鼓室与乳突小房间的小腔"
+        },
+        {
+          "key": "B",
+          "text": "向前开口于鼓室"
+        },
+        {
+          "key": "C",
+          "text": "向后与乳突小房相连通"
+        },
+        {
+          "key": "D",
+          "text": "内衬以黏膜，且与鼓室黏膜相连续"
+        },
+        {
+          "key": "E",
+          "text": "以上均正确"
+        }
+      ],
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-030",
+      "type": "multiple_choice",
+      "stem": "上斜肌可使瞳孔转向",
+      "options": [
+        {
+          "key": "A",
+          "text": "上外方"
+        },
+        {
+          "key": "B",
+          "text": "下外方"
+        },
+        {
+          "key": "C",
+          "text": "上方"
+        },
+        {
+          "key": "D",
+          "text": "下方"
+        },
+        {
+          "key": "E",
+          "text": "外侧"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-031",
+      "type": "multiple_choice",
+      "stem": "上直肌收缩时，瞳孔转向",
+      "options": [
+        {
+          "key": "A",
+          "text": "上内"
+        },
+        {
+          "key": "B",
+          "text": "下内"
+        },
+        {
+          "key": "C",
+          "text": "上外"
+        },
+        {
+          "key": "D",
+          "text": "下外"
+        },
+        {
+          "key": "E",
+          "text": "外"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-032",
+      "type": "multiple_choice",
+      "stem": "声波从外耳道传至耳内，其传导的途径是",
+      "options": [
+        {
+          "key": "A",
+          "text": "鼓膜→听骨链→蜗窗"
+        },
+        {
+          "key": "B",
+          "text": "鼓膜→听骨链→前庭窗"
+        },
+        {
+          "key": "C",
+          "text": "鼓膜→中耳→耳蜗→内耳"
+        },
+        {
+          "key": "D",
+          "text": "鼓膜→外耳道→听骨链→内耳"
+        },
+        {
+          "key": "E",
+          "text": "鼓膜→听骨链→半规管"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-033",
+      "type": "multiple_choice",
+      "stem": "有关视神经盘的叙述正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "为调节视力的重要结构"
+        },
+        {
+          "key": "B",
+          "text": "为视锥、视杆细胞集中处"
+        },
+        {
+          "key": "C",
+          "text": "为视网膜节细胞的轴突集中处"
+        },
+        {
+          "key": "D",
+          "text": "为感光最敏感的部位"
+        },
+        {
+          "key": "E",
+          "text": "中央有一陷凹称为中央凹"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-034",
+      "type": "multiple_choice",
+      "stem": "视网膜中央动脉发自",
+      "options": [
+        {
+          "key": "A",
+          "text": "内眦动脉"
+        },
+        {
+          "key": "B",
+          "text": "大脑前动脉"
+        },
+        {
+          "key": "C",
+          "text": "大脑中动脉"
+        },
+        {
+          "key": "D",
+          "text": "眼动脉"
+        },
+        {
+          "key": "E",
+          "text": "上颌动脉"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-035",
+      "type": "multiple_choice",
+      "stem": "瞳孔大小的变化",
+      "options": [
+        {
+          "key": "A",
+          "text": "随光线强弱而变化"
+        },
+        {
+          "key": "B",
+          "text": "随眼压高低而变化"
+        },
+        {
+          "key": "C",
+          "text": "随晶状体凸度变化而变化"
+        },
+        {
+          "key": "D",
+          "text": "取决于房水循环的通畅与否"
+        },
+        {
+          "key": "E",
+          "text": "由睫状肌舒缩来调节"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-036",
+      "type": "multiple_choice",
+      "stem": "有关视神经盘(视神经乳头)的叙述正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "位于眼球后极"
+        },
+        {
+          "key": "B",
+          "text": "位于黄斑颞侧稍下方区域"
+        },
+        {
+          "key": "C",
+          "text": "此处无感光细胞，称生理性盲点"
+        },
+        {
+          "key": "D",
+          "text": "是视力最敏锐的部位"
+        },
+        {
+          "key": "E",
+          "text": "以上均不正确"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-037",
+      "type": "multiple_choice",
+      "stem": "外淋巴位于",
+      "options": [
+        {
+          "key": "A",
+          "text": "骨迷路与颞骨骨质之间"
+        },
+        {
+          "key": "B",
+          "text": "中耳鼓室与内耳外侧壁之间"
+        },
+        {
+          "key": "C",
+          "text": "蜗管与椭圆球囊管内"
+        },
+        {
+          "key": "D",
+          "text": "骨迷路与膜迷路之间"
+        },
+        {
+          "key": "E",
+          "text": "膜迷路内"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-038",
+      "type": "multiple_choice",
+      "stem": "下列关于鼓膜的描述中，错误的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "位于鼓室和外耳道之间"
+        },
+        {
+          "key": "B",
+          "text": "与外耳道底垂直"
+        },
+        {
+          "key": "C",
+          "text": "为鼓室的外侧壁"
+        },
+        {
+          "key": "D",
+          "text": "其前下方有一三角形反光区称光锥"
+        },
+        {
+          "key": "E",
+          "text": "其上1／4称为松弛部，薄而松弛"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-039",
+      "type": "multiple_choice",
+      "stem": "关于内耳描述中，何者是对的？",
+      "options": [
+        {
+          "key": "A",
+          "text": "前庭阶和鼓阶内的淋巴互不相通"
+        },
+        {
+          "key": "B",
+          "text": "三个骨半规管通过5个孔开口于前庭后部"
+        },
+        {
+          "key": "C",
+          "text": "前外侧半规管的壶腹脚合成一个总骨脚"
+        },
+        {
+          "key": "D",
+          "text": "壶腹嵴位于骨半规管单骨脚内"
+        },
+        {
+          "key": "E",
+          "text": "蜗管可在蜗顶处借蜗孔与前庭阶相通"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-040",
+      "type": "multiple_choice",
+      "stem": "下列结构中，为听觉感受器的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "椭圆囊斑、球囊斑"
+        },
+        {
+          "key": "B",
+          "text": "壶腹嵴"
+        },
+        {
+          "key": "C",
+          "text": "螺旋器（Corti器）"
+        },
+        {
+          "key": "D",
+          "text": "耳蜗"
+        },
+        {
+          "key": "E",
+          "text": "蜗神经"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-041",
+      "type": "multiple_choice",
+      "stem": "咽鼓管鼓口开口于鼓室的",
+      "options": [
+        {
+          "key": "A",
+          "text": "上壁"
+        },
+        {
+          "key": "B",
+          "text": "下壁"
+        },
+        {
+          "key": "C",
+          "text": "前壁"
+        },
+        {
+          "key": "D",
+          "text": "后壁"
+        },
+        {
+          "key": "E",
+          "text": "内侧壁"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-042",
+      "type": "multiple_choice",
+      "stem": "下列瞳孔大小的调节, 正确的为",
+      "options": [
+        {
+          "key": "A",
+          "text": "远视时瞳孔缩小"
+        },
+        {
+          "key": "B",
+          "text": "强光时瞳孔开大"
+        },
+        {
+          "key": "C",
+          "text": "受中脑内动眼神经副核控制"
+        },
+        {
+          "key": "D",
+          "text": "交感神经兴奋瞳孔括约肌,使瞳孔缩小"
+        },
+        {
+          "key": "E",
+          "text": "副交感神经兴奋瞳孔开大肌,使瞳孔开大"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-043",
+      "type": "multiple_choice",
+      "stem": "属于膜迷路的结构是：",
+      "options": [
+        {
+          "key": "A",
+          "text": "蜗螺旋管"
+        },
+        {
+          "key": "B",
+          "text": "骨半规管"
+        },
+        {
+          "key": "C",
+          "text": "耳蜗"
+        },
+        {
+          "key": "D",
+          "text": "球囊"
+        },
+        {
+          "key": "E",
+          "text": "前庭阶"
+        }
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-044",
+      "type": "multiple_choice",
+      "stem": "眼后房是指",
+      "options": [
+        {
+          "key": "A",
+          "text": "角膜与晶状体之间腔隙"
+        },
+        {
+          "key": "B",
+          "text": "角膜与虹膜之间腔隙"
+        },
+        {
+          "key": "C",
+          "text": "虹膜与晶状体之间腔隙"
+        },
+        {
+          "key": "D",
+          "text": "虹膜与玻璃体之间腔隙"
+        },
+        {
+          "key": "E",
+          "text": "玻璃体与睫状体之间的间隙"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-045",
+      "type": "multiple_choice",
+      "stem": "有关房水循环的描述中，错误的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "房水由晶状体产生"
+        },
+        {
+          "key": "B",
+          "text": "自眼后房经瞳孔流入眼前房"
+        },
+        {
+          "key": "C",
+          "text": "在虹膜角膜角处渗透进入虹膜静脉窦"
+        },
+        {
+          "key": "D",
+          "text": "有折光作用"
+        },
+        {
+          "key": "E",
+          "text": "还具有营养角膜和晶状体以及维持眼内压作用"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-046",
+      "type": "multiple_choice",
+      "stem": "与鼓室相通的管道是",
+      "options": [
+        {
+          "key": "A",
+          "text": "外耳道"
+        },
+        {
+          "key": "B",
+          "text": "内耳道"
+        },
+        {
+          "key": "C",
+          "text": "咽鼓管"
+        },
+        {
+          "key": "D",
+          "text": "颈动脉管"
+        },
+        {
+          "key": "E",
+          "text": "蜗管"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-047",
+      "type": "multiple_choice",
+      "stem": "有关中耳鼓室的叙述正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "向前借咽鼓管与口咽部相通"
+        },
+        {
+          "key": "B",
+          "text": "向后经乳突窦与乳突小房连通"
+        },
+        {
+          "key": "C",
+          "text": "向内与内耳道相通"
+        },
+        {
+          "key": "D",
+          "text": "向外与外耳道相连通"
+        },
+        {
+          "key": "E",
+          "text": "向上与颅中窝相连通"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-048",
+      "type": "multiple_choice",
+      "stem": "属眼球壁中膜的结构是",
+      "options": [
+        {
+          "key": "A",
+          "text": "角膜"
+        },
+        {
+          "key": "B",
+          "text": "视网膜"
+        },
+        {
+          "key": "C",
+          "text": "虹膜"
+        },
+        {
+          "key": "D",
+          "text": "巩膜"
+        },
+        {
+          "key": "E",
+          "text": "结膜"
+        }
+      ],
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-049",
+      "type": "multiple_choice",
+      "stem": "咽鼓管连通",
+      "options": [
+        {
+          "key": "A",
+          "text": "鼓室与鼻咽部"
+        },
+        {
+          "key": "B",
+          "text": "鼓室与口咽部"
+        },
+        {
+          "key": "C",
+          "text": "鼓室与喉咽部"
+        },
+        {
+          "key": "D",
+          "text": "鼓室与咽隐窝"
+        },
+        {
+          "key": "E",
+          "text": "鼓室与外耳道"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-050",
+      "type": "multiple_choice",
+      "stem": "属于眼球外膜的结构有",
+      "options": [
+        {
+          "key": "A",
+          "text": "角膜、虹膜"
+        },
+        {
+          "key": "B",
+          "text": "角膜、巩膜"
+        },
+        {
+          "key": "C",
+          "text": "角膜、结膜"
+        },
+        {
+          "key": "D",
+          "text": "巩膜、脉络膜"
+        },
+        {
+          "key": "E",
+          "text": "结膜、巩膜"
+        }
+      ],
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-051",
+      "type": "multiple_choice",
+      "stem": "组成膜迷路的结构有",
+      "options": [
+        {
+          "key": "A",
+          "text": "椭圆囊、球囊、膜半规管和蜗管"
+        },
+        {
+          "key": "B",
+          "text": "椭圆囊、球囊、壶腹嵴和蜗管"
+        },
+        {
+          "key": "C",
+          "text": "椭圆囊、壶腹嵴、膜半规管和螺旋器"
+        },
+        {
+          "key": "D",
+          "text": "椭圆囊、膜壶腹、蜗管和螺旋器"
+        },
+        {
+          "key": "E",
+          "text": "椭圆囊斑、壶腹嵴、膜半规管和蜗管"
+        }
+      ],
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-052",
+      "type": "multi_select",
+      "stem": "有关鼻泪管的叙述正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "是鼻腔和泪腺连通的膜性管道"
+        },
+        {
+          "key": "B",
+          "text": "向上通泪囊，向下通下鼻道"
+        },
+        {
+          "key": "C",
+          "text": "上部包藏于骨性鼻泪管中，与骨膜紧密相连"
+        },
+        {
+          "key": "D",
+          "text": "开口于上鼻道外侧壁粘膜内"
+        },
+        {
+          "key": "E",
+          "text": "属于泪道的一部分"
+        }
+      ],
+      "answer": "ABCE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-053",
+      "type": "multi_select",
+      "stem": "有关房水的叙述正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "由晶状体产生"
+        },
+        {
+          "key": "B",
+          "text": "对角膜和晶状体有营养作用"
+        },
+        {
+          "key": "C",
+          "text": "回流受阻时，可使眼压升高"
+        },
+        {
+          "key": "D",
+          "text": "为眼球屈光装置之一"
+        },
+        {
+          "key": "E",
+          "text": "由眼前房经瞳孔至眼后房流入巩膜静脉窦"
+        }
+      ],
+      "answer": "BCD",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-054",
+      "type": "multi_select",
+      "stem": "有关鼓膜的叙述正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "为位于外耳道与鼓室之间椭圆形半透明薄膜"
+        },
+        {
+          "key": "B",
+          "text": "外侧面向前、下、外倾斜"
+        },
+        {
+          "key": "C",
+          "text": "中心向内陷凹，称鼓膜脐"
+        },
+        {
+          "key": "D",
+          "text": "上1／4为松弛部，下3／4为紧张部"
+        },
+        {
+          "key": "E",
+          "text": "前下方有一三角形反光区称光锥,鼓膜内陷时在其前下方可见三角形光锥"
+        }
+      ],
+      "answer": "ABCD",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-055",
+      "type": "multi_select",
+      "stem": "有关鼓室的叙述正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "上壁为盖壁，分隔鼓室与颅中窝"
+        },
+        {
+          "key": "B",
+          "text": "下壁为颈静脉壁"
+        },
+        {
+          "key": "C",
+          "text": "前壁为颈动脉壁，上方有咽鼓管开口"
+        },
+        {
+          "key": "D",
+          "text": "外侧壁为鼓膜"
+        },
+        {
+          "key": "E",
+          "text": "中耳鼓室有炎症时，可侵及乳突小房、鼓膜及面神经"
+        }
+      ],
+      "answer": "ABCDE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-056",
+      "type": "multi_select",
+      "stem": "有关鼓室内侧壁的描述正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "是内耳外壁，也叫迷路壁"
+        },
+        {
+          "key": "B",
+          "text": "此壁中部隆凸，称岬"
+        },
+        {
+          "key": "C",
+          "text": "岬的后上方有前庭窗,为第二鼓膜封闭"
+        },
+        {
+          "key": "D",
+          "text": "岬的后下方有圆形的蜗窗"
+        },
+        {
+          "key": "E",
+          "text": "前庭窗后上方的弓形隆起为面神经管凸,内有展神经通过"
+        }
+      ],
+      "answer": "ABCD",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-057",
+      "type": "multi_select",
+      "stem": "有关角膜的描述正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "占外膜的前1／6"
+        },
+        {
+          "key": "B",
+          "text": "无色透明"
+        },
+        {
+          "key": "C",
+          "text": "曲度较大，有屈光作用"
+        },
+        {
+          "key": "D",
+          "text": "有毛细淋巴管但无毛细血管"
+        },
+        {
+          "key": "E",
+          "text": "有丰富的感觉神经末梢"
+        }
+      ],
+      "answer": "ABCE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-058",
+      "type": "multi_select",
+      "stem": "关于脉络膜的描述正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "为中膜的后1／3部分"
+        },
+        {
+          "key": "B",
+          "text": "无神经但含有丰富的血管和黑色素"
+        },
+        {
+          "key": "C",
+          "text": "内面紧贴视网膜色素层"
+        },
+        {
+          "key": "D",
+          "text": "外面与巩膜疏松结合"
+        },
+        {
+          "key": "E",
+          "text": "有输送营养物质及吸收眼内分散光线的作用"
+        }
+      ],
+      "answer": "CDE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-059",
+      "type": "multi_select",
+      "stem": "关于虹膜的描述正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "位于中膜的最前部，呈圆盘状"
+        },
+        {
+          "key": "B",
+          "text": "内含有瞳孔括约肌和瞳孔开大肌"
+        },
+        {
+          "key": "C",
+          "text": "瞳孔开大肌受副交感神经支配"
+        },
+        {
+          "key": "D",
+          "text": "瞳孔括约肌受交感神经支配"
+        },
+        {
+          "key": "E",
+          "text": "瞳孔可随光线的强、弱和视物体的近、远而缩小和开大"
+        }
+      ],
+      "answer": "ABE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-060",
+      "type": "multi_select",
+      "stem": "关于晶状体的叙述,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "位于虹膜与玻璃体之间"
+        },
+        {
+          "key": "B",
+          "text": "呈双凸透镜状，前面较后面凸隆"
+        },
+        {
+          "key": "C",
+          "text": "无色透明，不含血管、神经"
+        },
+        {
+          "key": "D",
+          "text": "当睫状肌收缩时，睫状小带收缩，晶状体曲度减少"
+        },
+        {
+          "key": "E",
+          "text": "晶状体因病变混浊，称为白内障"
+        }
+      ],
+      "answer": "ACE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-061",
+      "type": "multi_select",
+      "stem": "关于眼球壁的描述,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "角膜无血管，但有丰富的神经末梢"
+        },
+        {
+          "key": "B",
+          "text": "睫状肌舒缩，可调节角膜凸度"
+        },
+        {
+          "key": "C",
+          "text": "视神经盘处无感光作用，故又称盲点"
+        },
+        {
+          "key": "D",
+          "text": "视网膜盲部专指视网膜睫状体部"
+        },
+        {
+          "key": "E",
+          "text": "黄斑中央凹是视力最敏锐部位"
+        }
+      ],
+      "answer": "ACE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-062",
+      "type": "multi_select",
+      "stem": "关于黄斑的描述正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "为视神经的起始部"
+        },
+        {
+          "key": "B",
+          "text": "位于视神经盘外侧稍下方(约3.5 mm)"
+        },
+        {
+          "key": "C",
+          "text": "视网膜中央动、静脉由此穿行"
+        },
+        {
+          "key": "D",
+          "text": "其中央有一陷凹称中央凹,是感光最敏锐部位"
+        },
+        {
+          "key": "E",
+          "text": "活体时用眼底镜检查时可见到"
+        }
+      ],
+      "answer": "BDE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-063",
+      "type": "multi_select",
+      "stem": "关于结膜的描述正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "球结膜分布于角膜与巩膜前部表面"
+        },
+        {
+          "key": "B",
+          "text": "睑结膜紧贴于睑板后面"
+        },
+        {
+          "key": "C",
+          "text": "结膜囊由结膜围成囊状腔隙"
+        },
+        {
+          "key": "D",
+          "text": "泪腺排泄管开口于结膜上穹内侧部"
+        },
+        {
+          "key": "E",
+          "text": "为一层薄而透明的黏膜，富有血管"
+        }
+      ],
+      "answer": "BCE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-064",
+      "type": "multi_select",
+      "stem": "关于视网膜的描述正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "外层为色素上皮层，内层为神经细胞层"
+        },
+        {
+          "key": "B",
+          "text": "其睫状体部和虹膜部无感光作用，称盲部"
+        },
+        {
+          "key": "C",
+          "text": "视网膜的内、外层结合的十分紧密，不易分离"
+        },
+        {
+          "key": "D",
+          "text": "视神经盘的中央凹陷称为中央凹"
+        },
+        {
+          "key": "E",
+          "text": "中央凹是感光最敏锐的部位"
+        }
+      ],
+      "answer": "ABE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-065",
+      "type": "multi_select",
+      "stem": "下列关于房水的描述,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "是只存在于眼前房内的无色透明液体    B，由睫状体分泌产生"
+        },
+        {
+          "key": "C",
+          "text": "经前房角渗入巩膜静脉窦"
+        },
+        {
+          "key": "D",
+          "text": "属折光系统的一部分"
+        },
+        {
+          "key": "E",
+          "text": "有营养角膜、晶状体和维持眼内压的作用"
+        }
+      ],
+      "answer": "BCDE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-066",
+      "type": "multi_select",
+      "stem": "下列关于晶状体的描述,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "位于虹膜与玻璃体之间"
+        },
+        {
+          "key": "B",
+          "text": "呈双凸透镜状，且后面较前面隆凸"
+        },
+        {
+          "key": "C",
+          "text": "为五色透明状，有良好的弹性"
+        },
+        {
+          "key": "D",
+          "text": "为眼内折光系统的重要结构之一"
+        },
+        {
+          "key": "E",
+          "text": "创伤后变混浊，称为青光眼"
+        }
+      ],
+      "answer": "ABCD",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-067",
+      "type": "multi_select",
+      "stem": "下列有关内耳的描述,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "由骨迷路、膜迷路和前庭组成"
+        },
+        {
+          "key": "B",
+          "text": "膜迷路管腔内充满内淋巴"
+        },
+        {
+          "key": "C",
+          "text": "骨迷路与膜迷路间充满外淋巴"
+        },
+        {
+          "key": "D",
+          "text": "壶腹嵴可感受旋转变速运动的刺激"
+        },
+        {
+          "key": "E",
+          "text": "椭圆囊斑和球囊魔可感受直线变速运动的刺激"
+        }
+      ],
+      "answer": "BCDE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-068",
+      "type": "multi_select",
+      "stem": "与声波传导有关的结构是",
+      "options": [
+        {
+          "key": "A",
+          "text": "鼓膜"
+        },
+        {
+          "key": "B",
+          "text": "听小骨"
+        },
+        {
+          "key": "C",
+          "text": "耳郭"
+        },
+        {
+          "key": "D",
+          "text": "内、外淋巴液"
+        },
+        {
+          "key": "E",
+          "text": "颅骨"
+        }
+      ],
+      "answer": "ABCDE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-069",
+      "type": "multi_select",
+      "stem": "有关内耳的描述,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "在颞骨岩部骨质内，位于鼓室与内耳道底之间"
+        },
+        {
+          "key": "B",
+          "text": "包括骨迷路和膜迷路"
+        },
+        {
+          "key": "C",
+          "text": "膜迷路内有听觉、位置觉感受器"
+        },
+        {
+          "key": "D",
+          "text": "膜迷路与骨迷路间有外淋巴,膜迷路内有内淋巴，内、外淋巴互相交通"
+        },
+        {
+          "key": "E",
+          "text": "骨迷路内有前、后、外三个半规管"
+        }
+      ],
+      "answer": "ABCE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-070",
+      "type": "multi_select",
+      "stem": "下列有关乳突窦的描述,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "是鼓室和乳突小房间的小腔"
+        },
+        {
+          "key": "B",
+          "text": "向前开口于鼓室"
+        },
+        {
+          "key": "C",
+          "text": "向后与乳突小房相连通"
+        },
+        {
+          "key": "D",
+          "text": "为中耳鼓室的后壁"
+        },
+        {
+          "key": "E",
+          "text": "内衬以黏膜，且与鼓室黏膜相连续"
+        }
+      ],
+      "answer": "ABCE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-071",
+      "type": "multi_select",
+      "stem": "下列有关外耳道的描述,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "是外耳门至鼓膜的管道"
+        },
+        {
+          "key": "B",
+          "text": "外1／3为软骨部，内2／3为骨部"
+        },
+        {
+          "key": "C",
+          "text": "为一弯曲管道，故作外耳道检查时，向后上方牵拉耳郭可使外耳道变直"
+        },
+        {
+          "key": "D",
+          "text": "婴儿外耳道短而狭窄，故鼓膜位置近垂直位"
+        },
+        {
+          "key": "E",
+          "text": "外耳道软骨部有可动性"
+        }
+      ],
+      "answer": "ABCE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-072",
+      "type": "multi_select",
+      "stem": "下列有关咽鼓管的描述,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "咽鼓管咽口位于鼻咽部的侧壁"
+        },
+        {
+          "key": "B",
+          "text": "咽鼓管鼓室口开口于鼓室的后壁"
+        },
+        {
+          "key": "C",
+          "text": "咽鼓管分为外侧的骨部和内侧的软骨部"
+        },
+        {
+          "key": "D",
+          "text": "成人咽鼓管比幼儿相对较大而平,所以成人易患中耳炎"
+        },
+        {
+          "key": "E",
+          "text": "连通咽腔和鼓室，使鼓室与外界大气压相等"
+        }
+      ],
+      "answer": "ACE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-073",
+      "type": "multi_select",
+      "stem": "眼视近物时会发生",
+      "options": [
+        {
+          "key": "A",
+          "text": "瞳孔缩小"
+        },
+        {
+          "key": "B",
+          "text": "睫状肌收缩"
+        },
+        {
+          "key": "C",
+          "text": "睫状小带松弛"
+        },
+        {
+          "key": "D",
+          "text": "晶状体凸度增加"
+        },
+        {
+          "key": "E",
+          "text": "屈光力增强"
+        }
+      ],
+      "answer": "ABCD",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-074",
+      "type": "multi_select",
+      "stem": "眼视远物时会发生",
+      "options": [
+        {
+          "key": "A",
+          "text": "睫状肌舒张"
+        },
+        {
+          "key": "B",
+          "text": "睫状肌收缩"
+        },
+        {
+          "key": "C",
+          "text": "瞳孔开大"
+        },
+        {
+          "key": "D",
+          "text": "瞳孔开小"
+        },
+        {
+          "key": "E",
+          "text": "交感神经兴奋"
+        }
+      ],
+      "answer": "ACE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-075",
+      "type": "multi_select",
+      "stem": "有关晶状体的描述,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "视远物时，睫状肌收缩，睫状小带松弛，睫状体靠自身的弹性复原、变厚，屈光力增加"
+        },
+        {
+          "key": "B",
+          "text": "视远物时，睫状肌松弛，睫状小带被拉紧，晶状体变扁平，屈光力减弱"
+        },
+        {
+          "key": "C",
+          "text": "视近物时，睫状肌收缩，睫状小带松弛，睫状体靠自身的弹性复原、变厚，屈光力增强"
+        },
+        {
+          "key": "D",
+          "text": "视远物时，睫状肌松弛，睫状小带亦松弛，睫状体靠自身的弹性复原、变厚，屈光力增加"
+        },
+        {
+          "key": "E",
+          "text": "视远物时，睫状肌松弛，睫状小带被拉紧，晶状体变厚，屈光力增强"
+        }
+      ],
+      "answer": "BC",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-076",
+      "type": "multi_select",
+      "stem": "下列有关鼓膜的描述,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "位于外耳道与中耳之间，构成鼓室外侧壁"
+        },
+        {
+          "key": "B",
+          "text": "外侧面朝向前、外、下"
+        },
+        {
+          "key": "C",
+          "text": "中心向内凹陷称鼓膜脐"
+        },
+        {
+          "key": "D",
+          "text": "紧张部和松弛部各占一半"
+        },
+        {
+          "key": "E",
+          "text": "鼓膜内陷时，可见三角形的光锥"
+        }
+      ],
+      "answer": "ABC",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-077",
+      "type": "multi_select",
+      "stem": "下列有关鼓室的描述,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "为封闭的含气小腔"
+        },
+        {
+          "key": "B",
+          "text": "位于鼓膜与内耳之间"
+        },
+        {
+          "key": "C",
+          "text": "前壁为颈静脉壁，上份有咽鼓管开口"
+        },
+        {
+          "key": "D",
+          "text": "后壁为乳突壁，上部有乳突窦的开口"
+        },
+        {
+          "key": "E",
+          "text": "鼓室壁及其内结构均覆有粘膜"
+        }
+      ],
+      "answer": "BDE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-078",
+      "type": "multi_select",
+      "stem": "下列有关咽鼓管的描述,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "是连于咽与内耳的通道"
+        },
+        {
+          "key": "B",
+          "text": "是连于鼓室与咽的通道"
+        },
+        {
+          "key": "C",
+          "text": "平时处于开放状态"
+        },
+        {
+          "key": "D",
+          "text": "小儿比成人短粗且平"
+        },
+        {
+          "key": "E",
+          "text": "可维持鼓室与外界气压平衡"
+        }
+      ],
+      "answer": "BDE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-079",
+      "type": "multi_select",
+      "stem": "瞳孔向外旋转时，参与收缩的眼外肌有",
+      "options": [
+        {
+          "key": "A",
+          "text": "上斜肌"
+        },
+        {
+          "key": "B",
+          "text": "上直肌"
+        },
+        {
+          "key": "C",
+          "text": "下斜肌"
+        },
+        {
+          "key": "D",
+          "text": "下直肌"
+        },
+        {
+          "key": "E",
+          "text": "外直肌"
+        }
+      ],
+      "answer": "ACE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-080",
+      "type": "multi_select",
+      "stem": "瞳孔转向内侧时，参与收缩的眼外肌有",
+      "options": [
+        {
+          "key": "A",
+          "text": "上斜肌"
+        },
+        {
+          "key": "B",
+          "text": "下斜肌"
+        },
+        {
+          "key": "C",
+          "text": "内直肌"
+        },
+        {
+          "key": "D",
+          "text": "上直肌"
+        },
+        {
+          "key": "E",
+          "text": "下直肌"
+        }
+      ],
+      "answer": "CDE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-081",
+      "type": "multi_select",
+      "stem": "瞳孔转向上时，参与收缩的眼外肌有",
+      "options": [
+        {
+          "key": "A",
+          "text": "上斜肌"
+        },
+        {
+          "key": "B",
+          "text": "下斜肌"
+        },
+        {
+          "key": "C",
+          "text": "上直肌"
+        },
+        {
+          "key": "D",
+          "text": "内直肌"
+        },
+        {
+          "key": "E",
+          "text": "外直肌"
+        }
+      ],
+      "answer": "BC",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-082",
+      "type": "multi_select",
+      "stem": "中耳",
+      "options": [
+        {
+          "key": "A",
+          "text": "位于外耳和内耳之间"
+        },
+        {
+          "key": "B",
+          "text": "为一含气空腔，大部位于颞骨岩部"
+        },
+        {
+          "key": "C",
+          "text": "包括鼓室、咽鼓管、乳突窦和乳突小房"
+        },
+        {
+          "key": "D",
+          "text": "有三块听小骨位于中耳鼓室内"
+        },
+        {
+          "key": "E",
+          "text": "除平衡鼓膜内外大气压外，无其他重要功能"
+        }
+      ],
+      "answer": "ABCD",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-083",
+      "type": "multi_select",
+      "stem": "属于位觉感受器的为",
+      "options": [
+        {
+          "key": "A",
+          "text": "螺旋器"
+        },
+        {
+          "key": "B",
+          "text": "壶腹嵴"
+        },
+        {
+          "key": "C",
+          "text": "椭圆囊斑"
+        },
+        {
+          "key": "D",
+          "text": "球囊斑"
+        },
+        {
+          "key": "E",
+          "text": "耳蜗"
+        }
+      ],
+      "answer": "BCD",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-084",
+      "type": "multi_select",
+      "stem": "属于眼球屈光装置的结构是",
+      "options": [
+        {
+          "key": "A",
+          "text": "房水"
+        },
+        {
+          "key": "B",
+          "text": "角膜"
+        },
+        {
+          "key": "C",
+          "text": "晶状体"
+        },
+        {
+          "key": "D",
+          "text": "玻璃体"
+        },
+        {
+          "key": "E",
+          "text": "视网膜"
+        }
+      ],
+      "answer": "ABCD",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-085",
+      "type": "multi_select",
+      "stem": "下列有关眼球的描述,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "眼球壁由外膜、中膜、内膜构成"
+        },
+        {
+          "key": "B",
+          "text": "角膜无血管和神经"
+        },
+        {
+          "key": "C",
+          "text": "后方有视神经与脑相连"
+        },
+        {
+          "key": "D",
+          "text": "视网膜视神经盘处无感光作用，又称视网膜盲部"
+        },
+        {
+          "key": "E",
+          "text": "黄斑中央凹是视力最敏锐的部位"
+        }
+      ],
+      "answer": "ACE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-086",
+      "type": "multi_select",
+      "stem": "构成眼球中膜的结构有",
+      "options": [
+        {
+          "key": "A",
+          "text": "巩膜"
+        },
+        {
+          "key": "B",
+          "text": "虹膜"
+        },
+        {
+          "key": "C",
+          "text": "脉络膜"
+        },
+        {
+          "key": "D",
+          "text": "晶状体"
+        },
+        {
+          "key": "E",
+          "text": "睫状体"
+        }
+      ],
+      "answer": "BCE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-087",
+      "type": "multi_select",
+      "stem": "看近物时会出现",
+      "options": [
+        {
+          "key": "A",
+          "text": "瞳孔开大"
+        },
+        {
+          "key": "B",
+          "text": "睫状体前移"
+        },
+        {
+          "key": "C",
+          "text": "睫状肌收缩"
+        },
+        {
+          "key": "D",
+          "text": "晶状体凸度变大"
+        },
+        {
+          "key": "E",
+          "text": "睫状小带松弛"
+        }
+      ],
+      "answer": "BCDE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-088",
+      "type": "multi_select",
+      "stem": "视网膜",
+      "options": [
+        {
+          "key": "A",
+          "text": "分为盲部和视部两部分"
+        },
+        {
+          "key": "B",
+          "text": "黄斑为盲点"
+        },
+        {
+          "key": "C",
+          "text": "黄斑位于视神经盘颞侧"
+        },
+        {
+          "key": "D",
+          "text": "视网膜的动脉由中央凹放射分布"
+        },
+        {
+          "key": "E",
+          "text": "视网膜内层由外向内有视细胞、双极细胞和节细胞"
+        }
+      ],
+      "answer": "ACE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-089",
+      "type": "multi_select",
+      "stem": "关于眼肌神经支配的叙述，正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "展神经支配外直肌"
+        },
+        {
+          "key": "B",
+          "text": "滑车神经支配上斜肌"
+        },
+        {
+          "key": "C",
+          "text": "交感神经支配瞳孔括约肌"
+        },
+        {
+          "key": "D",
+          "text": "副交感神经支配瞳孔开大肌"
+        },
+        {
+          "key": "E",
+          "text": "动眼神经支配除上斜肌、外直肌以外的所有眼外肌"
+        }
+      ],
+      "answer": "ABE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-090",
+      "type": "multi_select",
+      "stem": "下列有关外耳道的描述,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "外1／3为软骨部"
+        },
+        {
+          "key": "B",
+          "text": "内2／3为骨部"
+        },
+        {
+          "key": "C",
+          "text": "在成人，检查鼓膜时应将耳郭拉向后上方"
+        },
+        {
+          "key": "D",
+          "text": "因婴儿的外耳道宽阔，鼓膜近水平位，故检查时应将耳郭拉向后下方"
+        },
+        {
+          "key": "E",
+          "text": "缺乏皮下组织，皮肤与骨(及软骨)膜紧密结合，炎症肿胀时疼痛明显"
+        }
+      ],
+      "answer": "ABCE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-091",
+      "type": "multi_select",
+      "stem": "下列有关中耳鼓室的描述,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "盖壁骨板较薄，故中耳炎症可侵入颅内"
+        },
+        {
+          "key": "B",
+          "text": "向后经乳突窦口通乳突窦及乳突小房，故鼓室的炎症可侵入乳突深部"
+        },
+        {
+          "key": "C",
+          "text": "内侧壁，岬的后上方有前庭窗，直接与耳蜗的前庭阶相通"
+        },
+        {
+          "key": "D",
+          "text": "内侧壁，岬的后下方有蜗窗，被第二鼓膜封闭，不直接与耳蜗的鼓阶相通"
+        },
+        {
+          "key": "E",
+          "text": "可经前壁上方的咽鼓管鼓室口与鼻咽部相通"
+        }
+      ],
+      "answer": "ABDE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-092",
+      "type": "multi_select",
+      "stem": "眼的折光装置包括",
+      "options": [
+        {
+          "key": "A",
+          "text": "角膜"
+        },
+        {
+          "key": "B",
+          "text": "虹膜"
+        },
+        {
+          "key": "C",
+          "text": "房水"
+        },
+        {
+          "key": "D",
+          "text": "晶状体"
+        },
+        {
+          "key": "E",
+          "text": "玻璃体"
+        }
+      ],
+      "answer": "ACDE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-093",
+      "type": "multi_select",
+      "stem": "下列有关晶状体的描述,正确的是",
+      "options": [
+        {
+          "key": "A",
+          "text": "呈双凸透镜状"
+        },
+        {
+          "key": "B",
+          "text": "看近物时变薄"
+        },
+        {
+          "key": "C",
+          "text": "看近物时变厚"
+        },
+        {
+          "key": "D",
+          "text": "看远物时变薄"
+        },
+        {
+          "key": "E",
+          "text": "看远物时变厚"
+        }
+      ],
+      "answer": "ACD",
+      "explanation": ""
+    },
+    {
+      "id": "YD-DX-094",
+      "type": "multi_select",
+      "stem": "和成人相比，幼儿耳有以下特点",
+      "options": [
+        {
+          "key": "A",
+          "text": "外耳道较短而窄"
+        },
+        {
+          "key": "B",
+          "text": "鼓膜更为倾斜，几呈水平位"
+        },
+        {
+          "key": "C",
+          "text": "检查鼓膜时，将耳郭向后上方牵拉"
+        },
+        {
+          "key": "D",
+          "text": "咽鼓管短而平直，管腔较大"
+        },
+        {
+          "key": "E",
+          "text": "咽部感染易引发中耳炎"
+        }
+      ],
+      "answer": "ABDE",
+      "explanation": ""
+    },
+    {
+      "id": "YD-MJ-001",
+      "type": "term_explanation",
+      "stem": "本体感受器",
+      "options": null,
+      "answer": "本体感受器为分布于肌肉、肌腱、关节和内耳等处的感受器，主要感受位置觉、运动觉和振颤觉，以确定机体在运动中的位置、状态，并反射性地进行调整，以维持机体在运动和静止状态中的平衡。",
+      "explanation": "本体感受器为分布于肌肉、肌腱、关节和内耳等处的感受器，主要感受位置觉、运动觉和振颤觉，以确定机体在运动中的位置、状态，并反射性地进行调整，以维持机体在运动和静止状态中的平衡。"
+    },
+    {
+      "id": "YD-MJ-002",
+      "type": "term_explanation",
+      "stem": "感觉器",
+      "options": null,
+      "answer": "感觉器是感受来自机体内、外环境刺激的感受器及其辅肋装置的总称,指感觉神经末梢在众多的辅助结构的支持和配合下所组成的器官。感觉器不仅感受装置更为完善，而且具有更复杂、更完备的辅助装置。这些装置非常有助于感觉器更好地发挥其功能。其功能和感受器相同，并不能产生感觉。",
+      "explanation": "感觉器是感受来自机体内、外环境刺激的感受器及其辅肋装置的总称,指感觉神经末梢在众多的辅助结构的支持和配合下所组成的器官。感觉器不仅感受装置更为完善，而且具有更复杂、更完备的辅助装置。这些装置非常有助于感觉器更好地发挥其功能。其功能和感受器相同，并不能产生感觉。"
+    },
+    {
+      "id": "YD-MJ-003",
+      "type": "term_explanation",
+      "stem": "感受器",
+      "options": null,
+      "answer": "感受器指感觉神经元突起在外周的末梢，即能接受机体内、外环境的各种物理、化学性的刺激而产生兴奋的特殊装置。简单者仅为游离神经末梢，有的神经末梢外有被囊，如环层小体和触觉小体等。其功能为感受机体内、外各种物理、化学刺激，并将之转变为神经冲动，后经感觉神经传导至相应的感觉中枢而产生感觉。感受器可接受并将兴奋转变为神经冲动，传向中枢。",
+      "explanation": "感受器指感觉神经元突起在外周的末梢，即能接受机体内、外环境的各种物理、化学性的刺激而产生兴奋的特殊装置。简单者仅为游离神经末梢，有的神经末梢外有被囊，如环层小体和触觉小体等。其功能为感受机体内、外各种物理、化学刺激，并将之转变为神经冲动，后经感觉神经传导至相应的感觉中枢而产生感觉。感受器可接受并将兴奋转变为神经冲动，传向中枢。"
+    },
+    {
+      "id": "YD-MJ-004",
+      "type": "term_explanation",
+      "stem": "房水循环",
+      "options": null,
+      "answer": "指房水从睫状突的上皮细胞分泌出来，经后房、瞳孔、前房，虹膜角膜角、巩膜静脉窦、眼静脉而回归血流的循环过程，起维持眼压，营养玻璃体、晶状体和角膜的作用。",
+      "explanation": "指房水从睫状突的上皮细胞分泌出来，经后房、瞳孔、前房，虹膜角膜角、巩膜静脉窦、眼静脉而回归血流的循环过程，起维持眼压，营养玻璃体、晶状体和角膜的作用。"
+    },
+    {
+      "id": "YD-MJ-005",
+      "type": "term_explanation",
+      "stem": "结膜",
+      "options": null,
+      "answer": "结膜是覆盖于眼睑后面和眼球前部、角巩膜缘后方的一层薄而透明的黏膜，富有血管，按其覆盖的部位不同分为睑结膜、球结膜和结膜穹3部分。",
+      "explanation": "结膜是覆盖于眼睑后面和眼球前部、角巩膜缘后方的一层薄而透明的黏膜，富有血管，按其覆盖的部位不同分为睑结膜、球结膜和结膜穹3部分。"
+    },
+    {
+      "id": "YD-MJ-006",
+      "type": "term_explanation",
+      "stem": "结膜囊",
+      "options": null,
+      "answer": "结膜囊由睑结膜、球结膜和角膜围成，内充薄层泪液。眼睑闭合时结膜囊封闭。滴眼药即滴入囊内。",
+      "explanation": "结膜囊由睑结膜、球结膜和角膜围成，内充薄层泪液。眼睑闭合时结膜囊封闭。滴眼药即滴入囊内。"
+    },
+    {
+      "id": "YD-MJ-007",
+      "type": "term_explanation",
+      "stem": "结膜穹窿",
+      "options": null,
+      "answer": "由睑结膜与球结膜相互转折、移行所形成的穹隆状的间隙，称为结膜穹窿。分结膜上穹和结膜下穹。",
+      "explanation": "由睑结膜与球结膜相互转折、移行所形成的穹隆状的间隙，称为结膜穹窿。分结膜上穹和结膜下穹。"
+    },
+    {
+      "id": "YD-MJ-008",
+      "type": "term_explanation",
+      "stem": "晶状体",
+      "options": null,
+      "answer": "晶状体位于虹膜和玻璃体之间，以睫状小带与睫状体相连；呈双凸透镜状，无色透明，不含血管和神经，具有弹性，其曲度随睫状小带松弛、紧张而改变。晶状体为眼球屈光系统的主要装置。",
+      "explanation": "晶状体位于虹膜和玻璃体之间，以睫状小带与睫状体相连；呈双凸透镜状，无色透明，不含血管和神经，具有弹性，其曲度随睫状小带松弛、紧张而改变。晶状体为眼球屈光系统的主要装置。"
+    },
+    {
+      "id": "YD-MJ-009",
+      "type": "term_explanation",
+      "stem": "泪器",
+      "options": null,
+      "answer": "泪器指一套分泌泪液、湿润结膜囊，冲去异物的装置。包括泪腺和泪道两部分。泪液流向如下:泪腺排泄管→结膜囊→蒸发，多余者经泪点入泪小管→泪囊→鼻泪管→下鼻道。",
+      "explanation": "泪器指一套分泌泪液、湿润结膜囊，冲去异物的装置。包括泪腺和泪道两部分。泪液流向如下:泪腺排泄管→结膜囊→蒸发，多余者经泪点入泪小管→泪囊→鼻泪管→下鼻道。"
+    },
+    {
+      "id": "YD-MJ-010",
+      "type": "term_explanation",
+      "stem": "巩膜静脉窦",
+      "options": null,
+      "answer": "在巩膜与角膜交界处的深面，有一环行的管道，称巩膜静脉窦。接受眼球壁前部的静脉血，还接受房水的回流。房水最后汇入该窦。",
+      "explanation": "在巩膜与角膜交界处的深面，有一环行的管道，称巩膜静脉窦。接受眼球壁前部的静脉血，还接受房水的回流。房水最后汇入该窦。"
+    },
+    {
+      "id": "YD-MJ-011",
+      "type": "term_explanation",
+      "stem": "光锥(反射光锥)",
+      "options": null,
+      "answer": "在鼓膜的外侧面、鼓膜脐的前下方(鼓膜紧张部)有一三角形反光区，称光锥(反射光锥)。光锥是临床上判断鼓膜形态是否正常的一个反光标志区,光锥变形或消失是鼓膜内陷及穿孔的重要标志之一。",
+      "explanation": "在鼓膜的外侧面、鼓膜脐的前下方(鼓膜紧张部)有一三角形反光区，称光锥(反射光锥)。光锥是临床上判断鼓膜形态是否正常的一个反光标志区,光锥变形或消失是鼓膜内陷及穿孔的重要标志之一。"
+    },
+    {
+      "id": "YD-MJ-012",
+      "type": "term_explanation",
+      "stem": "虹膜角膜角(前房角)",
+      "options": null,
+      "answer": "在眼前房内，在虹膜和角膜交界处构成虹膜角膜角，也称前房角。角的底部有小梁网和虹膜角间隙，房水由此渗入巩膜静脉窦。此夹角大小，可影响房水回流的速率。",
+      "explanation": "在眼前房内，在虹膜和角膜交界处构成虹膜角膜角，也称前房角。角的底部有小梁网和虹膜角间隙，房水由此渗入巩膜静脉窦。此夹角大小，可影响房水回流的速率。"
+    },
+    {
+      "id": "YD-MJ-013",
+      "type": "term_explanation",
+      "stem": "壶腹嵴",
+      "options": null,
+      "answer": "在膜半规管的膜壶腹内侧壁上有一横置的嵴状突起，称壶腹嵴，是位置感受器，主要由毛细胞和支持细胞构成。能感受头部旋转变速运动的刺激。",
+      "explanation": "在膜半规管的膜壶腹内侧壁上有一横置的嵴状突起，称壶腹嵴，是位置感受器，主要由毛细胞和支持细胞构成。能感受头部旋转变速运动的刺激。"
+    },
+    {
+      "id": "YD-MJ-014",
+      "type": "term_explanation",
+      "stem": "黄斑",
+      "options": null,
+      "answer": "在视神经盘的颞侧稍下方约3.5mm(或两个视神经盘距离)有一黄色小区称黄斑，其中央有一陷凹称中央凹。此处全由视锥细胞组成，没有视杆细胞,是感光最敏锐的部位。视锥细胞能感受色彩，但光线较强时才能引起冲动发放．黄斑处的三层细胞是单线传入，即一个视锥细胞只同一个双极细胞联系，该双极细胞又只同一个节细胞联系。视觉的两点分辨力是以点象分别落在两个节细胞传入为基础的，因此,黄斑的分辨力最高，但在暗光处则黄斑视力较差。",
+      "explanation": "在视神经盘的颞侧稍下方约3.5mm(或两个视神经盘距离)有一黄色小区称黄斑，其中央有一陷凹称中央凹。此处全由视锥细胞组成，没有视杆细胞,是感光最敏锐的部位。视锥细胞能感受色彩，但光线较强时才能引起冲动发放．黄斑处的三层细胞是单线传入，即一个视锥细胞只同一个双极细胞联系，该双极细胞又只同一个节细胞联系。视觉的两点分辨力是以点象分别落在两个节细胞传入为基础的，因此,黄斑的分辨力最高，但在暗光处则黄斑视力较差。"
+    },
+    {
+      "id": "YD-MJ-015",
+      "type": "term_explanation",
+      "stem": "Corti器",
+      "options": null,
+      "answer": "Corti器又名螺旋器，是位于内耳膜迷路蜗管的基底膜上的接受听觉刺激的装置，主要由毛细胞(内、外毛细胞)和支持细胞(内、外柱细胞，内、外指细胞，边缘细胞)构成。为听觉感受器，能感受声波的刺激。他接受内淋巴波动产生的机械性刺激，并将刺激转化成神经冲动，经蜗神经传入听觉中枢，产生听觉。",
+      "explanation": "Corti器又名螺旋器，是位于内耳膜迷路蜗管的基底膜上的接受听觉刺激的装置，主要由毛细胞(内、外毛细胞)和支持细胞(内、外柱细胞，内、外指细胞，边缘细胞)构成。为听觉感受器，能感受声波的刺激。他接受内淋巴波动产生的机械性刺激，并将刺激转化成神经冲动，经蜗神经传入听觉中枢，产生听觉。"
+    },
+    {
+      "id": "YD-MJ-016",
+      "type": "term_explanation",
+      "stem": "第二鼓膜",
+      "options": null,
+      "answer": "第二鼓膜为封闭蜗窗的结缔组织膜，当鼓阶的外淋巴振动时，它有缓冲淋巴压力的作用。当鼓膜破损或听小骨功能障碍时，鼓室中空气振动也可经此膜传人内耳，故亦称为第二鼓膜。",
+      "explanation": "第二鼓膜为封闭蜗窗的结缔组织膜，当鼓阶的外淋巴振动时，它有缓冲淋巴压力的作用。当鼓膜破损或听小骨功能障碍时，鼓室中空气振动也可经此膜传人内耳，故亦称为第二鼓膜。"
+    },
+    {
+      "id": "YD-MJ-017",
+      "type": "term_explanation",
+      "stem": "耳蜗",
+      "options": null,
+      "answer": "耳蜗为骨迷路中容纳听感受器的部分。耳蜗的骨迷路又名蜗螺旋管，也可以叫骨蜗管。因他围绕蜗轴盘旋21/2~2 3/4圈, 形如蜗牛故名。",
+      "explanation": "耳蜗为骨迷路中容纳听感受器的部分。耳蜗的骨迷路又名蜗螺旋管，也可以叫骨蜗管。因他围绕蜗轴盘旋21/2~2 3/4圈, 形如蜗牛故名。"
+    },
+    {
+      "id": "YD-MJ-018",
+      "type": "term_explanation",
+      "stem": "盲点",
+      "options": null,
+      "answer": "盲点即视神经乳头，此处是视神经穿出眼球的地方。因无感光细胞而无感光能力，故名盲点。",
+      "explanation": "盲点即视神经乳头，此处是视神经穿出眼球的地方。因无感光细胞而无感光能力，故名盲点。"
+    },
+    {
+      "id": "YD-MJ-019",
+      "type": "term_explanation",
+      "stem": "迷路",
+      "options": null,
+      "answer": "迷路即内耳，由盲闭的骨管和盲闭的膜管组成；膜管套在骨管之内。膜迷路装满内淋巴，骨迷路与膜迷路之间的间隙充满外淋巴。膜迷路泡在外淋巴中。",
+      "explanation": "迷路即内耳，由盲闭的骨管和盲闭的膜管组成；膜管套在骨管之内。膜迷路装满内淋巴，骨迷路与膜迷路之间的间隙充满外淋巴。膜迷路泡在外淋巴中。"
+    },
+    {
+      "id": "YD-MJ-020",
+      "type": "term_explanation",
+      "stem": "迷路壁",
+      "options": null,
+      "answer": "迷路壁为中耳鼓室内侧壁，也是内耳的外壁。此壁中部隆凸，叫岬，岬的后上方有前庭窗，后下方有蜗窗。此外，前庭窗后上方有弓形隆起的面神经管凸。",
+      "explanation": "迷路壁为中耳鼓室内侧壁，也是内耳的外壁。此壁中部隆凸，叫岬，岬的后上方有前庭窗，后下方有蜗窗。此外，前庭窗后上方有弓形隆起的面神经管凸。"
+    },
+    {
+      "id": "YD-MJ-021",
+      "type": "term_explanation",
+      "stem": "面神经管凸",
+      "options": null,
+      "answer": "在鼓室内侧壁、前庭窗的后上方有一弓形隆起，称面神经管凸，管内有面神经通过。",
+      "explanation": "在鼓室内侧壁、前庭窗的后上方有一弓形隆起，称面神经管凸，管内有面神经通过。"
+    },
+    {
+      "id": "YD-MJ-022",
+      "type": "term_explanation",
+      "stem": "内感受器",
+      "options": null,
+      "answer": "内感受器分布于内脏、心血管和腺体等处，能接受来自机体内环境发生的物理和化学性变化的刺激。",
+      "explanation": "内感受器分布于内脏、心血管和腺体等处，能接受来自机体内环境发生的物理和化学性变化的刺激。"
+    },
+    {
+      "id": "YD-MJ-023",
+      "type": "term_explanation",
+      "stem": "前庭窗",
+      "options": null,
+      "answer": "前庭窗呈卵圆形，又称卵圆窗，位于前庭的外侧壁，即鼓室的内侧壁上，岬的后上方，被镫骨底封闭。",
+      "explanation": "前庭窗呈卵圆形，又称卵圆窗，位于前庭的外侧壁，即鼓室的内侧壁上，岬的后上方，被镫骨底封闭。"
+    },
+    {
+      "id": "YD-MJ-024",
+      "type": "term_explanation",
+      "stem": "乳突小房",
+      "options": null,
+      "answer": "乳突小房为颞骨乳突内的许多含气小腔，这些小腔互相连通，其大小因年龄和发育状况而不同。乳突小房向前经乳突窦与中耳鼓室相通，其黏膜也与鼓室的黏膜相连续，故可因中耳炎而感染。",
+      "explanation": "乳突小房为颞骨乳突内的许多含气小腔，这些小腔互相连通，其大小因年龄和发育状况而不同。乳突小房向前经乳突窦与中耳鼓室相通，其黏膜也与鼓室的黏膜相连续，故可因中耳炎而感染。"
+    },
+    {
+      "id": "YD-MJ-025",
+      "type": "term_explanation",
+      "stem": "视网膜盲部",
+      "options": null,
+      "answer": "视网膜睫状体部和虹膜部贴附在睫状体和虹膜内面，无感光作用，故称视网膜盲部。",
+      "explanation": "视网膜睫状体部和虹膜部贴附在睫状体和虹膜内面，无感光作用，故称视网膜盲部。"
+    },
+    {
+      "id": "YD-MJ-026",
+      "type": "term_explanation",
+      "stem": "视神经盘(视神经乳头)",
+      "options": null,
+      "answer": "在视网膜的后部偏内侧，由于节细胞轴突聚集，而形成一白色圆形隆起，为视神经的起始处，称视神经盘(视神经乳头)。此处无感光细胞，是生理性的盲点。该结构在活体眼底镜检查时可见到。当颅内压增高时，常可出现视神经盘水肿。",
+      "explanation": "在视网膜的后部偏内侧，由于节细胞轴突聚集，而形成一白色圆形隆起，为视神经的起始处，称视神经盘(视神经乳头)。此处无感光细胞，是生理性的盲点。该结构在活体眼底镜检查时可见到。当颅内压增高时，常可出现视神经盘水肿。"
+    },
+    {
+      "id": "YD-MJ-027",
+      "type": "term_explanation",
+      "stem": "瞳孔",
+      "options": null,
+      "answer": "瞳孔位于虹膜中央，瞳孔的大小随外界光线强弱而改变，从而调节进入眼的光。此外，眼前、后房借瞳孔相通。",
+      "explanation": "瞳孔位于虹膜中央，瞳孔的大小随外界光线强弱而改变，从而调节进入眼的光。此外，眼前、后房借瞳孔相通。"
+    },
+    {
+      "id": "YD-MJ-028",
+      "type": "term_explanation",
+      "stem": "椭圆囊斑、球囊斑",
+      "options": null,
+      "answer": "在椭圆囊的底壁和前壁上有椭圆囊斑，在球囊的前壁上有球囊斑。它们主要由毛细胞和支持细胞构成，均为位置感受器，能感受直线变速(加速或减速)运动的刺激。",
+      "explanation": "在椭圆囊的底壁和前壁上有椭圆囊斑，在球囊的前壁上有球囊斑。它们主要由毛细胞和支持细胞构成，均为位置感受器，能感受直线变速(加速或减速)运动的刺激。"
+    },
+    {
+      "id": "YD-MJ-029",
+      "type": "term_explanation",
+      "stem": "外感受器",
+      "options": null,
+      "answer": "外感受器为感受来自外界环境中的物理、化学性刺激的感受器，称外感受器。分布于皮肤、黏膜、视器、听器等。",
+      "explanation": "外感受器为感受来自外界环境中的物理、化学性刺激的感受器，称外感受器。分布于皮肤、黏膜、视器、听器等。"
+    },
+    {
+      "id": "YD-MJ-030",
+      "type": "term_explanation",
+      "stem": "蜗管",
+      "options": null,
+      "answer": "蜗管即耳蜗中的膜迷路，也可以叫膜蜗管，相对于骨蜗管，方便好记。",
+      "explanation": "蜗管即耳蜗中的膜迷路，也可以叫膜蜗管，相对于骨蜗管，方便好记。"
+    },
+    {
+      "id": "YD-MJ-031",
+      "type": "term_explanation",
+      "stem": "咽鼓管",
+      "options": null,
+      "answer": "咽鼓管为连通鼓室和咽腔的管道，使鼓室和外界的大气压相等，咽鼓管分外侧份的骨部和内侧份的软骨部。幼儿咽鼓管较成人短、平、粗，故咽部感染易沿咽鼓管侵入鼓室。",
+      "explanation": "咽鼓管为连通鼓室和咽腔的管道，使鼓室和外界的大气压相等，咽鼓管分外侧份的骨部和内侧份的软骨部。幼儿咽鼓管较成人短、平、粗，故咽部感染易沿咽鼓管侵入鼓室。"
+    },
+    {
+      "id": "YD-MJ-032",
+      "type": "term_explanation",
+      "stem": "眼房",
+      "options": null,
+      "answer": "角膜与晶状体之间的不规则腔隙称为眼房。眼房被虹膜分为较大的眼前房和较小的眼后房，彼此借瞳孔相通。眼房内充满房水。",
+      "explanation": "角膜与晶状体之间的不规则腔隙称为眼房。眼房被虹膜分为较大的眼前房和较小的眼后房，彼此借瞳孔相通。眼房内充满房水。"
+    },
+    {
+      "id": "YD-MJ-033",
+      "type": "term_explanation",
+      "stem": "眼屈光系统",
+      "options": null,
+      "answer": "眼内具有屈光作用的结构统称为眼的屈光系统，其由角膜、房水、晶状体和玻璃体组成。",
+      "explanation": "眼内具有屈光作用的结构统称为眼的屈光系统，其由角膜、房水、晶状体和玻璃体组成。"
+    },
+    {
+      "id": "YD-MJ-034",
+      "type": "term_explanation",
+      "stem": "眼轴",
+      "options": null,
+      "answer": "通过眼前、后极的连线为眼轴，与视轴呈锐角相交。",
+      "explanation": "通过眼前、后极的连线为眼轴，与视轴呈锐角相交。"
+    },
+    {
+      "id": "YD-MJ-035",
+      "type": "term_explanation",
+      "stem": "中央凹",
+      "options": null,
+      "answer": "黄斑中央陷凹处称中央凹，是感光和辨色最敏锐的部位。",
+      "explanation": "黄斑中央陷凹处称中央凹，是感光和辨色最敏锐的部位。"
+    },
+    {
+      "id": "YD-MJ-036",
+      "type": "short_answer",
+      "stem": "简述房水的产生及循环途径。若房水循环发生障碍，可产生哪些后果。",
+      "options": null,
+      "answer": "房水为无色透明的液体，充满眼房内，由睫状体产生后自眼后房经瞳孔入眼前房，然后由虹膜角膜角处入巩膜静脉窦，再经睫前静脉汇入眼静脉。房水除有屈光作用外，还具有营养角膜和晶状体以及维持眼内压的作用。若房水循环障碍时，则引起眼内压增加，影响视力，临床上称青光眼。",
+      "explanation": "房水为无色透明的液体，充满眼房内，由睫状体产生后自眼后房经瞳孔入眼前房，然后由虹膜角膜角处入巩膜静脉窦，再经睫前静脉汇入眼静脉。房水除有屈光作用外，还具有营养角膜和晶状体以及维持眼内压的作用。若房水循环障碍时，则引起眼内压增加，影响视力，临床上称青光眼。"
+    },
+    {
+      "id": "YD-MJ-037",
+      "type": "short_answer",
+      "stem": "简述鼓膜的位置、形态和分部。",
+      "options": null,
+      "answer": "鼓膜位于鼓室和外耳道之间，为椭圆形半透明薄膜，在外耳道底呈倾斜位，其外侧面向前、下、外倾斜，故外耳道前壁及下壁较长。鼓膜中心向内陷凹，为锤骨柄末端附着处，称鼓膜脐。鼓膜上1／4的三角形区为松弛部，薄而松弛，呈淡红色。鼓膜下3／4呈灰白色，为紧张部，坚实紧张。",
+      "explanation": "鼓膜位于鼓室和外耳道之间，为椭圆形半透明薄膜，在外耳道底呈倾斜位，其外侧面向前、下、外倾斜，故外耳道前壁及下壁较长。鼓膜中心向内陷凹，为锤骨柄末端附着处，称鼓膜脐。鼓膜上1／4的三角形区为松弛部，薄而松弛，呈淡红色。鼓膜下3／4呈灰白色，为紧张部，坚实紧张。"
+    },
+    {
+      "id": "YD-MJ-038",
+      "type": "short_answer",
+      "stem": "简述泪液的分泌和流通路径(可用箭头表示)。",
+      "options": null,
+      "answer": "泪液由泪腺分泌产生，经排泄管开口于结膜上穹→泪点→泪小管→泪囊→鼻泪管→下鼻道的前部。泪液可防止角膜干燥，有冲洗灰尘和杀菌的作用。",
+      "explanation": "泪液由泪腺分泌产生，经排泄管开口于结膜上穹→泪点→泪小管→泪囊→鼻泪管→下鼻道的前部。泪液可防止角膜干燥，有冲洗灰尘和杀菌的作用。"
+    },
+    {
+      "id": "YD-MJ-039",
+      "type": "short_answer",
+      "stem": "眼球内有哪些平滑肌?各有何功能?",
+      "options": null,
+      "answer": "眼球内平滑肌为存在于睫状体中的睫状肌和存在于虹膜内的瞳孔开大肌和瞳孔括约肌，睫状肌收缩和舒张可以调节晶状体凸度，从而保证物像清晰地成像于视网膜上。瞳孔开大肌使瞳孔开大，瞳孔括约肌可使瞳孔缩小，从而达到调节进入眼球内光线强弱的目的。",
+      "explanation": "眼球内平滑肌为存在于睫状体中的睫状肌和存在于虹膜内的瞳孔开大肌和瞳孔括约肌，睫状肌收缩和舒张可以调节晶状体凸度，从而保证物像清晰地成像于视网膜上。瞳孔开大肌使瞳孔开大，瞳孔括约肌可使瞳孔缩小，从而达到调节进入眼球内光线强弱的目的。"
+    },
+    {
+      "id": "YD-MJ-040",
+      "type": "short_answer",
+      "stem": "用眼底镜检查时，可见到何结构?",
+      "options": null,
+      "answer": "用眼底镜检查时可见视神经盘，此处无感光细胞，视网膜中央动、静脉即由此穿行。此外在视神经盘颞侧稍下方(约3.5mm处)处可见有一黄色区域称黄斑。其中央陷凹称中央凹，是感光最敏锐的部位。",
+      "explanation": "用眼底镜检查时可见视神经盘，此处无感光细胞，视网膜中央动、静脉即由此穿行。此外在视神经盘颞侧稍下方(约3.5mm处)处可见有一黄色区域称黄斑。其中央陷凹称中央凹，是感光最敏锐的部位。"
+    },
+    {
+      "id": "YD-MJ-041",
+      "type": "short_answer",
+      "stem": "简述运动眼球的肌肉名称、作用及其神经支配。",
+      "options": null,
+      "answer": "运动眼球的肌肉有四条直肌和两条斜肌。上直肌作用使瞳孔转向内上方,动眼神经支配；下直肌作用使瞳孔转向内下方，动眼神经支配；内直肌作用使瞳孔转向内侧，动眼神经支配；外直肌作用使瞳孔转向外侧，展神经支配。上斜肌使瞳孔转向外下方，滑车神经支配；下斜肌使瞳孔转向外上方，动眼神经支配。",
+      "explanation": "运动眼球的肌肉有四条直肌和两条斜肌。上直肌作用使瞳孔转向内上方,动眼神经支配；下直肌作用使瞳孔转向内下方，动眼神经支配；内直肌作用使瞳孔转向内侧，动眼神经支配；外直肌作用使瞳孔转向外侧，展神经支配。上斜肌使瞳孔转向外下方，滑车神经支配；下斜肌使瞳孔转向外上方，动眼神经支配。"
+    },
+    {
+      "id": "YD-MJ-042",
+      "type": "short_answer",
+      "stem": "简述视网膜中央动脉的来源、行程、分支及其分布。",
+      "options": null,
+      "answer": "视网膜中央动脉是眼动脉的一小分支。从眼动脉发起后，在眼球后方穿入视神经，行于视神经中央，从视神经盘穿出，再分为四支—视网膜鼻侧上、下动脉和视网膜颞侧上、下动脉，营养视网膜内层，但黄斑的中央凹无血管分布。另外，视网膜中央动脉还有很多分支至视神经和视神经鞘。临床常用眼底镜观察视网膜中央动脉，以帮助诊断某些疾病。",
+      "explanation": "视网膜中央动脉是眼动脉的一小分支。从眼动脉发起后，在眼球后方穿入视神经，行于视神经中央，从视神经盘穿出，再分为四支—视网膜鼻侧上、下动脉和视网膜颞侧上、下动脉，营养视网膜内层，但黄斑的中央凹无血管分布。另外，视网膜中央动脉还有很多分支至视神经和视神经鞘。临床常用眼底镜观察视网膜中央动脉，以帮助诊断某些疾病。"
+    },
+    {
+      "id": "YD-MJ-043",
+      "type": "short_answer",
+      "stem": "简述内耳中的感受器名称和功能",
+      "options": null,
+      "answer": "(1)椭圆囊斑：在椭圆囊的底和前壁上，位觉感受器，能感受直线加速或减速运动的刺激。(2)球囊斑：位于球囊的前壁上，也是位觉感受器，能感受直线加速或减速运动的刺激。(3)壶腹嵴：位于膜半规管膨大的膜壶腹的壁上，是位觉感受器，能感受旋转运动的刺激。(4)螺旋器，又称Corti器，位于基底膜上，是听觉感受器，能感受声波的刺激。",
+      "explanation": "(1)椭圆囊斑：在椭圆囊的底和前壁上，位觉感受器，能感受直线加速或减速运动的刺激。(2)球囊斑：位于球囊的前壁上，也是位觉感受器，能感受直线加速或减速运动的刺激。(3)壶腹嵴：位于膜半规管膨大的膜壶腹的壁上，是位觉感受器，能感受旋转运动的刺激。(4)螺旋器，又称Corti器，位于基底膜上，是听觉感受器，能感受声波的刺激。"
+    },
+    {
+      "id": "YD-MJ-044",
+      "type": "short_answer",
+      "stem": "结膜或角膜发炎的病人需滴眼药水，让药水与全部结膜接触该怎么滴?滴完后常要自己用手指尖把该眼内眦角处按一会儿，按的是什么结构?",
+      "options": null,
+      "answer": "滴眼药时应令病人仰头，先翻开下睑，将眼药滴入结膜下穹靠外眦侧。然后提起上睑中份令其离开眼球，再次滴药，让药液流入结膜上穹。滴药完毕按压内眦目的是把泪小管压闭，不让药液通过虹吸作用很快流走。",
+      "explanation": "滴眼药时应令病人仰头，先翻开下睑，将眼药滴入结膜下穹靠外眦侧。然后提起上睑中份令其离开眼球，再次滴药，让药液流入结膜上穹。滴药完毕按压内眦目的是把泪小管压闭，不让药液通过虹吸作用很快流走。"
+    },
+    {
+      "id": "YD-MJ-045",
+      "type": "short_answer",
+      "stem": "请解释观察成人鼓膜为什么要将耳郭向上向后拉，而观察婴儿小儿鼓膜只是向下拉？",
+      "options": null,
+      "answer": "成人的外耳道软骨性部与骨性部相接处既凸向后也凸向上成角，向后上拉，外耳道即可变直，以便看清鼓膜。婴幼儿的外耳道短直，但其鼓膜与外耳道下壁的成角较成人锐，约30度，故须向下拉。儿童则向下略向后拉。",
+      "explanation": "成人的外耳道软骨性部与骨性部相接处既凸向后也凸向上成角，向后上拉，外耳道即可变直，以便看清鼓膜。婴幼儿的外耳道短直，但其鼓膜与外耳道下壁的成角较成人锐，约30度，故须向下拉。儿童则向下略向后拉。"
+    },
+    {
+      "id": "YD-MJ-046",
+      "type": "short_answer",
+      "stem": "为什么婴幼儿比成人容易在咽喉炎之后患中耳炎? 中耳炎可能波及哪些结构？",
+      "options": null,
+      "answer": "婴幼儿的咽鼓管较成人短而平直，咽鼓管咽口与鼓室口几乎同高，咽喉炎咳嗽时感染容易进入鼓室引起中耳炎。",
+      "explanation": "婴幼儿的咽鼓管较成人短而平直，咽鼓管咽口与鼓室口几乎同高，咽喉炎咳嗽时感染容易进入鼓室引起中耳炎。"
+    },
+    {
+      "id": "YD-MJ-047",
+      "type": "essay",
+      "stem": "试述外界光线进入眼内转化为神经冲动所经过的解剖路径？依次经过的这些结构中发生哪些病变后会引起失明?",
+      "options": null,
+      "answer": "光线穿角膜→眼前房房水→瞳孔→眼后房房水→晶状体→玻璃体→视网膜内层→视网膜外层→刺激视锥、视杆细胞(感光细胞)。角膜白斑、眼内压增高、晶状体混浊、玻璃体混浊时可影响物像光线进入视网膜，均可引起失盲。此外视网膜剥离、内膜变性及黄斑出血也可引起失明。",
+      "explanation": "光线穿角膜→眼前房房水→瞳孔→眼后房房水→晶状体→玻璃体→视网膜内层→视网膜外层→刺激视锥、视杆细胞(感光细胞)。角膜白斑、眼内压增高、晶状体混浊、玻璃体混浊时可影响物像光线进入视网膜，均可引起失盲。此外视网膜剥离、内膜变性及黄斑出血也可引起失明。"
+    },
+    {
+      "id": "YD-MJ-048",
+      "type": "essay",
+      "stem": "看远物或近物时，晶状体和瞳孔如何调节使物像正好落在视网膜上?",
+      "options": null,
+      "answer": "外界物体的光线经眼的屈光装置折射，聚焦到视网膜上，才能形成清晰的物像、看清物体。眼对光线的聚焦主要通过睫状肌的收缩和舒张，从而调节晶状体凸度，调整焦距，使物像准确地投射于视网膜上。眼视近物时，首先瞳孔括约肌收缩瞳孔缩小，其次睫状肌收缩，向前牵引睫状突，睫状突前移,使睫状小带松弛，晶状体借自身弹性使凸度增加，特别是前面的曲度加大，折光能力增强，使物像聚焦于视网膜上, 因此,近物能清晰地成像于视网膜。视远物时，视远物时则与此完全相反。即睫状肌舒张，睫状小带紧张，牵拉晶状体使凸度减小，折光能力减弱，从而使远物也清晰地成像于视网膜上。",
+      "explanation": "外界物体的光线经眼的屈光装置折射，聚焦到视网膜上，才能形成清晰的物像、看清物体。眼对光线的聚焦主要通过睫状肌的收缩和舒张，从而调节晶状体凸度，调整焦距，使物像准确地投射于视网膜上。眼视近物时，首先瞳孔括约肌收缩瞳孔缩小，其次睫状肌收缩，向前牵引睫状突，睫状突前移,使睫状小带松弛，晶状体借自身弹性使凸度增加，特别是前面的曲度加大，折光能力增强，使物像聚焦于视网膜上, 因此,近物能清晰地成像于视网膜。视远物时，视远物时则与此完全相反。即睫状肌舒张，睫状小带紧张，牵拉晶状体使凸度减小，折光能力减弱，从而使远物也清晰地成像于视网膜上。"
+    },
+    {
+      "id": "YD-MJ-049",
+      "type": "essay",
+      "stem": "试述鼓室的壁以及其交通情况。",
+      "options": null,
+      "answer": "鼓室为颞骨岩部内一含气小腔，有6个壁。上壁为盖壁，也称鼓室盖，通过薄骨板与颅中窝相邻，因此鼓室炎症可侵入颅内。下壁为颈静脉壁，是分隔鼓室和腔静脉窝的薄骨板。前壁为颈动脉壁，此壁上方有咽鼓管开口。后壁为乳突壁，上部有乳突窦开口，由此向后连于乳突小房，故中耳炎化脓时可蔓延至乳突小房。外侧壁大部为鼓室壁，鼓室上方为鼓室上隐窝。中耳炎化脓时，可造成鼓膜穿孔，脓液经外耳道流出。内侧壁即迷路壁，为内耳的外壁。此壁中部隆凸，称岬，岬后方有卵圆形的前庭窗，为镫骨底封闭。岬的后下方有圆形的蜗窗，为第二鼓膜封闭。此外前庭窗后上方有弓形隆起，称面神经管凸，管内有面神经通过，面神经管凸的骨壁甚薄，在中耳炎症或施行中耳内手术时易侵及面神经。",
+      "explanation": "鼓室为颞骨岩部内一含气小腔，有6个壁。上壁为盖壁，也称鼓室盖，通过薄骨板与颅中窝相邻，因此鼓室炎症可侵入颅内。下壁为颈静脉壁，是分隔鼓室和腔静脉窝的薄骨板。前壁为颈动脉壁，此壁上方有咽鼓管开口。后壁为乳突壁，上部有乳突窦开口，由此向后连于乳突小房，故中耳炎化脓时可蔓延至乳突小房。外侧壁大部为鼓室壁，鼓室上方为鼓室上隐窝。中耳炎化脓时，可造成鼓膜穿孔，脓液经外耳道流出。内侧壁即迷路壁，为内耳的外壁。此壁中部隆凸，称岬，岬后方有卵圆形的前庭窗，为镫骨底封闭。岬的后下方有圆形的蜗窗，为第二鼓膜封闭。此外前庭窗后上方有弓形隆起，称面神经管凸，管内有面神经通过，面神经管凸的骨壁甚薄，在中耳炎症或施行中耳内手术时易侵及面神经。"
+    },
+    {
+      "id": "YD-MJ-050",
+      "type": "essay",
+      "stem": "试述咽鼓管位置、分部、通连和生理功能。为什么幼儿较易患化脓性中耳炎?",
+      "options": null,
+      "answer": "(1)咽鼓管的位置：为连通鼻咽部与鼓室之间的管道，长约3.5~4.0cm，由后外上向前下内。(2)分部，软骨部，近咽侧2/3,软骨部内侧端开口于鼻咽部的侧壁，平对下鼻甲的后方，即咽鼓管咽口。；骨部，近鼓室侧1/3,骨部即颞骨岩部的咽鼓管半管，以鼓室口开口于鼓室前壁。(3)通连，二口，咽鼓管咽口开口于鼻咽部的侧壁，平对下鼻甲后方；咽鼓管鼓室口位于鼓室前壁的上部。(4)功能：咽鼓管使鼓室和外界的大气压相等，以利鼓膜振动，咽鼓管咽口平时封闭，当吞咽或呵欠时开放，空气进入鼓室。(5)儿童咽鼓管较成人短、宽而平，故咽部感染易沿咽鼓管侵入鼓室引起化脓性中耳炎。",
+      "explanation": "(1)咽鼓管的位置：为连通鼻咽部与鼓室之间的管道，长约3.5~4.0cm，由后外上向前下内。(2)分部，软骨部，近咽侧2/3,软骨部内侧端开口于鼻咽部的侧壁，平对下鼻甲的后方，即咽鼓管咽口。；骨部，近鼓室侧1/3,骨部即颞骨岩部的咽鼓管半管，以鼓室口开口于鼓室前壁。(3)通连，二口，咽鼓管咽口开口于鼻咽部的侧壁，平对下鼻甲后方；咽鼓管鼓室口位于鼓室前壁的上部。(4)功能：咽鼓管使鼓室和外界的大气压相等，以利鼓膜振动，咽鼓管咽口平时封闭，当吞咽或呵欠时开放，空气进入鼓室。(5)儿童咽鼓管较成人短、宽而平，故咽部感染易沿咽鼓管侵入鼓室引起化脓性中耳炎。"
+    },
+    {
+      "id": "YD-MJ-051",
+      "type": "essay",
+      "stem": "声波经哪些结构而传导至内耳听觉感受器(空气传导)?",
+      "options": null,
+      "answer": "耳郭收集的声波→外耳道→鼓膜→锤骨→砧骨→镫骨→前庭窗→前庭阶外淋巴, 向下分2条途径：（1）前庭膜→蜗管内淋巴→螺旋器(听觉感受器)感受声波刺激→听神经→中枢。（2）蜗孔→鼓阶外淋巴→第二鼓膜(波动消失)。",
+      "explanation": "耳郭收集的声波→外耳道→鼓膜→锤骨→砧骨→镫骨→前庭窗→前庭阶外淋巴, 向下分2条途径：（1）前庭膜→蜗管内淋巴→螺旋器(听觉感受器)感受声波刺激→听神经→中枢。（2）蜗孔→鼓阶外淋巴→第二鼓膜(波动消失)。"
+    },
+    {
+      "id": "YD-MJ-052",
+      "type": "essay",
+      "stem": "试述眼的屈光装置。",
+      "options": null,
+      "answer": "眼的屈光系统具有屈光作用，由角膜、房水、晶状体和玻璃体组成，这些结构均透明而无血管分布。角膜占外膜的前1／6，无色透明，内含有丰富的神经末梢，但无血管。房水为无色透明液体，充满眼房内，由睫状体产生，自后房经瞳孔入眼前房，然后经虹膜角膜角入巩膜静脉窦，再汇入眼静脉。房水除屈光作用外，还与营养角膜、晶状体及维持眼内压有关。晶状体为双凸透镜状，无色透明，具有弹性，不含血管和神经。它位于虹膜和玻璃体之间，为眼屈光系统的主要装置，其作用为随着晶状体凸度的变化，使物像能聚焦于视网膜上。晶状体凸度受睫状肌收缩和舒张所调节。晶状体若因疾病或创伤而变混浊，称为白内障。玻璃体位于晶状体与视网膜之间，为无色透明的胶状物质。除屈光作用外，尚有支撑视网膜的作用，若支撑作用减弱，可导致视网膜剥离。",
+      "explanation": "眼的屈光系统具有屈光作用，由角膜、房水、晶状体和玻璃体组成，这些结构均透明而无血管分布。角膜占外膜的前1／6，无色透明，内含有丰富的神经末梢，但无血管。房水为无色透明液体，充满眼房内，由睫状体产生，自后房经瞳孔入眼前房，然后经虹膜角膜角入巩膜静脉窦，再汇入眼静脉。房水除屈光作用外，还与营养角膜、晶状体及维持眼内压有关。晶状体为双凸透镜状，无色透明，具有弹性，不含血管和神经。它位于虹膜和玻璃体之间，为眼屈光系统的主要装置，其作用为随着晶状体凸度的变化，使物像能聚焦于视网膜上。晶状体凸度受睫状肌收缩和舒张所调节。晶状体若因疾病或创伤而变混浊，称为白内障。玻璃体位于晶状体与视网膜之间，为无色透明的胶状物质。除屈光作用外，尚有支撑视网膜的作用，若支撑作用减弱，可导致视网膜剥离。"
+    },
+    {
+      "id": "YD-MJ-053",
+      "type": "essay",
+      "stem": "试述眼球壁各层分部及功能。",
+      "options": null,
+      "answer": "角膜占外膜前1／6，具有屈光作用。巩膜占外膜后5／6，由强韧的纤维结缔组织组成，具有保护作用。中膜含丰富的血管、神经和色素，呈棕黑色。虹膜位于中膜最前部，中央有圆形的瞳孔，通过瞳孔大小改变，从而调节进入眼球的光线强弱。视远物或弱光下时，瞳孔开大；视近物及强光下，瞳孔缩小。睫状体位于角膜与巩膜移行处内面，是中膜最肥厚部分，内有睫状肌，可调节晶状体的曲度。脉络膜占中膜的后2／3，其功能是输送营养物质，并吸收眼内分散的光线以免扰乱视觉。内膜又称视网膜，分两层，外层为含有大量色素细胞的色素上皮层，内层含有感光细胞等多种神经细胞。视网膜盲部无感光细胞。视部位于脉络膜内面，其中黄斑中央的中央凹是感光最敏锐的地方。",
+      "explanation": "角膜占外膜前1／6，具有屈光作用。巩膜占外膜后5／6，由强韧的纤维结缔组织组成，具有保护作用。中膜含丰富的血管、神经和色素，呈棕黑色。虹膜位于中膜最前部，中央有圆形的瞳孔，通过瞳孔大小改变，从而调节进入眼球的光线强弱。视远物或弱光下时，瞳孔开大；视近物及强光下，瞳孔缩小。睫状体位于角膜与巩膜移行处内面，是中膜最肥厚部分，内有睫状肌，可调节晶状体的曲度。脉络膜占中膜的后2／3，其功能是输送营养物质，并吸收眼内分散的光线以免扰乱视觉。内膜又称视网膜，分两层，外层为含有大量色素细胞的色素上皮层，内层含有感光细胞等多种神经细胞。视网膜盲部无感光细胞。视部位于脉络膜内面，其中黄斑中央的中央凹是感光最敏锐的地方。"
+    },
+    {
+      "id": "YD-MJ-054",
+      "type": "essay",
+      "stem": "为什么成人检查鼓膜要把耳郭拉向后上方?而检查儿童时却拉向后下方?",
+      "options": null,
+      "answer": "成人外耳道外1／3为软骨部，内2／3为骨部，两者交界处较狭窄。外耳道为一弯曲的管道，由外向内，先走向前上，次稍向后，然后向前下走行。而外耳道软骨部有可动性，故作外耳道检查时，向后上方牵拉耳郭即可拉直外耳道，从而观察鼓膜。婴幼儿外耳道骨部和软骨部发育未完全，故外耳道短而狭窄，但其鼓膜位置近水平状，故检查鼓膜时，须将耳郭向后下方牵拉。",
+      "explanation": "成人外耳道外1／3为软骨部，内2／3为骨部，两者交界处较狭窄。外耳道为一弯曲的管道，由外向内，先走向前上，次稍向后，然后向前下走行。而外耳道软骨部有可动性，故作外耳道检查时，向后上方牵拉耳郭即可拉直外耳道，从而观察鼓膜。婴幼儿外耳道骨部和软骨部发育未完全，故外耳道短而狭窄，但其鼓膜位置近水平状，故检查鼓膜时，须将耳郭向后下方牵拉。"
+    },
+    {
+      "id": "YD-MJ-055",
+      "type": "essay",
+      "stem": "眼睑由外向内可分为哪几层?",
+      "options": null,
+      "answer": "眼睑由外向内分五层，即皮肤、皮下组织、肌层、睑板及睑结膜。眼睑皮肤细薄，皮下组织疏松，肌层主要为眼轮匝肌的睑部，该肌收缩时睑裂关闭。睑板由致密结缔组织组成，睑板内由睑板腺开口于睑缘，睑板腺分泌油样液体，有润滑睑缘防止泪液外溢的作用。睑板腺阻塞形成睑板腺囊肿，亦称霰粒肿。结膜是一层薄而透明的黏膜，其深面血管和睑板腺清晰可见。",
+      "explanation": "眼睑由外向内分五层，即皮肤、皮下组织、肌层、睑板及睑结膜。眼睑皮肤细薄，皮下组织疏松，肌层主要为眼轮匝肌的睑部，该肌收缩时睑裂关闭。睑板由致密结缔组织组成，睑板内由睑板腺开口于睑缘，睑板腺分泌油样液体，有润滑睑缘防止泪液外溢的作用。睑板腺阻塞形成睑板腺囊肿，亦称霰粒肿。结膜是一层薄而透明的黏膜，其深面血管和睑板腺清晰可见。"
+    },
+    {
+      "id": "YD-MJ-056",
+      "type": "essay",
+      "stem": "试述分布于视器的神经名称、性质及其功能。",
+      "options": null,
+      "answer": "①视神经：属特殊躯体感觉神经，接受视觉。②动眼神经:躯体运动纤维：支配上睑提肌以及眼上、下、内直肌和下斜肌。副交感节前纤维：在睫状神经节换元后，节后纤维支配瞳孔括约肌和睫状肌。③滑车神经：属躯体运动神经，支配眼上斜肌。④三叉神经的眼神经：属躯体感觉神经，接受视器的一般感觉。⑤展神经：属躯体运动神经，支配眼外直肌。⑥面神经的一部分副交感节前纤维，在翼腭神经节换元后，节后纤维支配泪腺。⑦交感神经，在颈交感干颈上神经节换元后的节后纤维，经颈内动脉丛等达眶内，支配瞳孔开大肌等。",
+      "explanation": "①视神经：属特殊躯体感觉神经，接受视觉。②动眼神经:躯体运动纤维：支配上睑提肌以及眼上、下、内直肌和下斜肌。副交感节前纤维：在睫状神经节换元后，节后纤维支配瞳孔括约肌和睫状肌。③滑车神经：属躯体运动神经，支配眼上斜肌。④三叉神经的眼神经：属躯体感觉神经，接受视器的一般感觉。⑤展神经：属躯体运动神经，支配眼外直肌。⑥面神经的一部分副交感节前纤维，在翼腭神经节换元后，节后纤维支配泪腺。⑦交感神经，在颈交感干颈上神经节换元后的节后纤维，经颈内动脉丛等达眶内，支配瞳孔开大肌等。"
+    },
+    {
+      "id": "YD-MJ-057",
+      "type": "essay",
+      "stem": "试述鼓室内的重要结构有哪些？",
+      "options": null,
+      "answer": "有听小骨、韧带、肌、血管和神经。听小骨：包括锤骨、钻骨和镫骨，借骨连接连成链，两端分别连于鼓膜脐和前庭窗，可增强声波的振动力而减小振幅。韧带：听小骨韧带固定于鼓室内。鼓室内的肌：鼓膜张肌有紧张鼓膜的作用；镫骨肌收缩时使镫骨底向后外方，以减低对内耳的压力。鼓室的血管：鼓室前动脉起自上颌动脉，经岩鼓裂入鼓室；茎乳动脉发自耳后动脉，经面神经管入鼓室；鼓室上动脉和岩浅动脉均起自脑膜中动脉；鼓室下动脉起自咽升动脉；颈鼓支为颈内动脉行于颈动脉管内发出的小支。鼓室的静脉与动脉伴行，回流至翼静脉丛或岩上窦。鼓室内的神经：鼓索是面神经的分支，在鼓室内的长度约6mm；鼓室丛位于岬表面，内含感觉纤维和植物神经纤维。参加构成鼓室丛的神经有：鼓室神经起自舌咽神经的岩神经节；颈鼓神经由颈内动脉丛发出的交感神经，与颈内动脉的颈鼓支伴行；面神经的鼓室神经交通支起自膝神经节。",
+      "explanation": "有听小骨、韧带、肌、血管和神经。听小骨：包括锤骨、钻骨和镫骨，借骨连接连成链，两端分别连于鼓膜脐和前庭窗，可增强声波的振动力而减小振幅。韧带：听小骨韧带固定于鼓室内。鼓室内的肌：鼓膜张肌有紧张鼓膜的作用；镫骨肌收缩时使镫骨底向后外方，以减低对内耳的压力。鼓室的血管：鼓室前动脉起自上颌动脉，经岩鼓裂入鼓室；茎乳动脉发自耳后动脉，经面神经管入鼓室；鼓室上动脉和岩浅动脉均起自脑膜中动脉；鼓室下动脉起自咽升动脉；颈鼓支为颈内动脉行于颈动脉管内发出的小支。鼓室的静脉与动脉伴行，回流至翼静脉丛或岩上窦。鼓室内的神经：鼓索是面神经的分支，在鼓室内的长度约6mm；鼓室丛位于岬表面，内含感觉纤维和植物神经纤维。参加构成鼓室丛的神经有：鼓室神经起自舌咽神经的岩神经节；颈鼓神经由颈内动脉丛发出的交感神经，与颈内动脉的颈鼓支伴行；面神经的鼓室神经交通支起自膝神经节。"
+    },
+    {
+      "id": "YD-MJ-058",
+      "type": "essay",
+      "stem": "医生劝告人们，看书久了眼球要疲劳，须暂停下来看远方景物，让眼睛得到休息。请用所学的视器知识阐明医生所说的道理。看书时眼睛在使劲，久了要疲劳，指的是睫状肌的收缩。看近物为何睫状肌须收缩?",
+      "options": null,
+      "answer": "为的是增大晶状体的曲度。正常眼前后径的长度和晶状体的曲度，正好让看远物时的物像落到视网膜上。若物体移近而晶状体曲度不变，物像将落到视网膜之后而看不清。这时只有晶状体变凸，焦距缩短，物像才能落到视网膜上。睫状肌收缩为何晶状体变凸?原来晶状体的赤道通过睫状小带连于睫状体的内端，睫状体的外端附于巩膜，巩膜和睫状体的弹性将睫状小带绷紧，让晶状体平时处于被拉扁的状态，即看远物状态。环行的睫状肌收缩时，睫状体环的直径缩短，睫状小带放松，晶状体因其本身的弹性回位而变凸。若睫状肌放松，因巩膜和睫状体的弹性回位，睫状小带被拉紧, 晶状体又被拉扁。睫状肌长久过度地收缩将变成一种痉挛状态，使晶状体保持变凸，看远物时物像聚集于视网膜之前, 形成调节性近视。",
+      "explanation": "为的是增大晶状体的曲度。正常眼前后径的长度和晶状体的曲度，正好让看远物时的物像落到视网膜上。若物体移近而晶状体曲度不变，物像将落到视网膜之后而看不清。这时只有晶状体变凸，焦距缩短，物像才能落到视网膜上。睫状肌收缩为何晶状体变凸?原来晶状体的赤道通过睫状小带连于睫状体的内端，睫状体的外端附于巩膜，巩膜和睫状体的弹性将睫状小带绷紧，让晶状体平时处于被拉扁的状态，即看远物状态。环行的睫状肌收缩时，睫状体环的直径缩短，睫状小带放松，晶状体因其本身的弹性回位而变凸。若睫状肌放松，因巩膜和睫状体的弹性回位，睫状小带被拉紧, 晶状体又被拉扁。睫状肌长久过度地收缩将变成一种痉挛状态，使晶状体保持变凸，看远物时物像聚集于视网膜之前, 形成调节性近视。"
+    },
+    {
+      "id": "YD-MJ-059",
+      "type": "essay",
+      "stem": "联系视器解剖学结构解释近视、远视、老视、散光、白内障、青光眼、沙眼、斜视、瞳孔缩小与瞳孔散大、色盲、夜盲等疾病与何结构有关。",
+      "options": null,
+      "answer": "(1)近视：因眼球前后径比正常长或屈光物质(主要是晶状体)屈光过度，以致聚焦成像在视网膜之前。前者称轴性近视，后者称屈光性近视。 (2)远视：因眼球前后径比正常短，聚焦成像在视网膜之后，称轴性远视。 (3)老视：与晶状体有关。晶状体因年龄老化而弹性逐渐消失。看远物与正常眼无异，看近物晶状体不能变突致成像落在视网膜后面，称屈光性远视。 (4)散光：与角膜有关。角膜应是正球面，即任何一点至圆心的距离(曲率半径)都是相等的。如不相等，例如成了椭圆球面，则有的光线聚焦在视网膜上，有的则在视网膜后(或前)，致物像变形及视物不清。 (5)白内障：与晶状体有关，因代谢障碍变成混浊。 (6)青光眼：与房水有关，因产生过多或流出障碍致眼压升高，严重时视网膜受损致盲。 (7)沙眼：与结膜有关。病毒作用下结膜组织增生，滤泡形成，演变为结缔组织瘢痕，破坏泪腺输出小管和泪腺致无泪液分泌，干眼，角膜混浊致盲；或因瘢痕收缩，睫毛内翻，眨眼时刺激角膜，角膜发炎受损致盲。 (8)斜视：因屈光不正或神经受损致眼外肌收缩失衡，表现为注视时因瞳孔偏斜致头部需要偏斜。 (9)瞳孔缩小与瞳孔散大：与瞳孔括约肌和瞳孔开大肌有关，它们分别受不同的神经支配。详细讨论见中枢神经系统。 (10)色盲：与视锥细胞有关。据三原色学说，视锥细胞有三种，分别对红(700nm)、绿(540nm)、蓝(450nm)三种波长的光特别敏感，其它颜色波长介于红绿和绿蓝之间。它们将同时刺激红绿或绿蓝两组视锥细胞，传入后产生各种不同的色觉，可达150种以上。色盲是由于缺乏感受相应波长的视锥细胞所致。临床上以红绿色盲多见，蓝色盲极少。 (11)夜盲：与视杆细胞有关，人白天的视觉是由视锥细胞传入冲动完成的。在晚上它对弱光不敏感，这时靠视杆细胞取而代之。视杆细胞内含有一种感光物质叫视紫红质，遇光即分解，引起神经冲动。维生素A缺乏引起视紫红质不足，影响人在暗处时的视力，称夜盲症。",
+      "explanation": "(1)近视：因眼球前后径比正常长或屈光物质(主要是晶状体)屈光过度，以致聚焦成像在视网膜之前。前者称轴性近视，后者称屈光性近视。 (2)远视：因眼球前后径比正常短，聚焦成像在视网膜之后，称轴性远视。 (3)老视：与晶状体有关。晶状体因年龄老化而弹性逐渐消失。看远物与正常眼无异，看近物晶状体不能变突致成像落在视网膜后面，称屈光性远视。 (4)散光：与角膜有关。角膜应是正球面，即任何一点至圆心的距离(曲率半径)都是相等的。如不相等，例如成了椭圆球面，则有的光线聚焦在视网膜上，有的则在视网膜后(或前)，致物像变形及视物不清。 (5)白内障：与晶状体有关，因代谢障碍变成混浊。 (6)青光眼：与房水有关，因产生过多或流出障碍致眼压升高，严重时视网膜受损致盲。 (7)沙眼：与结膜有关。病毒作用下结膜组织增生，滤泡形成，演变为结缔组织瘢痕，破坏泪腺输出小管和泪腺致无泪液分泌，干眼，角膜混浊致盲；或因瘢痕收缩，睫毛内翻，眨眼时刺激角膜，角膜发炎受损致盲。 (8)斜视：因屈光不正或神经受损致眼外肌收缩失衡，表现为注视时因瞳孔偏斜致头部需要偏斜。 (9)瞳孔缩小与瞳孔散大：与瞳孔括约肌和瞳孔开大肌有关，它们分别受不同的神经支配。详细讨论见中枢神经系统。 (10)色盲：与视锥细胞有关。据三原色学说，视锥细胞有三种，分别对红(700nm)、绿(540nm)、蓝(450nm)三种波长的光特别敏感，其它颜色波长介于红绿和绿蓝之间。它们将同时刺激红绿或绿蓝两组视锥细胞，传入后产生各种不同的色觉，可达150种以上。色盲是由于缺乏感受相应波长的视锥细胞所致。临床上以红绿色盲多见，蓝色盲极少。 (11)夜盲：与视杆细胞有关，人白天的视觉是由视锥细胞传入冲动完成的。在晚上它对弱光不敏感，这时靠视杆细胞取而代之。视杆细胞内含有一种感光物质叫视紫红质，遇光即分解，引起神经冲动。维生素A缺乏引起视紫红质不足，影响人在暗处时的视力，称夜盲症。"
+    }
+  ]
+}

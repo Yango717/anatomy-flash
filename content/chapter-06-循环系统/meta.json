@@ -1,0 +1,364 @@
+{
+  "chapterId": "chapter-06",
+  "title": "循环系统",
+  "icon": "❤️",
+  "sections": [
+    {
+      "id": "section-07",
+      "title": "心血管系统",
+      "order": 7,
+      "subsections": [
+        {
+          "id": "sub-07-01",
+          "title": "心的位置与外形",
+          "order": 1,
+          "parts": [
+            {
+              "id": "心的位置与外形",
+              "title": "心的位置与外形",
+              "knowledgeId": "ANAT-CAR-HEA-001",
+              "importance": 88,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-07-02",
+          "title": "心腔的结构（右心房与右心室）",
+          "order": 2,
+          "parts": [
+            {
+              "id": "心腔的结构（右心房与右心室）",
+              "title": "心腔的结构（右心房与右心室）",
+              "knowledgeId": "ANAT-CAR-HEA-002",
+              "importance": 92,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-07-03",
+          "title": "心腔的结构（左心房与左心室）",
+          "order": 3,
+          "parts": [
+            {
+              "id": "心腔的结构（左心房与左心室）",
+              "title": "心腔的结构（左心房与左心室）",
+              "knowledgeId": "ANAT-CAR-HEA-003",
+              "importance": 92,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-07-04",
+          "title": "心壁的构造",
+          "order": 4,
+          "parts": [
+            {
+              "id": "心壁的构造",
+              "title": "心壁的构造",
+              "knowledgeId": "ANAT-CAR-HEA-004",
+              "importance": 88,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-07-05",
+          "title": "心传导系",
+          "order": 5,
+          "parts": [
+            {
+              "id": "心传导系",
+              "title": "心传导系",
+              "knowledgeId": "ANAT-CAR-HEA-005",
+              "importance": 92,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-07-06",
+          "title": "要点详解",
+          "order": 6,
+          "parts": [
+            {
+              "id": "要点",
+              "title": "要点",
+              "knowledgeId": "ANAT-CAR-HEA-006",
+              "importance": 88,
+              "difficulty": 2
+            }
+          ]
+        },
+        {
+          "id": "sub-07-07",
+          "title": "心包",
+          "order": 7,
+          "parts": [
+            {
+              "id": "心包",
+              "title": "心包",
+              "knowledgeId": "ANAT-CAR-HEA-007",
+              "importance": 88,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-07-08",
+          "title": "主动脉的分部",
+          "order": 8,
+          "parts": [
+            {
+              "id": "主动脉的分部",
+              "title": "主动脉的分部",
+              "knowledgeId": "ANAT-CAR-ART-001",
+              "importance": 78,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-07-09",
+          "title": "锁骨下动脉与上肢动脉",
+          "order": 9,
+          "parts": [
+            {
+              "id": "锁骨下动脉与上肢动脉",
+              "title": "锁骨下动脉与上肢动脉",
+              "knowledgeId": "ANAT-CAR-ART-003",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-07-10",
+          "title": "髂总动脉与下肢动脉",
+          "order": 10,
+          "parts": [
+            {
+              "id": "髂总动脉与下肢动脉",
+              "title": "髂总动脉与下肢动脉",
+              "knowledgeId": "ANAT-CAR-ART-006",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-07-11",
+          "title": "掌浅弓与掌深弓",
+          "order": 11,
+          "parts": [
+            {
+              "id": "掌浅弓与掌深弓",
+              "title": "掌浅弓与掌深弓",
+              "knowledgeId": "ANAT-CAR-ART-007",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-07-12",
+          "title": "上腔静脉系",
+          "order": 12,
+          "parts": [
+            {
+              "id": "上腔静脉系",
+              "title": "上腔静脉系",
+              "knowledgeId": "ANAT-CAR-VEN-001",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-07-13",
+          "title": "头颈部的静脉",
+          "order": 13,
+          "parts": [
+            {
+              "id": "头颈部的静脉",
+              "title": "头颈部的静脉",
+              "knowledgeId": "ANAT-CAR-VEN-002",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-07-14",
+          "title": "上肢的静脉",
+          "order": 14,
+          "parts": [
+            {
+              "id": "上肢的静脉",
+              "title": "上肢的静脉",
+              "knowledgeId": "ANAT-CAR-VEN-003",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-07-15",
+          "title": "奇静脉系统",
+          "order": 15,
+          "parts": [
+            {
+              "id": "奇静脉系统",
+              "title": "奇静脉系统",
+              "knowledgeId": "ANAT-CAR-VEN-004",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-07-16",
+          "title": "下腔静脉系",
+          "order": 16,
+          "parts": [
+            {
+              "id": "下腔静脉系",
+              "title": "下腔静脉系",
+              "knowledgeId": "ANAT-CAR-VEN-005",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-07-17",
+          "title": "肝门静脉系",
+          "order": 17,
+          "parts": [
+            {
+              "id": "肝门静脉系",
+              "title": "肝门静脉系",
+              "knowledgeId": "ANAT-CAR-VEN-006",
+              "importance": 92,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-07-18",
+          "title": "下肢的静脉",
+          "order": 18,
+          "parts": [
+            {
+              "id": "下肢的静脉",
+              "title": "下肢的静脉",
+              "knowledgeId": "ANAT-CAR-VEN-007",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-07-19",
+          "title": "淋巴系统的组成",
+          "order": 19,
+          "parts": [
+            {
+              "id": "淋巴系统的组成",
+              "title": "淋巴系统的组成",
+              "knowledgeId": "ANAT-CAR-LYM-001",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-07-20",
+          "title": "全身主要淋巴结群",
+          "order": 20,
+          "parts": [
+            {
+              "id": "全身主要淋巴结群",
+              "title": "全身主要淋巴结群",
+              "knowledgeId": "ANAT-CAR-LYM-002",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-07-21",
+          "title": "心的体表投影",
+          "order": 21,
+          "parts": [
+            {
+              "id": "心的体表投影",
+              "title": "心的体表投影",
+              "knowledgeId": "ANAT-CAR-HEA-008",
+              "importance": 88,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-07-22",
+          "title": "门静脉与体循环静脉的吻合",
+          "order": 22,
+          "parts": [
+            {
+              "id": "门静脉与体循环静脉的吻合",
+              "title": "门静脉与体循环静脉的吻合",
+              "knowledgeId": "ANAT-CAR-VEN-008",
+              "importance": 92,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1569 @@
+{
+  "chapterId": "chapter-01",
+  "title": "运动系统",
+  "icon": "🪲",
+  "sections": [
+    {
+      "id": "section-01",
+      "title": "骨学",
+      "order": 1,
+      "subsections": [
+        {
+          "id": "sub-01-01",
+          "title": "骨的分类",
+          "order": 1,
+          "parts": [
+            {
+              "id": "骨的分类",
+              "title": "骨的分类",
+              "knowledgeId": "ANAT-OST-GEN-001",
+              "importance": 78,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-02",
+          "title": "骨的构造",
+          "order": 2,
+          "parts": [
+            {
+              "id": "骨的构造",
+              "title": "骨的构造",
+              "knowledgeId": "ANAT-OST-GEN-002",
+              "importance": 78,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-03",
+          "title": "骨的化学成分",
+          "order": 3,
+          "parts": [
+            {
+              "id": "骨的化学成分",
+              "title": "骨的化学成分",
+              "knowledgeId": "ANAT-OST-GEN-003",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-04",
+          "title": "要点详解",
+          "order": 4,
+          "parts": [
+            {
+              "id": "要点",
+              "title": "要点",
+              "knowledgeId": "ANAT-OST-GEN-004",
+              "importance": 78,
+              "difficulty": 2
+            }
+          ]
+        },
+        {
+          "id": "sub-01-05",
+          "title": "椎骨的一般形态",
+          "order": 5,
+          "parts": [
+            {
+              "id": "椎骨的一般形态",
+              "title": "椎骨的一般形态",
+              "knowledgeId": "ANAT-OST-TRU-001",
+              "importance": 85,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-06",
+          "title": "骶骨和尾骨",
+          "order": 6,
+          "parts": [
+            {
+              "id": "骶骨和尾骨",
+              "title": "骶骨和尾骨",
+              "knowledgeId": "ANAT-OST-TRU-005",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-07",
+          "title": "寰枢关节的结构",
+          "order": 7,
+          "parts": [
+            {
+              "id": "寰枢关节的结构",
+              "title": "寰枢关节的结构",
+              "knowledgeId": "ANAT-OST-TRU-006",
+              "importance": 58,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "B"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-08",
+          "title": "胸骨的整体形态",
+          "order": 8,
+          "parts": [
+            {
+              "id": "胸骨的整体形态",
+              "title": "胸骨的整体形态",
+              "knowledgeId": "ANAT-OST-TRU-007",
+              "importance": 82,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-09",
+          "title": "肋骨的类型与结构",
+          "order": 9,
+          "parts": [
+            {
+              "id": "肋骨的类型与结构",
+              "title": "肋骨的类型与结构",
+              "knowledgeId": "ANAT-OST-TRU-008",
+              "importance": 80,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-10",
+          "title": "第1、2肋骨的特征",
+          "order": 10,
+          "parts": [
+            {
+              "id": "第1、2肋骨的特征",
+              "title": "第1、2肋骨的特征",
+              "knowledgeId": "ANAT-OST-TRU-009",
+              "importance": 80,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-11",
+          "title": "脑颅骨的组成",
+          "order": 11,
+          "parts": [
+            {
+              "id": "脑颅骨的组成",
+              "title": "脑颅骨的组成",
+              "knowledgeId": "ANAT-OST-CRA-001",
+              "importance": 85,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-12",
+          "title": "额骨的结构",
+          "order": 12,
+          "parts": [
+            {
+              "id": "额骨的结构",
+              "title": "额骨的结构",
+              "knowledgeId": "ANAT-OST-CRA-002",
+              "importance": 58,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "B"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-13",
+          "title": "筛骨的结构",
+          "order": 13,
+          "parts": [
+            {
+              "id": "筛骨的结构",
+              "title": "筛骨的结构",
+              "knowledgeId": "ANAT-OST-CRA-003",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-14",
+          "title": "蝶骨的结构",
+          "order": 14,
+          "parts": [
+            {
+              "id": "蝶骨的结构",
+              "title": "蝶骨的结构",
+              "knowledgeId": "ANAT-OST-CRA-004",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-15",
+          "title": "颞骨的结构",
+          "order": 15,
+          "parts": [
+            {
+              "id": "颞骨的结构",
+              "title": "颞骨的结构",
+              "knowledgeId": "ANAT-OST-CRA-005",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-16",
+          "title": "面颅骨的组成",
+          "order": 16,
+          "parts": [
+            {
+              "id": "面颅骨的组成",
+              "title": "面颅骨的组成",
+              "knowledgeId": "ANAT-OST-CRA-006",
+              "importance": 85,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-17",
+          "title": "上颌骨的结构",
+          "order": 17,
+          "parts": [
+            {
+              "id": "上颌骨的结构",
+              "title": "上颌骨的结构",
+              "knowledgeId": "ANAT-OST-CRA-007",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-18",
+          "title": "下颌骨的结构",
+          "order": 18,
+          "parts": [
+            {
+              "id": "下颌骨的结构",
+              "title": "下颌骨的结构",
+              "knowledgeId": "ANAT-OST-CRA-008",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-19",
+          "title": "颅的整体观-颅顶",
+          "order": 19,
+          "parts": [
+            {
+              "id": "颅的整体观-颅顶",
+              "title": "颅的整体观-颅顶",
+              "knowledgeId": "ANAT-OST-CRA-009",
+              "importance": 85,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-20",
+          "title": "颅底内面的结构",
+          "order": 20,
+          "parts": [
+            {
+              "id": "颅底内面的结构",
+              "title": "颅底内面的结构",
+              "knowledgeId": "ANAT-OST-CRA-010",
+              "importance": 85,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-21",
+          "title": "颅底外面的结构",
+          "order": 21,
+          "parts": [
+            {
+              "id": "颅底外面的结构",
+              "title": "颅底外面的结构",
+              "knowledgeId": "ANAT-OST-CRA-011",
+              "importance": 85,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-22",
+          "title": "颅侧面的结构",
+          "order": 22,
+          "parts": [
+            {
+              "id": "颅侧面的结构",
+              "title": "颅侧面的结构",
+              "knowledgeId": "ANAT-OST-CRA-012",
+              "importance": 85,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-23",
+          "title": "颅前面的结构",
+          "order": 23,
+          "parts": [
+            {
+              "id": "颅前面的结构",
+              "title": "颅前面的结构",
+              "knowledgeId": "ANAT-OST-CRA-013",
+              "importance": 85,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-24",
+          "title": "锁骨的结构",
+          "order": 24,
+          "parts": [
+            {
+              "id": "锁骨的结构",
+              "title": "锁骨的结构",
+              "knowledgeId": "ANAT-OST-UPL-001",
+              "importance": 78,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-25",
+          "title": "肩胛骨的结构",
+          "order": 25,
+          "parts": [
+            {
+              "id": "肩胛骨的结构",
+              "title": "肩胛骨的结构",
+              "knowledgeId": "ANAT-OST-UPL-002",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-26",
+          "title": "肱骨的结构",
+          "order": 26,
+          "parts": [
+            {
+              "id": "肱骨的结构",
+              "title": "肱骨的结构",
+              "knowledgeId": "ANAT-OST-UPL-003",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-27",
+          "title": "桡骨的结构",
+          "order": 27,
+          "parts": [
+            {
+              "id": "桡骨的结构",
+              "title": "桡骨的结构",
+              "knowledgeId": "ANAT-OST-UPL-004",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-28",
+          "title": "尺骨的结构",
+          "order": 28,
+          "parts": [
+            {
+              "id": "尺骨的结构",
+              "title": "尺骨的结构",
+              "knowledgeId": "ANAT-OST-UPL-005",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-29",
+          "title": "腕骨的组成与排列",
+          "order": 29,
+          "parts": [
+            {
+              "id": "腕骨的组成与排列",
+              "title": "腕骨的组成与排列",
+              "knowledgeId": "ANAT-OST-UPL-006",
+              "importance": 82,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-30",
+          "title": "掌骨和指骨",
+          "order": 30,
+          "parts": [
+            {
+              "id": "掌骨和指骨",
+              "title": "掌骨和指骨",
+              "knowledgeId": "ANAT-OST-UPL-007",
+              "importance": 58,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "B"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-31",
+          "title": "髋骨的组成",
+          "order": 31,
+          "parts": [
+            {
+              "id": "髋骨的组成",
+              "title": "髋骨的组成",
+              "knowledgeId": "ANAT-OST-LLL-001",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-32",
+          "title": "股骨的结构",
+          "order": 32,
+          "parts": [
+            {
+              "id": "股骨的结构",
+              "title": "股骨的结构",
+              "knowledgeId": "ANAT-OST-LLL-003",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-33",
+          "title": "髌骨的结构与临床",
+          "order": 33,
+          "parts": [
+            {
+              "id": "髌骨的结构与临床",
+              "title": "髌骨的结构与临床",
+              "knowledgeId": "ANAT-OST-LLL-004",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-34",
+          "title": "胫骨和腓骨的结构",
+          "order": 34,
+          "parts": [
+            {
+              "id": "胫骨和腓骨的结构",
+              "title": "胫骨和腓骨的结构",
+              "knowledgeId": "ANAT-OST-LLL-005",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-35",
+          "title": "足骨的组成",
+          "order": 35,
+          "parts": [
+            {
+              "id": "足骨的组成",
+              "title": "足骨的组成",
+              "knowledgeId": "ANAT-OST-LLL-006",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-36",
+          "title": "关节的基本构造",
+          "order": 36,
+          "parts": [
+            {
+              "id": "关节的基本构造",
+              "title": "关节的基本构造",
+              "knowledgeId": "ANAT-OST-ART-001",
+              "importance": 78,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-37",
+          "title": "关节的辅助结构",
+          "order": 37,
+          "parts": [
+            {
+              "id": "关节的辅助结构",
+              "title": "关节的辅助结构",
+              "knowledgeId": "ANAT-OST-ART-002",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-38",
+          "title": "关节的运动形式",
+          "order": 38,
+          "parts": [
+            {
+              "id": "关节的运动形式",
+              "title": "关节的运动形式",
+              "knowledgeId": "ANAT-OST-ART-003",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-39",
+          "title": "关节的分类",
+          "order": 39,
+          "parts": [
+            {
+              "id": "关节的分类",
+              "title": "关节的分类",
+              "knowledgeId": "ANAT-OST-ART-004",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-40",
+          "title": "椎骨间的连结",
+          "order": 40,
+          "parts": [
+            {
+              "id": "椎骨间的连结",
+              "title": "椎骨间的连结",
+              "knowledgeId": "ANAT-OST-TRK-001",
+              "importance": 85,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-41",
+          "title": "脊柱的整体观与功能",
+          "order": 41,
+          "parts": [
+            {
+              "id": "脊柱的整体观与功能",
+              "title": "脊柱的整体观与功能",
+              "knowledgeId": "ANAT-OST-TRK-002",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-42",
+          "title": "寰枕关节和寰枢关节",
+          "order": 42,
+          "parts": [
+            {
+              "id": "寰枕关节和寰枢关节",
+              "title": "寰枕关节和寰枢关节",
+              "knowledgeId": "ANAT-OST-TRK-003",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-43",
+          "title": "肋与椎骨的连结",
+          "order": 43,
+          "parts": [
+            {
+              "id": "肋与椎骨的连结",
+              "title": "肋与椎骨的连结",
+              "knowledgeId": "ANAT-OST-TRK-004",
+              "importance": 85,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-44",
+          "title": "肋与胸骨的连结",
+          "order": 44,
+          "parts": [
+            {
+              "id": "肋与胸骨的连结",
+              "title": "肋与胸骨的连结",
+              "knowledgeId": "ANAT-OST-TRK-005",
+              "importance": 82,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-45",
+          "title": "胸廓的组成与形态",
+          "order": 45,
+          "parts": [
+            {
+              "id": "胸廓的组成与形态",
+              "title": "胸廓的组成与形态",
+              "knowledgeId": "ANAT-OST-TRK-006",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-46",
+          "title": "胸锁关节",
+          "order": 46,
+          "parts": [
+            {
+              "id": "胸锁关节",
+              "title": "胸锁关节",
+              "knowledgeId": "ANAT-OST-ULC-001",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-47",
+          "title": "肩锁关节",
+          "order": 47,
+          "parts": [
+            {
+              "id": "肩锁关节",
+              "title": "肩锁关节",
+              "knowledgeId": "ANAT-OST-ULC-002",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-48",
+          "title": "肩关节的结构与运动",
+          "order": 48,
+          "parts": [
+            {
+              "id": "肩关节的结构与运动",
+              "title": "肩关节的结构与运动",
+              "knowledgeId": "ANAT-OST-ULC-003",
+              "importance": 92,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-49",
+          "title": "肘关节的结构与运动",
+          "order": 49,
+          "parts": [
+            {
+              "id": "肘关节的结构与运动",
+              "title": "肘关节的结构与运动",
+              "knowledgeId": "ANAT-OST-ULC-004",
+              "importance": 88,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-50",
+          "title": "桡尺连结",
+          "order": 50,
+          "parts": [
+            {
+              "id": "桡尺连结",
+              "title": "桡尺连结",
+              "knowledgeId": "ANAT-OST-ULC-005",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-51",
+          "title": "手关节的组成",
+          "order": 51,
+          "parts": [
+            {
+              "id": "手关节的组成",
+              "title": "手关节的组成",
+              "knowledgeId": "ANAT-OST-ULC-006",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-52",
+          "title": "骶髂关节",
+          "order": 52,
+          "parts": [
+            {
+              "id": "骶髂关节",
+              "title": "骶髂关节",
+              "knowledgeId": "ANAT-OST-LLC-001",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-53",
+          "title": "耻骨联合与骨盆",
+          "order": 53,
+          "parts": [
+            {
+              "id": "耻骨联合与骨盆",
+              "title": "耻骨联合与骨盆",
+              "knowledgeId": "ANAT-OST-LLC-002",
+              "importance": 88,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-54",
+          "title": "骨盆的性别差异与测量",
+          "order": 54,
+          "parts": [
+            {
+              "id": "骨盆的性别差异与测量",
+              "title": "骨盆的性别差异与测量",
+              "knowledgeId": "ANAT-OST-LLC-003",
+              "importance": 88,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-55",
+          "title": "髋关节的结构与运动",
+          "order": 55,
+          "parts": [
+            {
+              "id": "髋关节的结构与运动",
+              "title": "髋关节的结构与运动",
+              "knowledgeId": "ANAT-OST-LLC-004",
+              "importance": 90,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-56",
+          "title": "膝关节的结构与运动",
+          "order": 56,
+          "parts": [
+            {
+              "id": "膝关节的结构与运动",
+              "title": "膝关节的结构与运动",
+              "knowledgeId": "ANAT-OST-LLC-005",
+              "importance": 92,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-57",
+          "title": "小腿骨间膜与踝关节",
+          "order": 57,
+          "parts": [
+            {
+              "id": "小腿骨间膜与踝关节",
+              "title": "小腿骨间膜与踝关节",
+              "knowledgeId": "ANAT-OST-LLC-006",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-58",
+          "title": "足关节与足弓",
+          "order": 58,
+          "parts": [
+            {
+              "id": "足关节与足弓",
+              "title": "足关节与足弓",
+              "knowledgeId": "ANAT-OST-LLC-007",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-01-59",
+          "title": "骨的发生与骨龄",
+          "order": 59,
+          "parts": [
+            {
+              "id": "骨的发生与骨龄",
+              "title": "骨的发生与骨龄",
+              "knowledgeId": "ANAT-OST-GEN-005",
+              "importance": 58,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-02",
+      "title": "肌学",
+      "order": 2,
+      "subsections": [
+        {
+          "id": "sub-02-01",
+          "title": "骨骼肌的构造与分类",
+          "order": 1,
+          "parts": [
+            {
+              "id": "骨骼肌的构造与分类",
+              "title": "骨骼肌的构造与分类",
+              "knowledgeId": "ANAT-MUS-GEN-001",
+              "importance": 78,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-02",
+          "title": "骨骼肌的辅助结构",
+          "order": 2,
+          "parts": [
+            {
+              "id": "骨骼肌的辅助结构",
+              "title": "骨骼肌的辅助结构",
+              "knowledgeId": "ANAT-MUS-GEN-002",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-03",
+          "title": "骨骼肌的起止与作用",
+          "order": 3,
+          "parts": [
+            {
+              "id": "骨骼肌的起止与作用",
+              "title": "骨骼肌的起止与作用",
+              "knowledgeId": "ANAT-MUS-GEN-003",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-04",
+          "title": "肌的配布规律",
+          "order": 4,
+          "parts": [
+            {
+              "id": "肌的配布规律",
+              "title": "肌的配布规律",
+              "knowledgeId": "ANAT-MUS-GEN-004",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-05",
+          "title": "面肌的名称与分布",
+          "order": 5,
+          "parts": [
+            {
+              "id": "面肌的名称与分布",
+              "title": "面肌的名称与分布",
+              "knowledgeId": "ANAT-MUS-HEA-001",
+              "importance": 78,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-06",
+          "title": "咀嚼肌的名称位置与作用",
+          "order": 6,
+          "parts": [
+            {
+              "id": "咀嚼肌的名称位置与作用",
+              "title": "咀嚼肌的名称位置与作用",
+              "knowledgeId": "ANAT-MUS-HEA-002",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-07",
+          "title": "颅顶肌与睑板肌",
+          "order": 7,
+          "parts": [
+            {
+              "id": "颅顶肌与睑板肌",
+              "title": "颅顶肌与睑板肌",
+              "knowledgeId": "ANAT-MUS-HEA-003",
+              "importance": 85,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-08",
+          "title": "颈浅肌群",
+          "order": 8,
+          "parts": [
+            {
+              "id": "颈浅肌群",
+              "title": "颈浅肌群",
+              "knowledgeId": "ANAT-MUS-NEC-001",
+              "importance": 78,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-09",
+          "title": "颈外侧肌群（舌骨上、下肌群）",
+          "order": 9,
+          "parts": [
+            {
+              "id": "颈外侧肌群（舌骨上、下肌群）",
+              "title": "颈外侧肌群（舌骨上、下肌群）",
+              "knowledgeId": "ANAT-MUS-NEC-002",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-10",
+          "title": "颈深肌群",
+          "order": 10,
+          "parts": [
+            {
+              "id": "颈深肌群",
+              "title": "颈深肌群",
+              "knowledgeId": "ANAT-MUS-NEC-003",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-11",
+          "title": "背浅肌群",
+          "order": 11,
+          "parts": [
+            {
+              "id": "背浅肌群",
+              "title": "背浅肌群",
+              "knowledgeId": "ANAT-MUS-BAC-001",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-12",
+          "title": "背深肌群与竖脊肌",
+          "order": 12,
+          "parts": [
+            {
+              "id": "背深肌群与竖脊肌",
+              "title": "背深肌群与竖脊肌",
+              "knowledgeId": "ANAT-MUS-BAC-002",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-13",
+          "title": "胸腰筋膜",
+          "order": 13,
+          "parts": [
+            {
+              "id": "胸腰筋膜",
+              "title": "胸腰筋膜",
+              "knowledgeId": "ANAT-MUS-BAC-003",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-14",
+          "title": "胸大肌的位置与作用",
+          "order": 14,
+          "parts": [
+            {
+              "id": "胸大肌的位置与作用",
+              "title": "胸大肌的位置与作用",
+              "knowledgeId": "ANAT-MUS-THO-001",
+              "importance": 78,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-15",
+          "title": "胸小肌与前锯肌",
+          "order": 15,
+          "parts": [
+            {
+              "id": "胸小肌与前锯肌",
+              "title": "胸小肌与前锯肌",
+              "knowledgeId": "ANAT-MUS-THO-002",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-16",
+          "title": "肋间肌",
+          "order": 16,
+          "parts": [
+            {
+              "id": "肋间肌",
+              "title": "肋间肌",
+              "knowledgeId": "ANAT-MUS-THO-003",
+              "importance": 80,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-17",
+          "title": "要点详解",
+          "order": 17,
+          "parts": [
+            {
+              "id": "要点",
+              "title": "要点",
+              "knowledgeId": "ANAT-MUS-DIA-001",
+              "importance": 92,
+              "difficulty": 2
+            }
+          ]
+        },
+        {
+          "id": "sub-02-18",
+          "title": "膈的功能与临床",
+          "order": 18,
+          "parts": [
+            {
+              "id": "膈的功能与临床",
+              "title": "膈的功能与临床",
+              "knowledgeId": "ANAT-MUS-DIA-002",
+              "importance": 90,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-19",
+          "title": "腹直肌与腹直肌鞘",
+          "order": 19,
+          "parts": [
+            {
+              "id": "腹直肌与腹直肌鞘",
+              "title": "腹直肌与腹直肌鞘",
+              "knowledgeId": "ANAT-MUS-ABD-001",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-20",
+          "title": "腹外斜肌与腹内斜肌",
+          "order": 20,
+          "parts": [
+            {
+              "id": "腹外斜肌与腹内斜肌",
+              "title": "腹外斜肌与腹内斜肌",
+              "knowledgeId": "ANAT-MUS-ABD-002",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-21",
+          "title": "腹横肌与腹肌的作用",
+          "order": 21,
+          "parts": [
+            {
+              "id": "腹横肌与腹肌的作用",
+              "title": "腹横肌与腹肌的作用",
+              "knowledgeId": "ANAT-MUS-ABD-003",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-22",
+          "title": "肩带肌（肩袖）",
+          "order": 22,
+          "parts": [
+            {
+              "id": "肩带肌（肩袖）",
+              "title": "肩带肌（肩袖）",
+              "knowledgeId": "ANAT-MUS-UPM-001",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-23",
+          "title": "臂肌（前群）",
+          "order": 23,
+          "parts": [
+            {
+              "id": "臂肌（前群）",
+              "title": "臂肌（前群）",
+              "knowledgeId": "ANAT-MUS-UPM-002",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-24",
+          "title": "臂肌（后群）与前臂屈肌群",
+          "order": 24,
+          "parts": [
+            {
+              "id": "臂肌（后群）与前臂屈肌群",
+              "title": "臂肌（后群）与前臂屈肌群",
+              "knowledgeId": "ANAT-MUS-UPM-003",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-25",
+          "title": "前臂伸肌群与手肌",
+          "order": 25,
+          "parts": [
+            {
+              "id": "前臂伸肌群与手肌",
+              "title": "前臂伸肌群与手肌",
+              "knowledgeId": "ANAT-MUS-UPM-004",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-26",
+          "title": "骨间掌侧肌与骨间背侧肌",
+          "order": 26,
+          "parts": [
+            {
+              "id": "骨间掌侧肌与骨间背侧肌",
+              "title": "骨间掌侧肌与骨间背侧肌",
+              "knowledgeId": "ANAT-MUS-UPM-005",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-27",
+          "title": "髂肌与腰大肌",
+          "order": 27,
+          "parts": [
+            {
+              "id": "髂肌与腰大肌",
+              "title": "髂肌与腰大肌",
+              "knowledgeId": "ANAT-MUS-LWM-001",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-28",
+          "title": "臀大肌与髋关节外旋肌群",
+          "order": 28,
+          "parts": [
+            {
+              "id": "臀大肌与髋关节外旋肌群",
+              "title": "臀大肌与髋关节外旋肌群",
+              "knowledgeId": "ANAT-MUS-LWM-002",
+              "importance": 90,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-29",
+          "title": "臀中肌与臀小肌",
+          "order": 29,
+          "parts": [
+            {
+              "id": "臀中肌与臀小肌",
+              "title": "臀中肌与臀小肌",
+              "knowledgeId": "ANAT-MUS-LWM-003",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-30",
+          "title": "大腿前群肌（股四头肌）",
+          "order": 30,
+          "parts": [
+            {
+              "id": "大腿前群肌（股四头肌）",
+              "title": "大腿前群肌（股四头肌）",
+              "knowledgeId": "ANAT-MUS-LWM-004",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-31",
+          "title": "大腿内侧群肌",
+          "order": 31,
+          "parts": [
+            {
+              "id": "大腿内侧群肌",
+              "title": "大腿内侧群肌",
+              "knowledgeId": "ANAT-MUS-LWM-005",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-32",
+          "title": "大腿后群肌（腘绳肌）",
+          "order": 32,
+          "parts": [
+            {
+              "id": "大腿后群肌（腘绳肌）",
+              "title": "大腿后群肌（腘绳肌）",
+              "knowledgeId": "ANAT-MUS-LWM-006",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-33",
+          "title": "小腿前群肌",
+          "order": 33,
+          "parts": [
+            {
+              "id": "小腿前群肌",
+              "title": "小腿前群肌",
+              "knowledgeId": "ANAT-MUS-LWM-007",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-34",
+          "title": "小腿外侧群肌",
+          "order": 34,
+          "parts": [
+            {
+              "id": "小腿外侧群肌",
+              "title": "小腿外侧群肌",
+              "knowledgeId": "ANAT-MUS-LWM-008",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-35",
+          "title": "小腿后群肌（浅层：小腿三头肌）",
+          "order": 35,
+          "parts": [
+            {
+              "id": "小腿后群肌（浅层：小腿三头肌）",
+              "title": "小腿后群肌（浅层：小腿三头肌）",
+              "knowledgeId": "ANAT-MUS-LWM-009",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-36",
+          "title": "小腿后群肌（深层）",
+          "order": 36,
+          "parts": [
+            {
+              "id": "小腿后群肌（深层）",
+              "title": "小腿后群肌（深层）",
+              "knowledgeId": "ANAT-MUS-LWM-010",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-37",
+          "title": "足肌",
+          "order": 37,
+          "parts": [
+            {
+              "id": "足肌",
+              "title": "足肌",
+              "knowledgeId": "ANAT-MUS-LWM-011",
+              "importance": 58,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "B"
+            }
+          ]
+        },
+        {
+          "id": "sub-02-38",
+          "title": "肌的命名规律",
+          "order": 38,
+          "parts": [
+            {
+              "id": "肌的命名规律",
+              "title": "肌的命名规律",
+              "knowledgeId": "ANAT-MUS-GEN-005",
+              "importance": 58,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "B"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

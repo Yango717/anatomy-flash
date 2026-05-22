@@ -1,0 +1,220 @@
+{
+  "chapterId": "chapter-03",
+  "title": "呼吸系统",
+  "icon": "🫁",
+  "sections": [
+    {
+      "id": "section-04",
+      "title": "呼吸系统",
+      "order": 4,
+      "subsections": [
+        {
+          "id": "sub-04-01",
+          "title": "鼻腔的分部与鼻中隔",
+          "order": 1,
+          "parts": [
+            {
+              "id": "鼻腔的分部与鼻中隔",
+              "title": "鼻腔的分部与鼻中隔",
+              "knowledgeId": "ANAT-RES-NAS-001",
+              "importance": 82,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-04-02",
+          "title": "鼻旁窦的位置与开口",
+          "order": 2,
+          "parts": [
+            {
+              "id": "鼻旁窦的位置与开口",
+              "title": "鼻旁窦的位置与开口",
+              "knowledgeId": "ANAT-RES-NAS-002",
+              "importance": 88,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-04-03",
+          "title": "要点详解",
+          "order": 3,
+          "parts": [
+            {
+              "id": "要点",
+              "title": "要点",
+              "knowledgeId": "ANAT-RES-NAS-003",
+              "importance": 80,
+              "difficulty": 2
+            }
+          ]
+        },
+        {
+          "id": "sub-04-04",
+          "title": "喉软骨的组成",
+          "order": 4,
+          "parts": [
+            {
+              "id": "喉软骨的组成",
+              "title": "喉软骨的组成",
+              "knowledgeId": "ANAT-RES-LAR-004",
+              "importance": 82,
+              "difficulty": 1,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-04-05",
+          "title": "喉连结",
+          "order": 5,
+          "parts": [
+            {
+              "id": "喉连结",
+              "title": "喉连结",
+              "knowledgeId": "ANAT-RES-LAR-005",
+              "importance": 88,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-04-06",
+          "title": "喉腔的分部",
+          "order": 6,
+          "parts": [
+            {
+              "id": "喉腔的分部",
+              "title": "喉腔的分部",
+              "knowledgeId": "ANAT-RES-LAR-007",
+              "importance": 80,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-04-07",
+          "title": "气管的位置与结构",
+          "order": 7,
+          "parts": [
+            {
+              "id": "气管的位置与结构",
+              "title": "气管的位置与结构",
+              "knowledgeId": "ANAT-RES-TRA-008",
+              "importance": 82,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-04-08",
+          "title": "左右主支气管的特点",
+          "order": 8,
+          "parts": [
+            {
+              "id": "左右主支气管的特点",
+              "title": "左右主支气管的特点",
+              "knowledgeId": "ANAT-RES-BRN-009",
+              "importance": 92,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "S"
+            }
+          ]
+        },
+        {
+          "id": "sub-04-09",
+          "title": "肺的形态与分叶",
+          "order": 9,
+          "parts": [
+            {
+              "id": "肺的形态与分叶",
+              "title": "肺的形态与分叶",
+              "knowledgeId": "ANAT-RES-LUN-010",
+              "importance": 85,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-04-10",
+          "title": "肺门与肺根",
+          "order": 10,
+          "parts": [
+            {
+              "id": "肺门与肺根",
+              "title": "肺门与肺根",
+              "knowledgeId": "ANAT-RES-LUN-011",
+              "importance": 80,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-04-11",
+          "title": "胸膜的分部",
+          "order": 11,
+          "parts": [
+            {
+              "id": "胸膜的分部",
+              "title": "胸膜的分部",
+              "knowledgeId": "ANAT-RES-PLE-013",
+              "importance": 78,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-04-12",
+          "title": "胸膜腔与胸膜隐窝",
+          "order": 12,
+          "parts": [
+            {
+              "id": "胸膜腔与胸膜隐窝",
+              "title": "胸膜腔与胸膜隐窝",
+              "knowledgeId": "ANAT-RES-PLE-014",
+              "importance": 85,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-04-13",
+          "title": "纵隔的分部",
+          "order": 13,
+          "parts": [
+            {
+              "id": "纵隔的分部",
+              "title": "纵隔的分部",
+              "knowledgeId": "ANAT-RES-MED-016",
+              "importance": 70,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "B"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

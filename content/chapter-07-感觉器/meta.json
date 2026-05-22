@@ -1,0 +1,188 @@
+{
+  "chapterId": "chapter-07",
+  "title": "感觉器",
+  "icon": "👁",
+  "sections": [
+    {
+      "id": "section-08",
+      "title": "感觉器",
+      "order": 8,
+      "subsections": [
+        {
+          "id": "sub-08-01",
+          "title": "眼球壁的结构",
+          "order": 1,
+          "parts": [
+            {
+              "id": "眼球壁的结构",
+              "title": "眼球壁的结构",
+              "knowledgeId": "ANAT-SEN-EYE-001",
+              "importance": 82,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-08-02",
+          "title": "要点详解",
+          "order": 2,
+          "parts": [
+            {
+              "id": "要点",
+              "title": "要点",
+              "knowledgeId": "ANAT-SEN-EYE-002",
+              "importance": 80,
+              "difficulty": 2
+            }
+          ]
+        },
+        {
+          "id": "sub-08-03",
+          "title": "视网膜",
+          "order": 3,
+          "parts": [
+            {
+              "id": "视网膜",
+              "title": "视网膜",
+              "knowledgeId": "ANAT-SEN-EYE-005",
+              "importance": 85,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-08-04",
+          "title": "眼睑的结构",
+          "order": 4,
+          "parts": [
+            {
+              "id": "眼睑的结构",
+              "title": "眼睑的结构",
+              "knowledgeId": "ANAT-SEN-EYE-009",
+              "importance": 68,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "B"
+            }
+          ]
+        },
+        {
+          "id": "sub-08-05",
+          "title": "泪器",
+          "order": 5,
+          "parts": [
+            {
+              "id": "泪器",
+              "title": "泪器",
+              "knowledgeId": "ANAT-SEN-EYE-011",
+              "importance": 65,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "B"
+            }
+          ]
+        },
+        {
+          "id": "sub-08-06",
+          "title": "眼球外肌",
+          "order": 6,
+          "parts": [
+            {
+              "id": "眼球外肌",
+              "title": "眼球外肌",
+              "knowledgeId": "ANAT-SEN-EYE-012",
+              "importance": 82,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-08-07",
+          "title": "外耳的结构",
+          "order": 7,
+          "parts": [
+            {
+              "id": "外耳的结构",
+              "title": "外耳的结构",
+              "knowledgeId": "ANAT-SEN-EAR-014",
+              "importance": 68,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "B"
+            }
+          ]
+        },
+        {
+          "id": "sub-08-08",
+          "title": "鼓室",
+          "order": 8,
+          "parts": [
+            {
+              "id": "鼓室",
+              "title": "鼓室",
+              "knowledgeId": "ANAT-SEN-EAR-016",
+              "importance": 82,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-08-09",
+          "title": "内耳的结构",
+          "order": 9,
+          "parts": [
+            {
+              "id": "内耳的结构",
+              "title": "内耳的结构",
+              "knowledgeId": "ANAT-SEN-EAR-019",
+              "importance": 82,
+              "difficulty": 2,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-08-10",
+          "title": "声音的传导",
+          "order": 10,
+          "parts": [
+            {
+              "id": "声音的传导",
+              "title": "声音的传导",
+              "knowledgeId": "ANAT-SEN-EAR-021",
+              "importance": 85,
+              "difficulty": 3,
+              "canTest": "高",
+              "freqLevel": "A"
+            }
+          ]
+        },
+        {
+          "id": "sub-08-11",
+          "title": "皮肤",
+          "order": 11,
+          "parts": [
+            {
+              "id": "皮肤",
+              "title": "皮肤",
+              "knowledgeId": "ANAT-SEN-SEN-025",
+              "importance": 50,
+              "difficulty": 1,
+              "canTest": "中",
+              "freqLevel": "C"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
