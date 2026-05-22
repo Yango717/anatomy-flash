@@ -12,27 +12,9 @@
     <link rel="manifest" href="/manifest.json" />
     <link rel="icon" type="image/svg+xml" href="/icon.svg" />
     <link rel="apple-touch-icon" href="/icon.svg" />
-    <style>
-      #af-debug {
-        position: fixed; top: 0; left: 0; right: 0; z-index: 99999;
-        background: #1a1a2e; color: #eee; font: 12px monospace;
-        padding: 8px 12px; max-height: 200px; overflow-y: auto;
-        border-bottom: 2px solid #e74c3c;
-      }
-      #af-debug .ok { color: #2ecc71; }
-      #af-debug .err { color: #e74c3c; }
-      #af-debug .warn { color: #f39c12; }
-    </style>
   </head>
   <body>
-    <div id="af-debug"><div>Boot: waiting for JS...</div></div>
     <div id="root"></div>
-    <script>
-      window._afLog = function(msg, cls) { var d=document.getElementById('af-debug'); d.innerHTML+='<div class="'+cls+'">'+msg+'</div>'; };
-      window._afLog('Boot: HTML loaded', 'ok');
-      window.onerror = function(m,s,l,c,e) { window._afLog('JS ERROR: '+m+' at '+s+':'+l, 'err'); };
-      window.addEventListener('unhandledrejection', function(e) { window._afLog('PROMISE ERROR: '+e.reason?.message||e.reason, 'err'); });
-    </script>
     <script type="module" src="/src/main.jsx"></script>
     <script>
       if ('serviceWorker' in navigator) {

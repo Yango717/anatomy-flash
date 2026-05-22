@@ -3,9 +3,13 @@
   "version": "0.4.0",
   "private": true,
   "scripts": {
-    "dev": "cd client && npm run dev",
+    "dev": "node server/index.js & cd client && npm run dev",
     "build": "cd client && npm install && npm run build",
-    "dev:full": "cd server && npm install && node index.js & cd client && npm run dev",
-    "install:all": "cd client && npm install"
+    "install:all": "npm install && cd client && npm install && cd ../server && npm install"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "cors": "^2.8.5",
+    "sql.js": "^1.10.0"
   }
 }
